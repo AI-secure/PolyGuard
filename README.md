@@ -10,6 +10,7 @@ This domain includes messaging/posting platforms (e.g., Instagram, X), streaming
 
 Running evaluation on guardrail models:
 ```
+cd social_media
 sh run.sh
 ```
 
@@ -17,6 +18,7 @@ Results are then stored at ``./results/{SUBDOMAIN}/``.
 
 Running evaluation on attack-enhanced scenarios:
 ```
+cd social_media
 sh attack.sh
 ```
 
