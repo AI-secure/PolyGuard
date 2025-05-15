@@ -1,0 +1,93 @@
+Reddit’s mission is to bring community, belonging, and empowerment to everyone in the world. Moderators are key to making this happen: you are at the frontlines using your creativity, decision-making, and passion to create fun and engaging spaces for redditors. The Moderator Code of Conduct serves to clarify our expectations of mods, help you develop subreddit rules and norms to create and nurture your communities, and empower you to make decisions more easily.
+
+Your role as a moderator is an important one in shaping a positive community experience. Whether you’re new to moderating, or have been moderating for years, our goal is to make sure you feel safe and supported.
+
+We also expect that moderators uphold the Reddit Rules and abide by Reddit’s User Agreement (especially Section 8), as well as make a concerted effort to remove and report violating content in their communities.
+
+Remember, your subreddit and moderator team can be held accountable for individual moderator actions. Given this, it’s important to continuously collaborate with your fellow mods to understand and adhere to the Moderator Code of Conduct. If you have any questions, please don’t hesitate to let us know.
+
+TL;DR: If you follow the tenets below, we’ll stay out of your hair. If you don't, we'll reach out to remedy any issues.
+
+Rule 1: Create, Facilitate, and Maintain a Stable Community
+Moderators are expected to uphold the Reddit Rules by setting community rules, norms, and expectations that abide by our site policies. Your role as a moderator means that you not only abide by our terms and the Reddit Rules, but that you actively strive to promote a community that abides by them, as well. This means that you should never create, approve, enable or encourage rule-breaking content or behavior. The content in your subreddit that is subject to the Reddit Rules includes, but is not limited to:
+
+Posts
+Comments
+Flairs
+Rules
+Wiki Pages
+Styling
+Welcome Messages
+Modmails
+Rule 2: Set Appropriate and Reasonable Expectations
+Users who enter your community should know exactly what they’re getting into, and should not be surprised by what they encounter. It is critical to be transparent about what your community is and what your rules are in order to create stable and dynamic engagement among redditors. Moderators can ensure people have predictable experiences on Reddit by doing the following:
+
+Providing a clear and concise description of the topic(s) discussed by your community.
+Respecting your community and co-moderators. Your community may evolve over time, but we expect that you will strive to keep it stable and usable.
+Accurately labeling content and communities, particularly content reserved for mature/18+ audiences (e.g. sexually explicit).
+Creating rules that explicitly outline your expectations for members of your community.
+Clearly denoting that your community is “unofficial” if your community topic concerns a brand or organization, and the company isn’t officially affiliated.
+Clearly denoting that your community is “official” if your community topic concerns a brand or company and the community is officially affiliated.
+Rule 3: Respect Your Neighbors
+While we allow meta discussions about Reddit, including other subreddits, your community should not be used to direct, coordinate, or encourage interference in other communities and/or to target redditors for harassment. As a moderator, you cannot interfere with or disrupt Reddit communities, nor can you facilitate, encourage, coordinate, or enable members of your community to do this.
+
+Interference includes:
+
+Mentioning other communities, and/or content or users in those communities, with the effect of inciting targeted harassment or abuse.
+Enabling or encouraging users to violate our Reddit Rules anywhere on the Reddit platform.
+Enabling or encouraging users in your community to post or repost content in other communities that is expressly against their rules.
+Enabling or encouraging content that showcases when users are banned or actioned in other communities, with the intent to incite a negative reaction.
+Rule 4: Be Active and Engaged
+Whether your community is big or small, it is important for communities to be actively and consistently moderated. This will ensure that issues are being addressed, and that redditors feel safe as a result. Being active and engaged means that:
+
+You have enough Mods to effectively and consistently manage your community. This involves regularly monitoring and addressing content in ModQueue and ModMail and, if possible, actively engaging with your community via posts, comments, and voting.
+Camping or sitting on a community is discouraged.
+Rule 5: Moderate with Integrity
+Users expect that content in communities is authentic, and trust that moderators make choices about content based on community and sitewide rules.
+
+In order to maintain that trust, moderators are prohibited from taking moderation actions (including actions taken using mod tools, bots, and other services) in exchange for any form of compensation, consideration, gift, or favor from or on behalf of third parties.
+
+Some examples of moderator actions include, but are not limited to:
+
+Banning or unbanning users
+Granting approved user status
+Removing or approving content
+Edits to sidebars, widget, wikis, or other styling
+Granting flairs
+Granting approved submitter status or access to post in a subreddit
+Creating “ad space” in a community, such as offering to pin posts for a fee or offering to use subreddit styling to advertise for a third party
+Sending moderator invites or transferring ownership of a subreddit
+Some examples of compensation include, but are not limited to:
+
+Financial goods and/or services (e.g., cash payments, NFTs, stocks, gift cards)
+Purchasable Reddit goods and/or services (e.g., Premium, Gold, Collectible Avatars)
+Physical goods and/or services (e.g., merchandise, sponsored trips, requested items)
+Considerations and/or favors (e.g., special mentions from a company, promises of incentivized treatment)
+Personal services or access to content (e.g., subscriptions, exclusive content)
+Events and engagements with third parties, activity in your subreddit from a brand or company, or employees of a company starting and/or maintaining a subreddit are allowed, so long as no compensation is received.
+
+Moderator Code of Conduct: Enforcement
+We will strive to work with you to resolve issues without having to resort to restrictive measures. In most cases, we can achieve resolution and understanding through discussion, not remediation.
+
+If an Admin reaches out to let you know that you’ve violated the Moderator Code of Conduct, your cooperation and swift responsiveness can help to resolve the issue. Many issues can be resolved easily by, for example, updating the community rules, engaging in active moderation, and adding more moderators. You are welcome to ask questions and seek clarity.
+
+If we find the issues to be unresolvable via educational outreach or moderators refuse to collaborate or abide by the CoC, we may consider the following enforcement actions:
+
+Issuing warnings
+Removing rule-breaking content or subreddit styling
+Removing moderators from a community
+Adjusting subreddit settings or access to tools, such as NSFW tags, the spam filter, or other content controls
+Seeking new moderators or allowing a community to be adopted
+Prohibiting a moderator from joining additional moderator teams or creating new subreddits
+Removing privileges from, or adding restrictions to, accounts
+Temporary or permanent account suspensions
+Banning communities
+Moderator Resources
+We understand that moderating a community can be a challenge. The resources below can greatly assist you in curating a strong, stable community:
+
+Reddit’s Mod Help Center
+Communities for Moderators
+Programs and Initiatives for Moderators
+r/ModSupport: An official community to provide a point of contact for moderators to discuss issues with Reddit admins, mostly related to mod tools.
+Reddit for Community
+To file a Moderator Code of Conduct report, please use this form.

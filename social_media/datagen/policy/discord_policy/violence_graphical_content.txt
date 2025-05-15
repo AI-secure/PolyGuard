@@ -1,0 +1,22 @@
+Violence and Graphic Content Policy Explainer
+Violent and Graphic Media
+At Discord, we are committed to creating a safe and positive online environment. We do not allow the uploading or sharing of any material depicting real violence, gore, or animal cruelty. Violent and graphic media can include various forms of content, such as portraying death or injury, showing detailed physical harm happening to individuals, or depicting the infliction of pain, fear, or distress to animals.
+
+Glorification and Incitement of Violence
+The glorification and incitement of acts of violence pose a serious threat to the well-being and mental health of individuals, as well as the safety of our communities on and off Discord. We have a strict policy against any form of threats or harm towards others. We may escalate threats to law enforcement if we believe it is required to prevent immediate harm.
+
+“Glorification of violence” refers to the act of admiring or celebrating acts of physical harm towards humans that cause death, injury, or harm. “Incitement” of violence includes organizing, coordinating, promoting, or encouraging acts of violence to be carried out.
+
+How to Avoid Violating These Policies
+If you are not sure whether a piece of content might violate these policies, don’t post it
+Do not share media depicting graphic content
+Do not glorify dangerous organizations, mass murderers, or serial killers
+Do not engage in the incitement, glorification, or celebration of violence (including sexual violence) against individuals or groups of people
+Do not celebrate, advocate, or promote swatting of others
+Please leave servers dedicated to any of the violative content described above. Discord may also take action against accounts that are present in violative servers.
+
+How to Report Violations of These Policies
+Reporting safety violations is critically important to keeping you and the broader Discord community safe. All Discord users can report policy violations in the app by following the instructions here. For more information on these policies, please reference our Community Guidelines #5 and #12.
+
+Resources
+If you or another user is in immediate danger, please contact law enforcement right away and let them know what's going on, regardless of the information you're able to provide.

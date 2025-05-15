@@ -1,0 +1,35 @@
+Policy Rationale
+We care deeply about the safety of the people who use our apps. We regularly consult with experts in suicide, self-injury and eating disorders to help inform our policies and enforcement, and we work with organizations around the world to provide assistance to people in distress.
+
+While we do not allow people to intentionally or unintentionally celebrate or promote suicide, self-injury or eating disorders, we do allow people to discuss these topics because we want our services to be a space where people can share their experiences, raise awareness about these issues, and seek support from one another.
+
+We remove any content that encourages suicide, self-injury or eating disorders, including fictional content such as memes or illustrations, and any self-injury content which is graphic, regardless of context. We also remove content that mocks victims or survivors of suicide, self-injury or eating disorders, as well as real time depictions of suicide or self-injury. Content about recovery from suicide, self-injury or eating disorders that is allowed, but may contain imagery that could be upsetting (such as a healed scar) is placed behind a sensitivity screen.
+
+When people post or search for suicide, self-injury or eating disorders related content, we will direct them to local organizations that can provide support and if our Community Operations team is concerned about immediate harm we will contact local emergency services to get them help. For more information, visit the Meta Safety Center.
+
+With respect to live content, experts have told us that if someone is saying they intend to attempt suicide on a livestream, we should leave the content up for as long as possible because the longer someone is talking to a camera, the more opportunity there is for a friend or family member to call emergency services.However, to minimize the risk of others being negatively impacted by viewing this content, we will stop the livestream at the point at which the threat turns into an attempt. As mentioned above, in any case, we will contact emergency services if we identify someone is at immediate risk of harming themselves.
+
+Do not post:
+Content that promotes, encourages, coordinates, or provides instructions for suicide, self-injury, or eating disorders.
+Content that depicts graphic suicide, self-injury, and eating disorder imagery
+Content depicting a person who engaged in a suicide attempt or death by suicide
+Content that focuses on depiction of ribs, collar bones, thigh gaps, hips, concave stomach, or protruding spine or scapula when shared together with terms associated with eating disorders
+Content that contains instructions for drastic and unhealthy weight loss when shared together with terms associated with eating disorders
+Content that mocks victims or survivors of suicide, self-injury or eating disorders who are either publicly known or implied to have experienced suicide or self-injury
+Imagery depicting body modification (e.g., tattoo, piercing, scarification, self-flagellation, etc.) when shared in a suicide or self-injury context
+For the following content, we include a warning screen so that people are aware the content may be sensitive. We also limit the ability to view the content to adults, ages 18 and older:
+Photos or videos depicting a person who engaged in euthanasia/assisted suicide in a medical setting.
+For the following content, we include a label so that people are aware the content may be sensitive:
+Content that depicts older instances of self-harm such as healed cuts or other non-graphic self-injury imagery in a self-injury, suicide or recovery context.
+Content that depicts ribs, collar bones, thigh gaps, hips, concave stomach, or protruding spine or scapula in a recovery context.
+
+We provide resources to people who post written or verbal admissions of engagement in self injury, including:
+Suicide.
+Euthanasia/assisted suicide.
+Self-harm.
+Eating disorders.
+Vague, potentially suicidal statements or references (including memes or stock imagery about sad mood or depression) in a suicide or self-injury context.
+For the following Community Standards, we require additional information and/or context to enforce:
+We may remove suicide notes when we have confirmation of a suicide or suicide attempt. We try to identify suicide notes using several factors, including but not limited to:
+Family or legal representative requests,
+Reports from media, law enforcement, or other third party sources (e.g. government agencies, NGOs), or the Suicidal Content Contact Form or Instagram Contact Form.

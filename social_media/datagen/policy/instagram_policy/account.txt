@@ -1,0 +1,31 @@
+Policy Rationale
+In order to maintain a safe environment and empower free expression, we restrict or remove accounts that are harmful to the community. We have built a combination of automated and manual systems to restrict and remove accounts that are used to egregiously or persistently violate our policies across any of our products.
+
+Because account removal is a serious action, whenever possible, we aim to give our community opportunities to learn our rules and follow our Community Standards. For example, a notification is issued each time we remove content, and in most cases we also provide people with information about the nature of the violation and any restrictions that are applied. Our enforcement actions are designed to be proportional to the severity of the violation, the history of violations on the account, and the risk or harm posed to the community. Continued violations, despite repeated warnings and restrictions, or violations that pose severe safety risks will lead to an account being disabled.
+
+Learn more about how Meta enforces its policies and restricts accounts in the Transparency Center.
+
+We may restrict or disable accounts, other entities (Pages, groups, events) or business assets (Business Managers, ad accounts) that:
+Violate our Community Standards involving egregious harms, including those we refer to law enforcement due to the risk of imminent harm to individual or public safety
+Violate our Community Standards involving any harms that warrant referral to law enforcement due to the risk of imminent harm to individual of public safety
+Violate our Advertising Standards involving deceptive or dangerous business harms
+Persistently violate our Community Standards by posting violating content and/or managing violating entities or business assets
+Persistently violate our Advertising Standards
+Demonstrate activity or behavior indicative of a clear violating purpose
+We may restrict or disable accounts, other entities (Pages, groups, events) or business assets (Business Managers, ad accounts) that are:
+Owned by the same person or entity as an account that has been disabled
+Created or repurposed to evade a previous account or entity removal, including those assessed to have common ownership and content as previously removed accounts or entities
+Created to contact a user that has blocked an account
+Otherwise used to evade our enforcement actions or review processes
+We may restrict or disable accounts, other entities (Pages, groups, events) or business assets (Business Managers, ad accounts) that demonstrate:
+Close linkage with a network of accounts or other entities that violate or evade our policies
+Coordination within a network of accounts or other entities that persistently or egregiously violate our policies
+Activity or behavior indicative of a clear violating purpose through a network of accounts
+We will work to restrict or disable accounts or other entities (Pages, groups, events), or business assets (Business Managers, ad accounts) that engage in off-platform activity that can lead to harm on our platform, including those:
+Owned by a convicted sex offender, convicted of offences related to the sexual abuse of children or adults
+Owned by a Designated Entity or run on their behalf
+Prohibited from receiving our products, services or software under applicable laws
+In the following scenarios, we may request additional information about an account to ascertain ownership and/or permissible activity:
+Compromised accounts
+Creating or using an account or other entity through automated means, such as scripting (unless the scripting activity occurs through authorized routes and does not otherwise violate our policies)
+Empty accounts with prolonged dormancy

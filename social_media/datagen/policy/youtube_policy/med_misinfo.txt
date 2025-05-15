@@ -1,0 +1,39 @@
+Medical misinformation policy
+Note: YouTube reviews all its Community Guidelines as a normal course of business.  In our 2023 blog post we announced ending several of our COVID-19 policies and we have now retired the remaining standalone COVID-19 policies given the reduced burden of disease. Our broader Medical Misinformation framework continues to apply to content related to infectious diseases including influenza and measles.
+YouTube doesn't allow content that poses a serious risk of egregious harm by spreading medical misinformation that contradicts local health authority (LHA) guidance about specific health conditions and substances. This policy includes the following categories:
+
+Prevention misinformation
+Treatment misinformation
+Note: YouTube’s medical misinformation policies are subject to change in response to changes to guidance from health authorities. There may be a delay between new guidance and policy updates, and our policies may not cover all LHA guidance related to specific health conditions and substances.
+
+What this policy means for you
+Don’t post content on YouTube if it includes any of the following:
+
+Prevention misinformation: We do not allow content that promotes information that contradicts health authority guidance on the prevention or transmission of specific health conditions, or on the safety, efficacy or ingredients of currently approved and administered vaccines.
+
+Treatment misinformation: We do not allow content that promotes information that contradicts health authority guidance on treatments for specific health conditions, including promotion of specific harmful substances or practices that have not been approved by local health authorities as safe or effective, or that have been confirmed to cause severe harm.
+
+These policies apply to videos, video descriptions, comments, live streams, and any other YouTube product or feature. Keep in mind that this isn't a complete list. Please note these policies also apply to external links in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms.
+
+Examples
+Here are some examples of content that’s not allowed on YouTube. This isn't a complete list.
+
+Prevention misinformation
+Harmful substances & practices as prevention methods
+Vaccine misinformation
+Transmission information
+Treatment misinformation
+Harmful substances & practices as treatment methods
+Guaranteed treatment misinformation
+Harmful alternative methods & discouragement of professional treatment
+Educational, documentary, scientific or artistic content
+We may allow content that violates the misinformation policies noted on this page if that content includes additional context in the video, audio, title, or description. This is not a pass to promote misinformation. Additional context may include countervailing views from local health authorities or medical experts. We may also make exceptions if the purpose of the content is to condemn, dispute, or satirize misinformation that violates our policies. We may also make exceptions for content discussing the results of a specific medical study, or showing an open public forum, like a protest or public hearing, provided the content does not aim to promote misinformation that violates our policies.
+
+YouTube also believes people should be able to share their own experiences, including personal experiences with vaccinations, for example. This means we may make exceptions for content in which creators describe firsthand experiences from themselves or their family. At the same time, we recognize there is a difference between sharing personal experiences and promoting misinformation. To address this balance, we will still remove content or channels if they include other policy violations or demonstrate a pattern of promoting medical misinformation.
+
+What happens if content violates this policy
+If your content violates this policy, we’ll remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link.
+
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the option to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning. You can learn more about our strikes system here.
+
+We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. You can learn more about channel or account terminations here.

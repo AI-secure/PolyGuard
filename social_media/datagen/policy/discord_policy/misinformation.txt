@@ -1,0 +1,27 @@
+Misinformation Policy Explainer
+Health Misinformation
+At Discord, we are committed to creating a safe online environment and preventing harm. We do not allow the promotion or organization of communities that share false or misleading health information that is likely to result in harm. This includes anti-vaccination claims, dangerous and unsupported treatments for health issues, distortion of disease information, and any content that may negatively impact resolving public health emergencies. We rely on credible sources for accurate health information — including the World Health Organization (WHO) and the Centers for Disease Control and Prevention (CDC).
+
+While users can share their own personal health experiences on Discord, we prohibit false or misleading health information that is likely to result in harm.
+
+
+
+Civic Disruption
+We are committed to upholding the integrity of civic processes and doing our part to ensure a fair and democratic environment around the world. We don’t allow the posting, promotion, or organization of communities that share false or misleading claims that could disrupt or undermine the civic processes. In addition, we do not tolerate the promotion or organization of attempts to intimidate voters or activities that suppress civic participation.
+
+A civic process is any procedure run by governments or international political institutions that relies on public participation to make a decision or reach outcomes that impact our society. Examples of civic processes include elections, referendums, and censuses.
+
+We will remove harmful misinformation about civic processes when we become aware of it. We will determine the truthfulness of claims by looking at independent, third-party sites like PolitiFact, FactCheck.org, and Snopes.
+
+
+
+How to Avoid Violating These Policies
+If you are not sure whether a piece of content might violate these policies, don’t post it
+Don’t post false testimonials or statements that harmful substances can cure diseases
+Double-check official election resources if you are unsure about specifics before posting
+If you find yourself in a server that is sharing this type of content, report it and consider removing yourself from the space
+
+Please leave servers dedicated to any of the violative content described above. Discord may also take action against accounts that are present in violative servers.
+
+How to Report Violations of These Policies
+Reporting safety violations is critically important to keeping you and the broader Discord community safe. All Discord users can report policy violations right in the app by following the instructions here. For more information on these policies, please reference our Community Guidelines #17.

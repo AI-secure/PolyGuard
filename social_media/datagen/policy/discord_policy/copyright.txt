@@ -1,0 +1,15 @@
+Unauthorized Copyright Access Policy Explainer
+Unauthorized Copyright Access
+At Discord, we take a firm stance against violating intellectual property rights. We respond to facially-valid reports of copyright infringement in compliance with the Digital Millennium Copyright Act (DMCA) and other applicable intellectual property laws. Our Copyright & IP Policy explains this process in detail.
+
+This policy prohibits activity that provides others with direct, unauthorized access to copyrighted material (such as via live-streams) as well as efforts to coordinate such access. Coordination includes services or offers for services that facilitate the unauthorized sale, purchase, or trade of copyrighted material.
+
+This policy also covers types of activity that infringe on the rights of copyright owners, including the distribution of tools that get around copyright protections. Exploits for online games (also called “cheats” or “hacks”) fall under this policy if they circumvent anti-cheating software or impermissibly modify a game’s code or files.
+
+How to Avoid Violating This Policy
+Respect the intellectual property rights of others - don’t stream or provide access to copyrighted works if you are not authorized to do so
+
+How to Report Violations of This Policy
+Reporting safety violations is critically important to keeping you and the broader Discord community safe. All Discord users or affected individuals can report policy violations by emailing a report to copyright@discordapp.com.
+
+For more information on this policy, please reference our Community Guidelines #24.

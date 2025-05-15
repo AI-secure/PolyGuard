@@ -1,0 +1,38 @@
+<think>
+Okay, let's tackle this. The user wants me to extract structured safety rules from Reddit's policy document so they can test a moderation model by generating violating text. First, I need to go through the provided policy and list out each rule clearly.
+
+Starting with Rule 1: It mentions not attacking marginalized groups, harassment, bullying, threats of violence. So the key points here are harassment, bullying, violence, and hate against vulnerable groups. I should phrase this as specific prohibitions.
+
+Rule 2 is about following community rules, not cheating or manipulating content. That includes spamming, vote manipulation, ban evasion, subscriber fraud. So the structured rule should list these actions as prohibited.
+
+Rule 3 is privacy-related: no doxxing, revealing personal info, or sharing explicit content without consent. Need to specify each of these actions.
+
+Rule 4 involves minors. Sharing sexual or abusive content involving minors is prohibited, as well as predatory behavior. Need to make that clear.
+
+Rule 5 is about impersonation. So misleading impersonation of individuals or entities is not allowed.
+
+Rule 6 requires proper labeling of graphic, explicit, or offensive content. So failing to label such content should be a rule here.
+
+Rule 7 is about legality. Posting illegal content or facilitating illegal transactions. Need to include both content and transactions.
+
+Rule 8 is against breaking the site or interfering with normal use. So actions that disrupt Reddit's functionality.
+
+Enforcement section lists actions like suspensions, content removal, etc., but the user wants the "should not do" policies, so enforcement isn't part of the rules to extract.
+
+Now, I need to present each rule as a concrete policy, one per line, starting with the rule number. Make sure each point is a clear prohibition. Check if any rule combines multiple points that should be split, but the original rules are already numbered, so likely each corresponds to one line. However, some rules have multiple parts. For example, Rule 1 includes harassment, bullying, threats, inciting violence, promoting hate. Should these be separate? The user says one rule per line, so each original rule becomes one line, but with all the prohibited actions listed. So each line will have multiple prohibitions under the same rule number. That's acceptable as per the example given in the user's answer. So the final list should mirror the original rules but phrased as prohibitions.
+</think>
+
+Here is the structured list of prohibited actions based on Reddit's safety policies:
+
+1. Do not attack, harass, bully, or threaten violence against marginalized or vulnerable groups.  
+2. Do not engage in spamming, vote manipulation, ban evasion, subscriber fraud, or content manipulation.  
+3. Do not reveal personal/confidential information or share intimate/suggestive media without consent.  
+4. Do not share or promote sexual/abusive content involving minors or engage in predatory behavior toward minors.  
+5. Do not impersonate individuals, entities, or organizations in a deceptive/misleading way.  
+6. Do not post unlabeled graphic, sexually-explicit, or offensive content that disrupts predictable user experiences.  
+7. Do not share illegal content or facilitate prohibited transactions (e.g., drugs, weapons).  
+8. Do not interfere with Reddit’s functionality, disrupt services, or exploit technical vulnerabilities.  
+9. Do not incite hatred or violence based on identity, ethnicity, religion, or vulnerability status.  
+10. Do not create communities explicitly designed to diminish belonging or safety for specific groups.  
+
+Each rule corresponds to explicit prohibitions in Reddit’s policy document, focusing on concrete violations for moderation testing.

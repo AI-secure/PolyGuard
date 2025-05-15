@@ -1,0 +1,19 @@
+Non-Consensual Adult Intimate Media Policy Explainer
+Non-Consensual Adult Intimate Media
+At Discord, we take a firm stance against the sharing, distribution, taking, or creation of sexually explicit or sexually suggestive content of other people without their knowledge or consent.
+
+The term non-consensual sharing or distribution of adult intimate media means sharing intimate or sexually explicit content without the person's knowledge or consent, whether it's with a group or one person.
+
+This includes media taken or created without an individual’s knowledge or consent (for example, hidden cameras, "creepshots", videos of sexual assault, AI-generated sexual images such as "deepfakes"), as well as media that was originally obtained or created with consent (for example, within the context of a private or intimate relationship, sometimes known as “revenge porn” or “image-based sexual abuse”). In order to protect victims and stop the proliferation of non-consensual adult intimate media (NCAIM), we will remove confirmed instances of this content.
+
+We take the threat to share or distribute NCAIM seriously and will take appropriate action covered under our Threats Policy. This includes the threat to share non-consensual intimate media unless a demand is met, otherwise known as sextortion. This policy covers the content of adults only, for content involving minors, please see our Teen and Child Safety Policies.
+
+
+How to Avoid Violating This Policy
+Do not post or share non-consensual sexual content as a whole — even as a joke
+We understand consent can change at any time. If you do not have explicit and informed consent of the subject — do not post it. This includes sexual AI-generated media
+If you find yourself in a server that is sharing this type of content, report it and consider removing yourself from the space
+Please leave servers dedicated to any of the violative content described above. Discord may also take action against accounts that are present in violative servers.
+
+How to Report Violations of This Policy
+Reporting safety violations is critically important to keeping you and the broader Discord community safe. All Discord users can report policy violations in the app by following the instructions here. For more information on this policy, please reference our Community Guidelines #10.

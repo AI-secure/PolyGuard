@@ -1,0 +1,135 @@
+{
+  "Harassment & Threats": [
+    "Do not bully, harass, or intimidate any user.",
+    "Do not deliberately inflict emotional distress or reputational damage.",
+    "Do not threaten physical harm toward an individual or group.",
+    "Do not threaten psychological harm or emotional suffering.",
+    "Do not coordinate or participate in organized harassment, including mass-joining or ban-evasion raids."
+  ],
+  "Hate Speech & Protected Groups": [
+    "Do not use slurs, epithets, or hateful language targeting a protected group.",
+    "Do not share symbols, imagery, or gestures that express hatred or supremacy.",
+    "Do not degrade, vilify, or dehumanize people on the basis of protected characteristics.",
+    "Do not incite hostility, discrimination, or violence against a protected group.",
+    "Do not deny or minimize historical mass atrocities.",
+    "Do not use coded language (e.g., acronyms, numbers, phrases) to convey hateful content.",
+    "Do not excuse hateful content as humor or irony."
+  ],
+  "Violent & Graphic Content": [
+    "Do not upload or share media depicting real-world gore, dismemberment, or extreme injury.",
+    "Do not share content showing intentional cruelty to animals.",
+    "Do not glorify, celebrate, or praise acts of violence, including sexual violence.",
+    "Do not depict or praise dangerous organizations, mass murderers, or serial killers.",
+    "Do not organize, coordinate, or encourage violent actions, including swatting."
+  ],
+  "Violent Extremism & Terrorism": [
+    "Do not organize, promote, or support violent extremist or terrorist activities or ideologies.",
+    "Do not share, praise, or distribute content produced by terrorist or violent extremist groups.",
+    "Do not falsely claim affiliation with a terrorist or violent extremist organization."
+  ],
+  "Self-Harm & Suicide": [
+    "Do not encourage, promote, or normalize suicide, self-harm, or eating disorders.",
+    "Do not coordinate or facilitate acts of self-harm.",
+    "Do not share images, illustrations, or detailed descriptions of self-harm.",
+    "Do not discourage others from seeking professional help for self-harm."
+  ],
+  "Child Safety & Exploitation": [
+    "Do not post, request, or distribute any sexual content involving minors, real or fictional.",
+    "Do not groom, extort, or sexually exploit children or teenagers.",
+    "Do not allow or facilitate access to Discord for children under 13.",
+    "Do not create or join servers that enable or encourage romantic or sexual interactions between minors.",
+    "Do not entrap or bait others into inappropriate interactions with minors.",
+    "Do not solicit or share sexual content with anyone under 18.",
+    "Clearly age-gate channels that contain adult sexual content.",
+    "Do not remain in servers that sexualize minors or facilitate unsafe teen interactions."
+  ],
+  "Adult Sexual Content & Conduct": [
+    "Do not post sexually explicit content in public or un-gated areas, including server surfaces and emojis.",
+    "Do not display sexually explicit imagery in profile elements unless the entire server is age-restricted.",
+    "Age-gate any channel that hosts sexually explicit material.",
+    "Do not send sexual content to another user without their explicit consent.",
+    "Do not share sexual content that encourages or depicts serious bodily harm or death."
+  ],
+  "Non-Consensual Intimate Media": [
+    "Do not create, share, or solicit sexually explicit or suggestive content of any person without that person’s consent.",
+    "Do not distribute media captured without a person’s knowledge, such as hidden-camera footage or creepshots.",
+    "Do not create or share AI-generated sexual images, including deepfakes, without the subject’s consent.",
+    "Do not share intimate media obtained in a private relationship without consent (“revenge porn”).",
+    "Do not threaten to release someone’s intimate media (“sextortion”)."
+  ],
+  "Sexual Solicitation & Prostitution": [
+    "Do not request, offer, or advertise sexual services in exchange for anything of value.",
+    "Do not facilitate, coordinate, or arrange in-person sexual encounters.",
+    "Do not coordinate logistics or payments for sexual services."
+  ],
+  "Regulated Goods & Dangerous Instructions": [
+    "Do not buy, sell, or trade firearms, explosives, imitation weapons, or tactical gear.",
+    "Do not buy, sell, or trade illicit drugs, regulated substances, alcohol, or tobacco.",
+    "Do not facilitate the sale or exchange of any dangerous or regulated goods.",
+    "Do not share instructions or blueprints for manufacturing, assembling, or using regulated or illegal weapons or substances."
+  ],
+  "Privacy & Doxxing": [
+    "Do not collect, share, or threaten to share someone’s personally identifiable information (PII) without consent.",
+    "Do not share PII with intent to harass, intimidate, or harm.",
+    "Do not participate in or remain in servers that distribute doxxing content."
+  ],
+  "Health & Civic Misinformation": [
+    "Do not share false or misleading health information that could cause physical harm, including anti-vaccination claims or unproven treatments.",
+    "Do not distort or falsify information about diseases or public health emergencies.",
+    "Do not post content that disrupts or undermines civic processes, including elections or voter registration.",
+    "Do not promote or coordinate activities intended to intimidate or suppress voters.",
+    "Do not remain in servers dedicated to health or civic misinformation."
+  ],
+  "Spam & Platform Manipulation": [
+    "Do not send unsolicited bulk messages, friend requests, or interactions.",
+    "Do not use self-bots, user-bots, or modified clients to automate or amplify activity.",
+    "Do not create or register accounts solely for platform abuse, including automated account creation.",
+    "Do not distribute or use tools for platform abuse, such as spambots or raid software.",
+    "Do not manipulate engagement metrics or inflate server membership through deception, incentives, or fake accounts.",
+    "Do not sell, buy, or trade Discord accounts, usernames, servers, permissions, or vanity URLs."
+  ],
+  "Impersonation & Ban Evasion": [
+    "Do not impersonate a real person, group, or organization in a deceptive manner.",
+    "Clearly label parody or satire accounts to avoid confusion.",
+    "Do not create new accounts or communities to evade a platform-level ban.",
+    "Do not reuse existing accounts or servers to bypass enforcement actions."
+  ],
+  "Intellectual Property & Game Integrity": [
+    "Do not provide, sell, or trade unauthorized copies of copyrighted material.",
+    "Do not facilitate services that distribute or monetize copyrighted material without permission.",
+    "Do not share or develop tools that bypass copyright protections or digital rights management.",
+    "Do not distribute or promote exploits, cheats, or hacks that modify or undermine software or games."
+  ],
+  "Gambling": [
+    "Do not organize or participate in gambling activities that require payment or wagers of real-world value in violation of law.",
+    "Do not host or facilitate gambling events awarding real-world prizes when prohibited.",
+    "Do not engage in gambling activities on Discord that violate applicable gaming laws or regulations."
+  ],
+  "Financial Scams & Cybercrime": [
+    "Do not promote, coordinate, or execute financial scams, including Ponzi, pyramid, advance-fee, romance, or employment schemes.",
+    "Do not manipulate markets or conduct pump-and-dump or similar frauds.",
+    "Do not phish for sensitive information, send malicious links, or host fake websites.",
+    "Do not create, distribute, or use malware or conduct denial-of-service attacks.",
+    "Do not traffic in illicitly obtained goods such as stolen credentials, credit cards, or cracked software.",
+    "Do not launder money or facilitate fraudulent financial transactions.",
+    "Do not engage in price gouging or forgery.",
+    "Do not remain in servers dedicated to scams, malware, or illicit goods."
+  ],
+  "Human Trafficking": [
+    "Do not recruit, transport, transfer, harbor, or sell individuals for the purpose of exploitation.",
+    "Do not use deception, force, or fraud to facilitate human trafficking.",
+    "Do not express intent or desire to engage in human trafficking.",
+    "Do not support or coordinate activities related to human trafficking."
+  ],
+  "Off-Platform Violence & Harm": [
+    "Do not engage in real-world actions that cause or pose a credible risk of physical harm to others."
+  ],
+  "Misuse of Support Systems": [
+    "Do not submit false or misleading reports or requests to Discord support.",
+    "Do not threaten or harass Discord employees in support interactions."
+  ],
+  "General Compliance": [
+    "Do not post or share content if you are unsure whether it complies with Discord’s policies; seek clarification first.",
+    "Do not remain in servers whose primary purpose is to share policy-violating content."
+  ]
+}

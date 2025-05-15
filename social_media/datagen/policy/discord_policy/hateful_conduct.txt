@@ -1,0 +1,27 @@
+Hateful Conduct Policy Explainer
+Hate Speech
+Discord is a place where people come to hang out with friends. As part of our goal to promote acceptance and inclusivity, we prohibit hate speech, discrimination, and prejudice.
+
+We don’t allow hateful conduct or the use of hate speech while on Discord. This includes the use of hate symbols and the denial of historical mass atrocities. We define hate speech to include any expression that degrades, vilifies, or dehumanizes individuals, incites intense feelings of hostility towards defined groups, or promotes harm based on protected characteristics.
+
+Protected characteristics at Discord encompass various aspects, such as age; caste; color; disability; ethnicity; family responsibilities; gender; gender identity; housing status; national origin; race; refugee or immigration status; religious affiliation; serious illness; sex; sexual orientation; socioeconomic class and status; source of income; status as a victim of domestic violence, sexual violence, or stalking; as well as weight and size.
+
+However, we understand that there are nuances and will give exceptions in instances of reclaimed language, satire, educational or documentary purposes. The use of satire must be obvious and we will not allow users to deflect blame retroactively by claiming their statements were made ironically or as a joke.
+
+Hate Symbols and Imagery
+The use or sharing of hate symbols or imagery is strictly prohibited on Discord. This policy extends to all images uploaded or shared on Discord, including profiles, channels, and servers.
+
+Hate symbols include acronyms, numbers, phrases, logos, flags, gestures and other miscellaneous symbols used to promote or incite hatred, threats, discrimination, or violence against other people on the basis of protected characteristics. Symbols that represent supremacy of one group over another are also prohibited under this policy.
+
+However, exceptions may be made in instances where hate symbols are shared for educational, historical, newsworthy, or culturally appropriate and non-hateful purposes.
+
+
+
+How to Avoid Violating These Policies
+If you are not sure whether a piece of content might violate these policies, don’t post it
+Don’t post or share hateful content as a whole — even as a joke
+Double-check reputable sources to make sure the content is not a conspiracy theory or has roots in hateful ideology
+If you find yourself in a server that is sharing this type of content, report it and consider removing yourself from the space
+
+How to Report Violations of These Policies
+Reporting safety violations is critically important to keeping you and the broader Discord community safe. All Discord users can report policy violations right in the app by following the instructions here. For more information on these policies, please reference our Community Guidelines #4.

@@ -1,0 +1,22 @@
+Identity and Authenticity Policy Explainer
+Identity Misrepresentation
+Discord is a place where people come to hang out with friends and build communities. An important condition for building healthy communities is trust in the authenticity of interactions. Discord prohibits users from misrepresenting their identity on our platform in a deceptive or harmful way. This includes creating fake profiles as well as attempts to impersonate an individual, group, or organization.
+
+Although pseudonymous accounts are allowed on Discord, our rules prohibit fake profiles and impersonation. We define a fake profile as an online identity for an individual or entity that does not exist. Some fake user profiles can be identified by their use of stolen or generated images as avatars. Impersonation means pretending to be a real individual, group, or organization. This typically involves the use of identity details (such as name or likeness) to deceive others about the ownership or affiliation of a digital profile. Impersonation on Discord can occur at the account or server level.
+
+Platform Ban Evasion
+We may take enforcement actions when we discover a violation of our Community Guidelines — up to and including permanent removal from Discord. We typically reserve permanent actions like user and server bans for severe violations that could negatively impact user safety, the integrity of our service, or the rights of others. Permanently removing a violative account or community can lessen the harms from these groups and help prevent abuse from occurring in the future.
+
+You may not circumvent platform-level bans that we take against your account or server. We use the term ban to refer to the permanent removal of an account or community for a violation of our rules.
+
+Platform ban evasion refers to efforts to return to Discord after having an account or community permanently removed from our service. Platform ban evasion includes the creation of new accounts and communities to bypass permanent removal; it also includes the use or reuse of an existing account or community to avoid a platform-level ban.
+
+How to Avoid Violating These Policies
+Don’t misrepresent your identity on Discord in a deceptive or harmful way
+If you run a parody or satire account or server, make sure that it is clearly labeled as such
+Respect platform-level enforcement actions. Individuals who believe their account or server has been incorrectly removed can submit an appeal here
+
+Please leave servers dedicated to any of the violative content described above. Discord may also take action against accounts that are present in violative servers.
+
+How to Report Violations of These Policies
+Reporting safety violations is critically important to keeping you and the broader Discord community safe. All Discord users can report policy violations right in the app by following the instructions here. For more information on these policies, please reference our Community Guidelines #18 and #19.

@@ -1,0 +1,22 @@
+Violent Extremism Policy Explainer
+Violent Extremism
+At Discord, we take a firm stance against violent extremism. We do not tolerate the presence or activities of violent extremist organizations and other violent groups. Users are not allowed to use Discord to organize, promote, or support violent extremist activities or beliefs. The term violent extremist organization describes groups that promote a political, ideological, or religious agenda and tolerate, advocate for, or use violence to achieve their goals.
+
+This policy covers a wide range of actors, such as terrorist groups, violent extremist organizations, and violent hate groups. We also include informal groups or networks, as well as paramilitary and non-state armed groups, that are organized around extremist beliefs under this policy.
+
+Even if not associated with a violent extremist group, users may not share or promote content associated with these groups or content that advocates for violent extremist beliefs on Discord.
+
+As one of the highest-harm areas of abuse, violent extremist organizing is also subject to our Off-Platform Behaviors Policy.
+
+How to Avoid Violating This Policy
+Don’t post or share hateful content or content that glorifies or encourages violence — even as a joke
+Don’t post content if you know it was created by or is associated with a terrorist organization or hate group
+Don’t pretend or claim to be a member of a terrorist or violent extremist group to others
+If you find yourself in a server that is sharing this type of content, report it and consider removing yourself from the space
+Please leave servers dedicated to any of the violative content described above. Discord may also take action against accounts that are present in violative servers.
+
+How to Report Violations of This Policy
+Reporting safety violations is critically important to keeping you and the broader Discord community safe. All Discord users can report policy violations right in the app by following the instructions here. For more information on this policy, please reference our Community Guidelines #5.
+
+Resources
+If you or another user is in immediate danger, please contact law enforcement right away and let them know what's going on, regardless of the information you're able to provide.

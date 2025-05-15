@@ -1,0 +1,182 @@
+Risk Category 1: Hate Speech & Protected-Class Harassment  
+1. Do not post dehumanizing content that compares a protected person or group to animals, pathogens, or other sub-human entities.  
+2. Do not allege inherent criminality, immorality, or corruption of a protected person or group.  
+3. Do not wish for, cheer, or call for disease, natural disaster, or death to befall a protected person or group.  
+4. Do not mock, deny, or celebrate hate crimes or their victims.  
+5. Do not use slurs or targeted cursing against a person or group on the basis of protected characteristics.  
+6. Do not insult the worth, intelligence, or character of protected people, including claims that they cause sickness.  
+7. Do not advocate political, social, economic, or legal exclusion, segregation, or loss of civil or human rights for protected people.  
+8. Do not attack religions, institutions, or cultural practices tied to protected identities when the intent is to incite discrimination, intimidation, or violence.  
+9. Do not publish sexualized terms or demands aimed at protected groups, or content that promotes “conversion therapy” for sexual orientation or gender identity.  
+10. Do not make negative claims about a protected person’s romantic life, sexual orientation, gender identity, or religion, including accusations of blasphemy.  
+
+Risk Category 2: General Harassment & Bullying  
+11. Do not repeatedly contact, tag, or target people with unwanted or sexually harassing messages or content.  
+12. Do not threaten, encourage, or coordinate bullying, harassment, or exclusion of any individual.  
+13. Do not celebrate or mock another person’s death, illness, menstruation, urination, vomiting, or defecation.  
+14. Do not claim or ridicule someone for sexually transmitted infections, alleged sexual activity, or lack of sexual activity.  
+15. Do not degrade or express disgust toward a person’s physical appearance or rank people by looks or character traits.  
+16. Do not post or share derogatory, sexualized, or manipulated images or drawings of others without consent.  
+17. Do not organize or participate in mass or state-affiliated harassment campaigns, including the creation of unwanted pages, groups, or events.  
+18. Do not share or threaten to share another person’s private contact information, medical records, or other doxing material.  
+19. Do not disparage victims of violence or claim they are lying about their experience.  
+20. Do not post or praise videos showing real-world bullying of minors, or degrade individuals shown being physically bullied.  
+21. Do not direct cursing or harassment at private minors, private adults, or minor involuntary public figures.  
+
+Risk Category 3: Violent Threats & Incitement  
+22. Do not incite, threaten, or facilitate violence or harm against individuals, groups, or the public, including veiled or coded threats.  
+23. Do not threaten high- or mid-severity violence (death, serious injury, kidnapping) against any target.  
+24. Do not threaten low-severity violence against children, private adults, or protected people.  
+25. Do not glorify or encourage gender-based, intimate-partner, or honor-based violence.  
+26. Do not threaten to use or bring weapons, or intimidate people at sensitive sites such as schools, houses of worship, or polling places.  
+27. Do not offer, solicit, or admit intent to carry out violent services such as hiring hitmen or providing weapon instructions.  
+28. Do not issue threats related to voting, voter registration, election administration, or outcomes.  
+29. Do not use coded language or imagery to convey violent intent.  
+30. Do not combine claims of election corruption with calls or signals for violence.  
+31. Do not admit to violent acts unless shared solely in redemption, self-defense, or awareness contexts.  
+
+Risk Category 4: Dangerous Organizations & Extremism  
+32. Do not glorify, support, or represent designated terrorist, violent, or hateful organizations, events, ideologies, leaders, or members.  
+33. Do not depict, celebrate, or distribute perpetrator-generated content of violent attacks.  
+34. Do not create assets or present yourself as a member of a designated dangerous entity, or express a desire to join one.  
+35. Do not share third-party imagery of the moment of violent attacks unless clearly condemning or neutrally documenting it.  
+36. Do not promote extremist ideologies or conspiracy theories linked to offline harm (e.g., Nazism, white supremacy).  
+37. Do not maintain any presence on behalf of violent non-state actors or violence-inducing entities.  
+
+Risk Category 5: Child Sexual Exploitation & Abuse  
+38. Do not post, solicit, share, or link to child sexual abuse material, including fictional or AI-generated depictions.  
+39. Do not sexualize minors in any form, including fetish content, nudity, eroticized poses, or focus on genitals, anus, or breasts.  
+40. Do not depict minors in sexual activities, stimulation, open-mouth kissing, stripping, staged sexual contexts, or with aroused adults or sex toys.  
+41. Do not engage in, facilitate, or encourage grooming, sexual conversation, sextortion, or arranging sexual encounters with minors.  
+42. Do not request or distribute sexual imagery of minors or threaten to expose such material.  
+43. Do not create groups, pages, or profiles dedicated to child sexual content.  
+44. Do not identify, mock, or share imagery of alleged child-exploitation victims or private minors when it endangers their safety.  
+45. Do not post non-sexual child-abuse content unless allowed for news, help, or condemnation, and never praise or promote such abuse.  
+
+Risk Category 6: Sexual Violence & Non-Consensual Intimacy  
+46. Do not depict, threaten, advocate, praise, or mock sexual violence, assault, rape, or non-consensual sexual touching.  
+47. Do not share or threaten to share non-consensual intimate imagery (NCII), including deepfakes or sextortion material.  
+48. Do not post or request intimate images, videos, or sexual audio involving non-consenting parties.  
+49. Do not depict or threaten necrophilia or forced stripping, except in a clearly condemning artistic context.  
+50. Do not reveal personal details of sexual-assault survivors when they object.  
+
+Risk Category 7: Suicide, Self-Injury & Eating Disorders  
+51. Do not encourage, instruct, praise, or coordinate suicide, self-harm, or eating disorders.  
+52. Do not share graphic imagery of self-harm or suicide attempts.  
+53. Do not display self-harm scars or extreme thinness with pro-eating-disorder language unless accompanied by required sensitivity labels.  
+54. Do not mock or demean victims or survivors of suicide, self-injury, or eating disorders.  
+55. Do not present body-modification imagery (e.g., scarification) in a self-harm context without warnings or age gating.  
+56. Do not show euthanasia imagery without a warning screen and adult-only gating.  
+
+Risk Category 8: Adult Sexual Content & Nudity  
+57. Do not post real, AI, or digital imagery of explicit sexual activity, visible genitals, anus, or erections outside approved medical or protest contexts.  
+58. Do not display uncovered female nipples except for breastfeeding, mastectomy, medical, health, or protest purposes.  
+59. Do not depict sex toys inserted in or on mouths or explicit stimulation of genitals or anus.  
+60. Do not share fetish content involving bodily fluids, bestiality, necrophilia, or dismemberment.  
+61. Do not post porn-site logos, clips, or extended sexual audio without contextual justification.  
+62. Implicit sexual imagery must carry sensitivity labels or age gating where required.  
+
+Risk Category 9: Sexual Solicitation & Prostitution  
+63. Do not offer, request, or facilitate prostitution or sexual services, including escort, erotic massage, sex chat, or fetish domination, for money or valuables.  
+64. Do not combine sexual slang with price, location, contact details, or other indications of paid sexual services.  
+65. Do not recruit others for commercial sex work or share links to pornography sites.  
+66. Do not implicitly solicit sexual activity by sharing contact information tied to a sexual context.  
+
+Risk Category 10: Human Trafficking & Exploitation  
+67. Do not recruit, facilitate, or exploit people for sex trafficking, forced labor, domestic servitude, forced marriage, or organ trafficking.  
+68. Do not promote or facilitate the sale, illegal adoption, or exploitation of children, orphanage trafficking, or child-soldier recruitment.  
+69. Do not offer or request human-smuggling services.  
+
+Risk Category 11: Drugs, Weapons & Other Regulated Goods  
+70. Do not buy, sell, trade, donate, gift, solicit, or promote high-risk or non-medical drugs, including paraphernalia.  
+71. Do not admit intent to buy, sell, trade, or use high-risk or non-medical drugs without a recovery or treatment context.  
+72. Do not buy, sell, trade, gift, or solicit firearms, ammunition, explosives, lethal enhancements, or weapon-printing instructions.  
+73. Do not buy, sell, trade, or solicit bladed weapons or pepper spray.  
+74. Do not buy, sell, trade, or promote tobacco, vaping products, alcohol (outside permitted invitations), weight-loss products, cosmetic procedures, adult sex products, gambling services, or CBD/THC products.  
+75. Do not buy, sell, trade, or solicit endangered species, animal parts, protected plants, historic artifacts, hazardous materials, human body parts or fluids (except legitimate donation), or recalled goods.  
+
+Risk Category 12: Criminal Activity & Harmful Acts  
+76. Do not facilitate, organize, encourage, or admit to criminal or harmful acts such as vandalism, theft, hacking, swatting, or high-risk viral challenges.  
+77. Do not coordinate or promote cruelty to animals, staged animal fights, or fake rescues outside condemnation or awareness contexts.  
+78. Do not threaten or organize obstruction of essential services or emergency responses.  
+79. Do not buy, sell, or solicit votes, intimidate voters, or interfere with census participation.  
+80. Do not reveal undercover identities of law-enforcement, military, or security personnel.  
+81. Do not expose outing-risk individuals (e.g., LGBTQIA+ members) or falsely label private persons as predators.  
+82. Do not create misleading imagery that is likely to deceive the public when it poses potential harm.  
+
+Risk Category 13: Fraud, Scams & Deceptive Practices  
+83. Do not offer or advertise loans, gambling, investments, jobs, insurance, or get-rich-quick schemes with guaranteed returns or advance fees.  
+84. Do not solicit or facilitate money laundering, money muling, or romance scams.  
+85. Do not trade counterfeit currency, forged documents, stolen credit cards, or personal data, or provide exam-cheating services.  
+86. Do not misrepresent a business or charity, request fraudulent donations, or impersonate entities for scams.  
+87. Do not sell or promote counterfeit goods or link to counterfeit marketplaces.  
+88. Do not trade fake reviews, stolen subscription credentials, or devices that bypass paid services.  
+89. Do not promote miracle cures or misleading health claims likely to cause harm.  
+90. Do not offer or request covert surveillance devices or software intended for secret recording or spying.  
+
+Risk Category 14: Identity Misrepresentation & Authenticity  
+91. Do not impersonate individuals or entities, use non-authentic names, false birthdates, or stock images to deceive.  
+92. Do not create accounts for underage children, non-human entities, or maintain multiple personal accounts to evade rules.  
+93. Do not provide false profile information or repeatedly alter identity details to mislead others.  
+94. Do not speak or post in another person’s voice without their authorization.  
+95. Do not operate a single account on behalf of multiple people, or manage accounts belonging to someone whose account was disabled.  
+
+Risk Category 15: Spam, Inauthentic Behavior & Coordinated Interference  
+96. Do not post, share, or engage at very high or automated frequencies intended to manipulate reach or visibility.  
+97. Do not buy, sell, or exchange accounts, roles, content, engagement, or other platform privileges.  
+98. Do not use deceptive URLs, cloaking, clickjacking, or landing pages that mimic platform features or mislead users.  
+99. Do not create or operate networks of inauthentic assets to inflate popularity, deceive about origin, or manipulate public debate, including foreign or government interference.  
+100. Do not misuse platform reporting systems to harass, silence, or retaliate against others.  
+
+Risk Category 16: Privacy & Personal Data  
+101. Do not share, solicit, or threaten to expose personally identifiable information (e.g., government IDs, full addresses, private contact details) without consent.  
+102. Do not post imagery of private residences or medical facilities that identifies residents or patients without a justified public interest.  
+103. Do not share medical, biometric, genetic, or financial records of others without permission.  
+104. Do not distribute hacked or leaked content containing private data.  
+105. Do not post photos or videos of minors under 13, or minors 13-17 in sensitive contexts, without appropriate permissions.  
+106. Do not request or publish locations of safe houses or protected addresses.  
+
+Risk Category 17: Graphic Violence & Gore  
+107. Do not post imagery or video showing dismemberment, exposed innards, burning, throat-slitting, or similar extreme violence without mandatory warning screens or sensitivity labels.  
+108. Do not live-stream executions or capital punishments.  
+109. Do not make sadistic remarks celebrating human or animal suffering, including on content already behind warning screens.  
+110. Do not solicit, trade, or retain violent or gore imagery when a victim’s family requests its removal.  
+111. Do not show foreign objects piercing skin, birthing innards, or brutal animal killings without required labeling.  
+
+Risk Category 18: Intellectual Property & Brand Integrity  
+112. Do not post or facilitate content that infringes copyright, trademark, or other intellectual-property rights.  
+113. Do not use Meta brand assets or interface elements without written permission, modify them, or imply unauthorized endorsement.  
+114. Do not sell or promote counterfeit goods, including through off-platform links.  
+115. Do not stream Meta-owned or licensed content, or violate music-licensing agreements, without authorization.  
+
+Risk Category 19: Misinformation & Manipulated Media  
+116. Do not share misinformation or rumors that expert partners identify as likely to cause imminent violence or physical harm.  
+117. Do not share vaccine misinformation that health authorities deem false and likely to lead to refusals or harm.  
+118. Do not share false information about voting or census processes, eligibility, or locations that could suppress participation.  
+119. Do not assert false claims of disease risk, law-enforcement presence, or impossible conditions at polling sites.  
+120. Do not distribute digitally altered or synthetic media that materially deceives the public on matters of importance without clear labeling.  
+
+Risk Category 20: Platform Abuse & Enforcement Evasion  
+121. Do not use accounts that egregiously or repeatedly violate Community Standards, or create new accounts to evade prior enforcement.  
+122. Do not coordinate networks to persistently violate policies or link with banned entities.  
+123. Do not operate accounts owned by convicted sex offenders or designated dangerous entities.  
+124. Do not create or manage accounts via automated scripts or unauthorized tools.  
+125. Do not create new accounts solely to contact users who have blocked previous accounts.  
+
+Risk Category 21: Account Memorialization & Deceased Profiles  
+126. Do not access or manipulate memorialized accounts without authorization or post violating content on profiles of deceased victims of murder or suicide.  
+127. Do not post praise or support for the death, disease, or harm of the deceased on related profiles.  
+128. Do not display weapons, alleged perpetrators, or their relationship status on victim profiles when the family requests removal.  
+129. Use authentic names on memorialized profiles in accordance with name policies.  
+
+Risk Category 22: Cybersecurity & Malicious Code  
+130. Do not access accounts or data without permission, or obtain login credentials via phishing, social engineering, or other deceptive means.  
+131. Do not create, distribute, or promote malware, malicious browser extensions, or hacking tools.  
+132. Do not encourage users to download unsafe software or engage in activities that bypass security systems.  
+133. Do not provide infrastructure that supports abusive links or malicious content.  
+
+Risk Category 23: Under-Age & Incapacitated Individual Accounts  
+134. Do not ignore verified requests to remove under-age or incapacitated individuals’ accounts when proper documentation is provided.  
+135. Do not post non-sexual child-abuse imagery; remove it promptly upon official request.  
+136. Do not attack or expose unintentionally famous minors; remove such content when a legal guardian requests.  
+137. Do not post identifying content about private minors that endangers their safety; remove it upon any valid request from guardians, authorities, or child-safety experts.

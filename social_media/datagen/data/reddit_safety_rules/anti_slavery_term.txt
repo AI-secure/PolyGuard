@@ -1,0 +1,53 @@
+<think>
+Okay, let's tackle this. The user wants me to extract structured safety rules from Reddit's policy document so they can test a moderation model. First, I need to read through the provided policy carefully.
+
+Starting with the introduction, Reddit's mission mentions protecting people from slavery and human trafficking. That's a key point. Then under "Our policies," the Reddit Rules prohibit illegal content, soliciting prohibited transactions, sexual content involving minors, harassment, bullying, and threats of violence. Enforcement includes account suspension and content removal.
+
+The Advertising Policy section says they prohibit ads that facilitate illegal behavior like slavery and trafficking, and ads with obscene or offensive content. Also, their company policies include prohibitions on discrimination, harassment, and violence in the workplace.
+
+Under supply chains, they mention suppliers must adhere to ethical standards and laws, including their Supplier Code of Conduct. They do due diligence on suppliers based on risk factors.
+
+Risk assessment includes transparency reports on content moderation, account sanctions, and handling content manipulation. Employees and suppliers can report violations through a portal.
+
+Training involves onboarding and regular sessions on policies.
+
+Now, I need to list each prohibited action as a concrete rule. Let me go through each section again to make sure I don't miss anything. Each rule should be a specific "do not" statement. Let me check:
+
+1. Illegal content or transactions (including paid sexual services)
+2. Sexual/suggestive content involving minors
+3. Harassment, bullying, threats of violence
+4. Ads facilitating illegal behavior (slavery, trafficking)
+5. Ads with obscene, offensive, inappropriate content
+6. Unlawful discrimination and harassment in the company
+7. Acts or threats of violence in the workplace
+8. Suppliers not adhering to laws and ethical standards
+9. Suppliers involved in slavery or trafficking
+10. Failure to report violations through proper channels
+11. Not removing rule-violating content
+12. Allowing artificial content promotion (manipulation)
+13. Not sanctioning bad actors (account suspensions)
+14. Employees not trained on policies and ethics
+
+Wait, some of these might overlap. Let me ensure each is distinct. Also, the transparency reports mention content removals, manipulation, and account sanctions. Those should translate into rules about enforcing removals, preventing manipulation, and applying sanctions. The training part requires employees to be trained, so a rule about not skipping training.
+
+I think that's all. Now, structure each as a "Do not..." statement, one per line, numbered.
+</think>
+
+Here is the structured list of concrete safety policies/restrictions extracted from the Reddit document:
+
+1. Do not post illegal content or solicit/facilitate illegal/prohibited transactions (including paid services involving physical sexual content)  
+2. Do not post or encourage sexual/suggestive content involving minors  
+3. Do not engage in harassment, bullying, or threats of violence against users  
+4. Do not advertise products/services that facilitate slavery, human trafficking, or illegal behavior  
+5. Do not advertise obscene, offensive, or inappropriate content/products/services  
+6. Do not permit unlawful discrimination or harassment within company operations  
+7. Do not tolerate acts/threats of violence in workplace environments  
+8. Do not work with suppliers that violate human rights or ethical standards in their operations/supply chains  
+9. Do not allow suppliers to use slavery/human trafficking in business practices  
+10. Do not ignore reports of policy violations submitted through the Code of Conduct portal or internal channels  
+11. Do not leave rule-violating content undeleted after identification  
+12. Do not permit artificial promotion/manipulation of content through prohibited means  
+13. Do not avoid sanctions (account suspensions, bans) for confirmed bad actors  
+14. Do not employ staff without providing training on anti-slavery policies and ethical practices  
+
+Each rule corresponds to explicit prohibitions stated in Reddit's policies regarding content moderation, advertising, workplace conduct, supply chain management, and enforcement mechanisms.

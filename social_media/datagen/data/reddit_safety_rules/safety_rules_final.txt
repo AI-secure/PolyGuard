@@ -1,0 +1,91 @@
+<think>
+Okay, let's tackle this. The user has provided several numbered lists with various rules and policies, and they want them merged into a single list without overlapping categories. The key here is to identify overlapping or similar items across the different lists and combine them appropriately.
+
+First, I'll go through each list one by one to understand the main themes. The first list seems to be about prohibited content, illegal activities, harassment, and ethical operations. The second list is more about legal requests, law enforcement guidelines, and data handling. The third list focuses on community moderation, content management, and avoiding conflicts of interest. The fourth list deals with user eligibility, digital goods, and economic features. The fifth and sixth lists cover harassment, privacy, impersonation, and general service usage policies.
+
+Now, I need to look for overlaps. For example, items about harassment and bullying appear in multiple lists. Similarly, rules about illegal content and prohibited transactions are repeated. There are also multiple mentions of not sharing personal information, not manipulating content, and adhering to legal processes.
+
+I'll start grouping these. Let's take all the harassment and bullying rules first. Items like "Do not engage in harassment, bullying, or threats of violence against users" from the first list and "Do not attack, harass, bully, or threaten violence against marginalized or vulnerable groups" from the fifth list can be merged into a single category about harassment and violence.
+
+Next, illegal content and transactions. The first list mentions not posting illegal content, and the fifth list also talks about sharing illegal content. These can be combined. Similarly, prohibitions against sexual content involving minors appear in multiple lists, so those should be merged.
+
+Ethical operations and human rights come up in the first and fourth lists, such as not working with suppliers that violate human rights. These can form a category on ethical practices.
+
+Legal and law enforcement requests are covered in the second list. These are specific, so they might form their own categories, but I need to check if any overlap with other sections. For example, data retention and legal procedures might be unique to the legal section.
+
+Moderation responsibilities are in the third list, like not neglecting duties or accepting compensation. These can be grouped under community and moderation guidelines.
+
+Digital goods and economic features from the fourth list have specific rules about transfers, royalties, and usage. These should be their own categories as they are quite specific.
+
+User eligibility and account security are covered in the fourth and sixth lists, such as age restrictions and securing account information. These can be merged into user account and eligibility policies.
+
+Privacy and data handling are mentioned in multiple lists, including not sharing personal info and complying with privacy policies. These can form a privacy section.
+
+Intellectual property and content rights are in the fourth and sixth lists, so those can be combined.
+
+Finally, service usage policies like not interfering with services, scraping data, or unauthorized access are in the sixth list and can be grouped under service integrity and access.
+
+I need to ensure that each merged category is comprehensive and doesn't leave out any specific points. Also, check for any unique items that don't fit into broader categories and include them as standalone points if necessary. The goal is to reduce redundancy while maintaining all the original rules' intent and specifics.
+</think>
+
+Here is the merged list, grouped into non-overlapping categories that cannot be decomposed further:
+
+---
+
+**I. Prohibited Content & Behavior**  
+1. Do not post illegal content or facilitate prohibited transactions (e.g., drugs, weapons, paid sexual services).  
+2. Do not share sexual/suggestive content involving minors or engage in predatory behavior toward minors.  
+3. Do not post unlabeled graphic, sexually explicit, or offensive content that disrupts user experiences.  
+4. Do not reveal personal/confidential information or share intimate media without consent.  
+5. Do not impersonate individuals, entities, or organizations deceptively.  
+6. Do not incite hatred/violence based on identity, ethnicity, religion, or vulnerability.  
+
+**II. Harassment & Safety**  
+7. Do not harass, bully, threaten violence, or target marginalized/vulnerable groups.  
+8. Do not direct, coordinate, or encourage harassment across communities/platforms.  
+9. Do not tolerate workplace violence, discrimination, or harassment in operations.  
+
+**III. Legal & Law Enforcement Compliance**  
+10. Do not submit legal requests without valid authorization (e.g., subpoenas, warrants).  
+11. Do not falsify emergency disclosure requests (EDRs) or bypass Legal Request Portal procedures.  
+12. Serve EU user data requests to Reddit Netherlands B.V., not Reddit Inc.  
+13. Do not expect Reddit to retain IP logs beyond 100 days or disclose deleted content.  
+
+**IV. Ethical Operations & Moderation**  
+14. Do not work with suppliers violating human rights or using slavery/trafficking.  
+15. Moderators must not neglect duties (e.g., ModQueue, ModMail) or accept compensation for actions.  
+16. Do not "camp" inactive subreddits or mislabel mature content as safe for general audiences.  
+17. Do not showcase bans/moderation actions from other communities to incite negativity.  
+
+**V. Digital Goods & Economic Features**  
+18. Do not transfer/sell Verified Digital Goods without honoring royalties or authorization.  
+19. Do not use blockchain transactions for prohibited goods/services or as financial instruments.  
+20. Secure Vault Access Info (private keys, passwords) to avoid permanent loss of assets.  
+
+**VI. User Eligibility & Account Security**  
+21. Users under 13 or in sanctioned regions are barred from access.  
+22. Do not share Reddit Vault keys/recovery phrases with anyone.  
+23. Suspended/terminated accounts lose feature eligibility.  
+
+**VII. Privacy & Data Handling**  
+24. Do not scrape data without consent or violate Reddit’s Privacy Policy.  
+25. Devvit Apps collecting user data must comply with privacy requirements.  
+
+**VIII. Platform Integrity**  
+26. Do not spam, manipulate votes, evade bans, or exploit technical vulnerabilities.  
+27. Do not modify/reverse-engineer Services or commercially exploit Content without authorization.  
+28. Do not imply Reddit’s endorsement in promotions or submit false copyright claims.  
+
+**IX. Content Moderation & Community Standards**  
+29. Do not create/approve rule-breaking content in posts, comments, or modmails.  
+30. Communities must provide clear purpose/rules and avoid affiliation claims without disclosure.  
+31. Do not repost content violating other communities’ rules or incentivize policy breaches.  
+
+**X. Enforcement & Accountability**  
+32. Do not ignore reports of policy violations via internal channels.  
+33. Remove rule-violating content promptly and enforce sanctions for confirmed bad actors.  
+34. Staff must receive anti-slavery/ethical training; developers must clarify Devvit App terms.  
+
+---
+
+This structure eliminates semantic overlaps while preserving all original rules. Each category addresses a distinct policy domain, ensuring enforceability and clarity.

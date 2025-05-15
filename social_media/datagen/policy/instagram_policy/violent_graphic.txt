@@ -1,0 +1,93 @@
+Policy Rationale
+We understand that people have different sensitivities with regard to graphic and violent imagery. To protect users from such content, we remove the most graphic content and add warning labels to other graphic content so that people are aware it may be sensitive or disturbing before they click through. We may also restrict the ability for users under 18 to view such content (or “age-gate” the content).
+
+We recognize that users may share content in order to shed light on or condemn acts such as human rights abuses or armed conflict. Our policies consider when content shared in this context and allow room for discussion and awareness raising accordingly.
+
+In ads, we provide additional protections. For example, content that has been deemed sensitive or disturbing is not eligible to run in ads. We also prohibit ads from including images and videos that are shocking, gruesome, or otherwise sensational.
+
+Do not post:
+Imagery of people
+
+Videos of people, living or deceased, in non-medical contexts, depicting:
+
+Dismemberment.
+Visible innards, such as exposed organs, bones, or muscle tissue on living or deceased persons;
+Burning or charred persons; or
+Throat-slitting.
+Live-streams of capital punishments.
+
+Sadistic Remarks
+
+Sadistic remarks are commentary – such as captions or comments – expressing joy or pleasure from the suffering or humiliation of people or animals.
+
+We remove
+
+Sadistic remarks made toward imagery (both videos and still images) that otherwise receives a warning screen under this policy, advising people that the content may be disturbing; unless the imagery depicts acts of self-defense (e.g., video of someone defending themselves from armed robbery) or is in a medical context (e.g., an image of medical professionals performing surgery).
+Sadistic remarks made towards the following imagery that otherwise receives a warning screen under this policy advising people it may be sensitive:
+Imagery depicting a person’s violent death or life threatening event when the act of violence is committed by uniformed personnel performing a police function;
+Imagery depicting acts of brutality (e.g., acts of violence or lethal threats on forcibly restrained subjects) by uniformed personnel performing a police function;
+Imagery depicting fetuses and babies outside of the womb that are deceased;
+Explicit sadistic remarks made towards the suffering of animals depicted in imagery, and imagery depicting animals going from live to dead.
+Offering or soliciting imagery that is deleted or receives a warning screen under this policy, when accompanied by sadistic remarks.
+For the following content, we include a warning screen so that people are aware the content may be disturbing. We also limit the ability to view the content to adults, ages 18 and older:
+Imagery of people
+
+Videos of people, living or deceased, in medical contexts depicting:
+
+Dismemberment.
+VIsible innards, such as exposed organs, bones, or muscle tissue on living or deceased persons;
+Burning or charred persons, including in contexts of cremation; or
+Throat-slitting.
+Still images of people, living or deceased, depicting:
+
+Dismemberment.
+Visible innards, such as exposed organs, bones, or muscle tissue on living or deceased persons;
+Burning or charred persons; or
+Throat-slitting.
+Imagery (both videos and still images) depicting a persons’ violent death (including their moment of death or the aftermath) or a person experiencing a life threatening event (such as being struck by a car, falling from a great height, or experiencing other possibly-fatal physical injury).
+
+Imagery depicting capital punishment of a person (excluding live-streams).
+
+Imagery depicting acts of brutality (e.g., acts of violence or lethal threats on forcibly restrained subjects) committed against a person or group of people.
+
+Imagery depicting non-medical foreign objects (e.g., knives, nails, or other metal objects) piercing a person’s skin.
+
+Imagery depicting a person’s broken, bleeding teeth, removed teeth where blood is present; or the insertion of foreign objects into the teeth or gums.
+
+Imagery of animals
+
+Any imagery of animals, still living or going from live to dead, – depicting dismemberment, visible innards, burning or charring, or being boiled alive.
+
+Any imagery of animals, when there are visible innards or dismemberment of non-regenerating body parts, unless in the wild.
+
+For the following content, we include a label so that people are aware the content may be sensitive:
+Imagery of people
+
+Imagery (both videos and still images) depicting non-medical foreign objects (e.g., knives, nails, or other metal objects) piercing a person’s skin in a religious or cultural context.
+
+Imagery depicting visible innards in a birthing context.
+
+Imagery depicting a person’s violent death or life threatening event when the act of violence is committed by uniformed personnel performing a police function.
+
+Imagery depicting acts of brutality (e.g., acts of violence or lethal threats on forcibly restrained subjects) by uniformed personnel performing a police function.
+
+Imagery depicting fetuses and babies outside of the womb that are deceased, unless another person is present in the image.
+
+Imagery, in a medical context, depicting a person’s broken, bleeding teeth, removed teeth where blood is present; or the insertion of foreign objects into the teeth or gums.
+
+Imagery of animals
+
+Imagery depicting already-dead animals, if there is dismemberment, visible innards, burning or charring, or where blood is present.
+
+Imagery depicting animals going from live to dead if there is no dismemberment, or visible innards, burning or charring, or boiling alive.
+
+Imagery depicting people committing acts of brutality (e.g., acts of violence or lethal threats on forcibly restrained subjects) on living animals.
+
+For the following Community Standards, we require additional information and/or context to enforce:
+We remove:
+
+Imagery depicting the violent death of someone when a family member of the deceased requests its removal.
+
+Video which includes audio, but not a visual depiction, of a person’s violent death when the person’s death is confirmed by law enforcement record, death certificate, Trusted Partner report, or media report and a family member of the deceased requests its removal.
+
+Video of charred or burning humans in the context of self-immolation as an act of protest.

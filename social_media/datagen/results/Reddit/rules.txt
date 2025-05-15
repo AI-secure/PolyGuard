@@ -1,0 +1,112 @@
+1. Do not attack marginalized or vulnerable groups of people.
+2. Do not incite violence or promote hate based on identity or vulnerability.
+3. Do not engage in harassment, bullying, or threats of violence.
+4. Do not cheat or engage in content manipulation, including spamming, vote manipulation, ban evasion, or subscriber fraud.
+5. Do not instigate harassment by revealing personal or confidential information.
+6. Do not post or threaten to post intimate or sexually-explicit media of someone without their consent.
+7. Do not share or encourage sharing of sexual, abusive, or suggestive content involving minors.
+8. Do not engage in predatory or inappropriate behavior involving a minor.
+9. Do not impersonate an individual or an entity in a misleading or deceptive manner.
+1. You may not access or use any Feature if you are under 18 years old or otherwise under the minimum age required by the laws of your country of residence to enter into binding contracts.
+2. You may not access or use any Feature if you are a person with whom transactions are prohibited under economic or trade sanctions, embargoes, export restrictions, or are located in a country subject to the foregoing.
+3. You may not access or use any Feature if your Account is suspended, terminated, has violated the Reddit Terms, or is otherwise not in good standing.
+4. You may not transfer, sell, trade, barter, or otherwise dispose of your Reddit Econ Features outside of the Services or your Account without Reddit's permission.
+5. You may not use or attempt to use Services for acquiring or disposing of Reddit Econ Features that were fraudulently obtained, stolen, or otherwise illegally obtained.
+6. You may not use any Reddit Econ Feature for illegal purposes, including market manipulation, money laundering, fraud, or any other crime.
+7. You may not directly or indirectly acquire or dispose of Verified Digital Goods when in possession of any material non-public information related to them.
+8. You may not provide your Vault Access Info, private key, or recovery phrase to anyone, including Reddit employees.
+9. You may not deliberately initiate transfers or transactions involving Verified Digital Goods in violation of the Previews Terms.
+10. You may not encourage or cause any third party to violate any of the representations, warranties, acknowledgments, and agreements set forth in the Previews Terms.
+11. Developers must comply with Reddit’s Privacy Policy when collecting, sharing, and storing user data.
+1. Users are prohibited from posting illegal content on Reddit.
+2. Users are prohibited from soliciting or facilitating illegal or prohibited transactions on Reddit, including paid services involving physical sexual content.
+3. Users are prohibited from posting or encouraging the posting of any sexual or suggestive content involving minors.
+4. Users must not engage in harassment, bullying, or threats of violence on Reddit.
+5. Advertisers are prohibited from promoting products or services that facilitate illegal behavior on or off the platform, such as slavery and human trafficking.
+6. Advertisers are prohibited from disseminating obscene, offensive, or inappropriate content, products, or services through advertisements on Reddit.
+7. Users and organizations using Reddit must not participate in unlawful discrimination and harassment.
+8. Users and organizations using Reddit are prohibited from engaging in any act or threat of violence.
+9. Suppliers providing goods or services to Reddit must not violate human rights or engage in unethical business practices.
+10. Suppliers must adhere to applicable laws and regulations in their business practices and supply chains in compliance with Reddit’s Supplier Code of Conduct.
+1. Users are prohibited from posting illegal content on Reddit.
+2. Users are prohibited from soliciting or facilitating illegal or prohibited transactions.
+3. Users are prohibited from posting or encouraging the posting of any sexual or suggestive content involving minors.
+4. Users must not harass, bully, or threaten violence against others on Reddit.
+5. Advertisers are prohibited from advertising products or services that facilitate illegal behavior on or off the platform, such as slavery and human trafficking.
+6. Advertisers are prohibited from advertising the dissemination of obscene, offensive, or inappropriate content, products, or services.
+7. Suppliers are required to respect human rights, adhere to high ethical standards, and abide by the law in their business practices and supply chains in compliance with Reddit’s Supplier Code of Conduct.
+1. You may not access or use any Feature if you are under 18 years old or do not meet the legal age requirements of your country to enter into binding contracts.
+2. You may not access or use any Feature if you are a person prohibited under economic or trade sanctions, embargoes, export restrictions, or listed as a prohibited or restricted party, or are located in (or a citizen of) a country subject to these restrictions.
+3. You may not access or use any Feature if your Account is suspended, terminated, has violated the Reddit Terms, or is otherwise not in good standing.
+4. You must not use your Vault or any blockchain account's private key or recovery phrase for any transactions involving goods or services that are prohibited under Reddit’s policy against transactions involving prohibited goods or services.
+5. Never provide your Vault Access Info to anyone else, including Reddit. No Reddit employee will ever ask you for your Vault Access Info.
+6. You may not use or attempt to use the Services to acquire or dispose of any Reddit Econ Features that were fraudulently obtained, stolen, taken without authorization, or otherwise illegally obtained.
+7. You must not use any Reddit Econ Feature for any illegal purpose, including market manipulation, money laundering, fraud, or any other crime.
+8. You must not attempt to transfer or sell Reddit Econ Features, except as expressly allowed in the Previews Terms.
+9. You will not cause or attempt to cause any third party to violate the Previews Terms.
+10. You agree not to engage in any prohibited transfer of Reddit Econ Features as such transfers are null and void.
+11. You must not breach the Previews Terms or Reddit Terms, as doing so may result in a ban from Reddit or certain subreddits.
+12. You must not violate Reddit’s Developer Terms when using Devvit Apps, and must comply with the Moderator Code of Conduct.
+13. You must not attempt to evade or circumvent any access restrictions placed on your Account, Vault, or Verified Digital Goods by Reddit.
+14. You must not breach any transfer restrictions related to Collectible Avatars, including transferring without meeting necessary requirements.
+The document provided is primarily focused on procedural guidelines for law enforcement and government requests rather than specific rules for user conduct on the Reddit platform. However, there are some points mentioning prohibited actions, mostly in the context of these requests. Based on the content provided, here are explicit rules extracted relevant to the behavior or actions users and organizations must not do:
+
+1. Submitting falsified or fraudulent Emergency Disclosure Requests is prohibited and may be reported to law enforcement.
+
+2. Overbroad, vague, or legally insufficient requests for account information or content removal are subject to rejection.
+
+3. Requests seeking privileged or confidential information, or that may infringe upon free speech or other human rights, can be objected to and potentially rejected.
+
+4. Requests that are inconsistent with international law, or lack a basis in Reddit’s Content Policy or applicable local laws, are grounds for possible rejection.
+
+5. Attempts to reactivate deleted accounts are not permitted, as deleted accounts cannot be reactivated, and the username is not available for re-use.
+1. Do not attack marginalized or vulnerable groups of people, or promote hate based on identity or vulnerability.
+2. Do not engage in harassment, bullying, or threats of violence.
+3. Do not incite violence.
+4. Do not cheat or engage in content manipulation, including spamming, vote manipulation, ban evasion, or subscriber fraud.
+5. Do not interfere with or disrupt Reddit communities.
+6. Do not reveal someone's personal or confidential information, instigate harassment, or post or threaten to post intimate or sexually-explicit media of someone without their consent.
+7. Do not share or encourage the sharing of sexual, abusive, or suggestive content involving minors.
+8. Do not engage in predatory or inappropriate behavior involving minors.
+9. Do not impersonate an individual or entity in a misleading or deceptive manner.
+10. Properly label content and communities, especially if the content is graphic, sexually-explicit, or offensive.
+11. Do not post illegal content or solicit or facilitate illegal or prohibited transactions.
+12. Do not engage in actions that interfere with the normal use of Reddit.
+The provided document is primarily focused on guidelines for law enforcement and legal processes rather than typical platform rules for user conduct. However, based on the information in the document, here are some explicit rules related to prohibited actions within that context:
+
+1. Users must not submit falsified or fraudulent Emergency Disclosure Requests.
+2. Users must not request the removal of user-generated content through non-official channels if they are not law enforcement or government agencies.
+3. Law enforcement and government agencies must not submit preservation requests without meeting the required submission criteria (e.g., on official letterhead, signed, identifying relevant records accurately, etc.).
+4. Users are prohibited from submitting content removal requests that are vague, overbroad, or inconsistent with international law.
+5. Users must not falsely declare compliance with Reddit’s policies or fabricate authorizations or orders regarding requests for information or content removal.
+6. Users must not submit account information or content removal requests via phone, as Reddit does not provide phone support for legal processes.
+7. Users should not expect the disclosure of non-public account information except as required by applicable law and requests complying with legal standards.
+1. Users under 13 years old are not allowed to use or access the Services.
+2. You may not license, sell, transfer, assign, distribute, host, or otherwise commercially exploit the Services or Content without written agreement from Reddit.
+3. You may not modify, prepare derivative works of, disassemble, decompile, or reverse engineer any part of the Services or Content.
+4. You are prohibited from accessing the Services or Content to build a similar or competitive website, product, or service, except as permitted under any Additional Terms.
+5. You may not sell or transfer your Reddit account without prior written approval from Reddit.
+6. Prohibited from using the Services to upload, transmit, or distribute viruses, worms, malicious code, or other software intended to interfere with the security-related features of the Services.
+7. You may not use the Services to violate applicable law or infringe any person’s or entity’s intellectual property rights or any other proprietary rights.
+8. You are not allowed to access, search, or collect data from the Services by any means (automated or otherwise) except as permitted in these Terms or a separate agreement with Reddit.
+9. You may not use the Services in any manner that is considered to be an abuse or fraud on Reddit or any payment system.
+10. When moderating a subreddit, you may not perform moderation actions in return for any form of compensation, consideration, gift, or favor from third parties.
+11. Moderators may not enter into any agreement with a third party on behalf of Reddit or any subreddits moderated, without Reddit's written approval.
+12. Moderators must not use non-public information obtained through moderation for non-moderation purposes.
+13. Users may not knowingly misrepresent any activity or material as infringing in a copyright or trademark notification.
+14. You must not represent that a Promotion you conduct is sponsored, endorsed, or associated with Reddit without clearly stating otherwise.
+15. Access to or attempt to gain access to another user’s Account or any non-public portions of the Services, including the computer systems or networks connected to or used together with the Services, is prohibited.
+1. Moderators must not create, approve, enable, or encourage rule-breaking content or behavior.
+2. Moderators must not interfere with or disrupt Reddit communities.
+3. Moderators must not facilitate, encourage, coordinate, or enable members of their community to interfere with or disrupt other Reddit communities.
+4. Moderators must not mention other communities or users with the effect of inciting targeted harassment or abuse.
+5. Moderators must not enable or encourage users to violate Reddit Rules anywhere on the platform.
+6. Moderators must not enable or encourage users to post or repost content in other communities that is expressly against those communities' rules.
+7. Moderators must not enable or encourage content that showcases when users are banned or actioned in other communities, with the intent to incite a negative reaction.
+8. Moderators must not take moderation actions in exchange for any form of compensation, consideration, gift, or favor from or on behalf of third parties.
+9. Moderators must not create ad space in their community, such as offering to pin posts for a fee or using subreddit styling to advertise for a third party.
+10. Moderators must not accept financial goods and/or services as compensation for moderation actions.
+11. Moderators must not accept purchasable Reddit goods and/or services as compensation for moderation actions.
+12. Moderators must not accept physical goods and/or services as compensation for moderation actions.
+13. Moderators must not accept considerations and/or favors as compensation for moderation actions.
+14. Moderators must not accept personal services or access to content as compensation for moderation actions.

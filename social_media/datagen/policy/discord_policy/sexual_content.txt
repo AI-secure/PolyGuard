@@ -1,0 +1,30 @@
+Sexual Content Policy Explainer
+Sexual Content
+At Discord, we believe users should feel comfortable expressing themselves. That’s why we allow our adult users (18+) to post and share sexual content, so long as it aligns with our policies. We also understand that not everyone wants to see this type of content, and that this content isn’t appropriate for our younger users. In order to maintain a safe environment for all, we have limitations on where sexually explicit content can be posted on Discord and how it can be accessed.
+
+[Sensitive language content warning]
+Discord defines sexually explicit content as any content that presents genitalia, female nipples, the anus, or sexual activity without censoring or obscuring it. Sexually suggestive content is any content that may evoke sexual arousal without being overt in description or depiction of genitalia, female nipples, the anus, or sexual activity.
+
+While we may make exceptions for educational or newsworthy content, in general, all sexually explicit content on Discord is considered age-restricted and should only be posted or accessed by users who are 18 years of age or older.
+
+Sexually explicit content should not be posted in general open access areas within Discord:
+
+For servers, this includes any sections of a server’s profile where content can be posted and seen outside of the server, such as the server name, server invite link, server invite background, and server icon. This also includes content hosted within a server that can be posted elsewhere on the platform, such as stickers and emojis.
+For user and bot accounts, these surfaces include all sections of the User Profile, such as the username, display name, avatar, banner, and About Me sections. Users may not post sexual content in any sections of their account’s server profiles unless the server profile is associated with a server that is entirely age-gated.
+Servers can host sexually explicit content within their server as long as it does not violate our policies, the server owner and moderators are all over the age of 18 and any channel where sexually explicit content is hosted is marked with an age-restricted label. You can learn how to apply an age-restricted label to your server channels here. Please note that we may also place an age-gate on an entire server if it appears that that server is primarily being used to host sexual content.
+
+Finally, although we want to provide adult users with the freedom to express their sexuality and engage with sexual content at their own choice and risk, sexual content that is likely to lead to serious bodily harm or death is disallowed even if consensually shared and consumed.
+
+In addition, Discord has a zero-tolerance policy towards those who engage in sexual grooming, extortion (sometimes referred to as “sextortion”), or the sexual exploitation of children or teens under the age of 18. Learn more about our Teen and Child Safety Policies.
+
+How to Avoid Violating This Policy
+Don’t put sexually explicit content in the sections of your user profile
+Don’t post or share sexual content that could encourage other people to physically harm themselves or someone else
+Don’t send sexual content directly to others unless you’re sure they want to see or receive it
+If you’re posting sexual content in a server, make sure you’re posting it in an age-gated channel
+If you own a server and want to allow sexual content:
+Make sure your moderators are the age of 18+
+Put age-restricted labels on channels where members can post this content
+Don’t post sexual content on server surfaces that could be seen by non-server members, such as in the server name, icon, invite link, invite background, stickers, or emojis
+How to Report Violations of This Policy
+Reporting safety violations is critically important to keeping you and the broader Discord community safe. All Discord users can report policy violations in the app by following the instructions here. For more information on this policy, please reference our Community Guidelines #9.

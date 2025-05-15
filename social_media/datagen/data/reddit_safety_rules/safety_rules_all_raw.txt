@@ -1,0 +1,90 @@
+1. Do not post illegal content or solicit/facilitate illegal/prohibited transactions (including paid services involving physical sexual content)
+2. Do not post or encourage sexual/suggestive content involving minors
+3. Do not engage in harassment, bullying, or threats of violence against users
+4. Do not advertise products/services that facilitate slavery, human trafficking, or illegal behavior
+5. Do not advertise obscene, offensive, or inappropriate content/products/services
+6. Do not permit unlawful discrimination or harassment within company operations
+7. Do not tolerate acts/threats of violence in workplace environments
+8. Do not work with suppliers that violate human rights or ethical standards in their operations/supply chains
+9. Do not allow suppliers to use slavery/human trafficking in business practices
+10. Do not ignore reports of policy violations submitted through the Code of Conduct portal or internal channels
+11. Do not leave rule-violating content undeleted after identification
+12. Do not permit artificial promotion/manipulation of content through prohibited means
+13. Do not avoid sanctions (account suspensions, bans) for confirmed bad actors
+14. Do not employ staff without providing training on anti-slavery policies and ethical practices
+
+1. Do not request user account information without a valid subpoena, court order, or equivalent legal process.
+2. Do not submit emergency disclosure requests (EDRs) unless there is an imminent threat of death or serious bodily harm.
+3. Do not submit preservation requests without law enforcement letterhead, officer signature, and specific username/URL identifiers.
+4. Do not expect Reddit to disclose non-public message content without a valid search warrant or equivalent legal authorization.
+5. Do not request content removal without providing specific URLs and citations of violated laws/Reddit policies.
+6. Do not serve legal requests for EU user data directly to Reddit Inc. (US) - they must be addressed to Reddit Netherlands B.V.
+7. Do not submit falsified emergency requests - they may be reported to law enforcement.
+8. Do not expect Reddit to retain IP address logs beyond 100 days (except registration IPs).
+9. Do not assume deleted account content is fully removed - posts/comments remain visible without username attribution.
+10. Do not bypass the Legal Request Portal for government/law enforcement inquiries to avoid processing delays.
+11. Do not request expert witness testimony - Reddit does not provide custodial testimony.
+12. Do not submit overbroad requests for user data - they must be narrowly tailored to specific accounts/information.
+13. Do not assume users won't be notified of information requests unless legally prohibited.
+14. Do not serve non-EEA legal requests for EEA user data without proper MLAT procedures.
+15. Do not submit EU Terrorist Content removal requests without using the official TCOR template to LETCO@reddit.com.
+
+1. Do not create, approve, enable, or encourage rule-breaking content in posts, comments, flairs, rules, wiki pages, styling, welcome messages, or modmails.
+2. Do not provide unclear or inaccurate descriptions of your community’s purpose, rules, or expectations.
+3. Do not mislabel mature/18+ content (e.g., sexually explicit material) as safe for general audiences.
+4. Do not falsely claim official or unofficial affiliation with a brand, organization, or company without explicit disclosure.
+5. Do not direct, coordinate, or encourage harassment, interference, or abuse targeting other communities or users.
+6. Do not enable or incentivize users to violate Reddit Rules in other subreddits or platforms.
+7. Do not encourage reposting content that violates another community’s rules.
+8. Do not showcase user bans or moderation actions from other communities to incite negative reactions.
+9. Do not neglect moderation duties (e.g., failing to monitor ModQueue, ModMail, or community engagement).
+10. Do not “camp” or hold inactive subreddits without active moderation or community growth efforts.
+11. Do not accept compensation (financial, gifts, favors, etc.) for moderation actions like bans, approvals, or content
+
+1. Users under 18 years old or below the legal age of contractual consent in their country cannot access features.
+2. Users in sanctioned countries/regions or on prohibited parties lists are barred from feature access.
+3. Accounts suspended/terminated or not in good standing lose eligibility to use features.
+4. Private keys/recovery phrases for Reddit Vault must never be shared with anyone (including Reddit employees).
+5. Users must secure Vault Access Info (private keys, recovery phrases, passwords) or risk permanent loss of Verified Digital Goods.
+6. Verified Digital Goods cannot be used for commercial purposes without explicit authorization.
+7. Collectible Avatars cannot be sold/transferred without honoring royalty fees (typically 5% of sale price).
+8. Third-party intellectual property in Digital Good Art cannot be used beyond incorporated/licensed contexts.
+9. Users must comply with additional restrictions if Reddit modifies/replaces Digital Good Art due to infringement risks.
+10. Moderators installing Devvit Apps must adhere to Moderator Code of Conduct and Reddit Terms.
+11. Interactions with Devvit Apps must comply with Reddit's content policies and Privacy Policy.
+12. Devvit Apps collecting user data must follow Reddit's Privacy Policy requirements.
+13. Reddit Econ Features cannot be portrayed/used as investments or financial instruments.
+14. Unauthorized transfers/sales of Reddit Econ Features outside the Services are prohibited.
+15. Users cannot engage in illegal activities (money laundering, fraud, etc.) with Verified Digital Goods.
+16. Linking blockchain transactions to prohibited goods/services violates policies.
+17. Developers offering Devvit Goods must provide clear terms of use and dispute resolution mechanisms.
+18. Users assume all risks related to blockchain failures, transfer errors, and tax/legal consequences.
+19. Reddit reserves the right to terminate/modify features without compensation for lost access.
+20. Refunds are prohibited for Reddit Econ Features except where required by EEA/UK/Swiss law.
+
+1. Do not attack, harass, bully, or threaten violence against marginalized or vulnerable groups.
+2. Do not engage in spamming, vote manipulation, ban evasion, subscriber fraud, or content manipulation.
+3. Do not reveal personal/confidential information or share intimate/suggestive media without consent.
+4. Do not share or promote sexual/abusive content involving minors or engage in predatory behavior toward minors.
+5. Do not impersonate individuals, entities, or organizations in a deceptive/misleading way.
+6. Do not post unlabeled graphic, sexually-explicit, or offensive content that disrupts predictable user experiences.
+7. Do not share illegal content or facilitate prohibited transactions (e.g., drugs, weapons).
+8. Do not interfere with Reddit’s functionality, disrupt services, or exploit technical vulnerabilities.
+9. Do not incite hatred or violence based on identity, ethnicity, religion, or vulnerability status.
+10. Do not create communities explicitly designed to diminish belonging or safety for specific groups.
+
+1. Do not use the Services if under 13 years old.
+2. Do not interfere with, disable, disrupt, overburden, or impair the Services' functionality.
+3. Do not gain unauthorized access to another user's Account or non-public portions of the Services.
+4. Do not upload, transmit, or distribute viruses, worms, malicious code, or harmful software through the Services.
+5. Do not use the Services to violate applicable laws or infringe intellectual property rights.
+6. Do not scrape, access, or collect data from the Services without prior written consent from Reddit, except as permitted by robots.txt.
+7. Do not engage in activities that constitute abuse, fraud, or manipulation of Reddit or payment systems.
+8. Do not commercially exploit the Services or Content through licensing, selling, or distribution without Reddit's written agreement.
+9. Do not modify, reverse engineer, or create derivative works of the Services except as permitted by law.
+10. Do not post Content without possessing all necessary rights, licenses, and permissions.
+11. Do not sell, transfer, or license your Account without Reddit's prior written approval.
+12. Do not accept compensation, gifts, or favors in exchange for moderation actions as a moderator.
+13. Do not imply Reddit's sponsorship or endorsement when conducting promotions or contests on the Services.
+14. Do not submit false or misleading copyright or trademark infringement claims.
+15. Do not post Content that is illegal, defamatory, or likely to create liability for Reddit.

@@ -1,0 +1,26 @@
+Our Approach to Dangerous and Deceptive Content
+Spotify teams work around the clock to create a safe and enjoyable experience for our creators, listeners, and advertisers. While the majority of content on our platform is policy compliant and most listening time is spent on licensed content, bad actors do occasionally try to spoil the experience by sharing deceptive and/or manipulated information. When we identify content which violates our Platform Rules, we move promptly to take the appropriate action. Read on to learn more about the tactics we use to keep Spotify free from harm.
+
+Deceptive content can take many forms, ranging from innocuous rumors to very serious, targeted campaigns designed to spread fear and harm amongst communities. In a changing world these trends evolve quickly and we leverage the expertise of our internal teams and external partners to better understand these types of manipulation.
+
+In many cases, these sorts of malicious narratives may be shared by someone who might not know they are false or misleading. And while some falsehoods are not dangerous ("my dog is the smartest in the world"), other egregious examples clearly are ("cancer is a hoax"). The term 'misinformation' is frequently used to describe multiple types of manipulated information, including disinformation, which is content deliberately shared by malicious actors to sow doubt on authentic content.
+
+Dangerous and deceptive content is nuanced and complex and requires a great deal of thoughtful evaluation. We believe that addressing these types of violations through multiple policy categories allows us to be more effective and precise in our decisions.
+
+For example, within our Dangerous Content policies, we make it clear that we do not allow content promoting false or deceptive medical information that may cause offline harm or directly threaten public health. Another example is within our Deceptive Content policies, which outline that we take action on content that attempts to manipulate or interfere with election-related processes, including that which intimidates or suppresses voters from participating in an election.
+
+When assessing these forms of online abuse, we take multiple factors into account, including:
+
+the substance of the content (for example, is the creator pretending to be someone else?)
+the context (for example, is it a news report about a dangerous narrative that is spreading, or is it endorsing the narrative itself?)
+the motivation (for example, is the creator attempting to trick a user into voting past the deadline?)
+the risk of harm (for example, is there a high likelihood the spread of the narrative will result in imminent physical harm?)
+Dangerous deception is often hyper-localized, targeting specific markets, languages, and particular at-risk populations. To address this, we leverage local market expertise to help ensure we stay close to emerging trends that may present a serious risk of harm and scale this human knowledge using machine learning classifiers. This approach is known as "the human in the loop."
+
+We recognize that this type of content can be more prevalent during periods of uncertainty and volatility, when authoritative information may be scarce. For this reason, we may also take a number of content actions to help limit the spread of potentially abusive content during sensitive events when there is a more pronounced risk of harmful narratives leading to offline violence.
+
+For example, we may restrict the content's discoverability in recommendations, include a content advisory warning, or elect to remove it from the platform. We may also surface content from authoritative sources to ensure our users have access to accurate and trusted information, such as links to official voting-related resources developed and maintained by election commissions.
+
+We continuously iterate our policies and reviewer guidance based on inputs from within our own Spotify teams, external stakeholders, and our partners on the Spotify Safety Advisory Council.
+
+You can read more about our safety work here and see our guidance for creators during past elections here.

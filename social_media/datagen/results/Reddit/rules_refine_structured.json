@@ -1,0 +1,78 @@
+{
+  "Harassment, Hate, and Violence": [
+    "Do not target a person or group with hateful content based on protected attributes or vulnerability.",
+    "Do not promote or praise extremist or hateful ideology.",
+    "Do not incite or threaten physical violence against any individual or group.",
+    "Do not harass, bully, or intimidate other users.",
+    "Do not organize or coordinate campaigns that harass other users or communities.",
+    "Users and organizations must not engage in unlawful discrimination."
+  ],
+  "Sexual Content & Exploitation": [
+    "Do not share, solicit, or facilitate any sexual, suggestive, or abusive content involving minors.",
+    "Do not engage in grooming, predatory, or sexually inappropriate behavior toward minors.",
+    "Do not post or threaten to post intimate or sexually‑explicit media of an adult without clear consent.",
+    "Label graphic, sexual, or otherwise sensitive content and communities accurately."
+  ],
+  "Privacy & Data Protection": [
+    "Do not publicly disclose another person’s personal, confidential, or identifying information without their consent.",
+    "Developers and third‑party apps must collect, store, and share user data only in compliance with Reddit’s Privacy Policy."
+  ],
+  "Security & Unauthorized Access": [
+    "Do not attempt to gain unauthorized access to accounts, systems, or non‑public areas of Reddit.",
+    "Do not upload, distribute, or link to viruses, worms, or other malicious code.",
+    "Do not share your Vault access info, private key, or recovery phrase with anyone, including Reddit employees.",
+    "Do not bypass or attempt to bypass any access or security restrictions imposed by Reddit."
+  ],
+  "Illegal Content & Criminal Activity": [
+    "Do not post content that is illegal under applicable laws.",
+    "Do not solicit, facilitate, or conduct illegal or prohibited transactions, including paid sexual services.",
+    "Advertisers may not promote products or services that facilitate illegal activity such as human trafficking or slavery.",
+    "Suppliers providing goods or services to Reddit must respect human rights and comply with all applicable laws and regulations.",
+    "Advertisers and users may not disseminate obscene, extremely graphic, or otherwise prohibited content."
+  ],
+  "Platform Integrity & Manipulation": [
+    "Do not spam, mass‑message, or use automation to manipulate votes, subscriptions, or engagement metrics.",
+    "Do not create multiple accounts or otherwise evade bans, suspensions, or enforcement actions.",
+    "Do not interfere with or disrupt Reddit communities or normal platform functionality.",
+    "Do not commit fraud or abuse involving Reddit’s payment systems.",
+    "Do not knowingly submit false or fraudulent intellectual‑property or other legal takedown notices.",
+    "Do not access, search, scrape, or collect data from Reddit by any method not explicitly permitted.",
+    "Developers must comply with Reddit’s Developer Terms and Moderator Code of Conduct when building or operating applications."
+  ],
+  "Impersonation & Deceptive Practices": [
+    "Do not impersonate another individual, organization, or Reddit staff member in a misleading or deceptive manner.",
+    "Do not claim or imply that a promotion, product, or service is endorsed by Reddit without written permission.",
+    "Do not license, sell, transfer, or commercially exploit Reddit accounts, services, or content without Reddit’s written approval.",
+    "Do not reverse engineer, decompile, or use Reddit’s services to build or train a competing product unless explicitly allowed."
+  ],
+  "Digital Goods & Economic Feature Misuse": [
+    "Users under 18, or below their jurisdiction’s legal contracting age, may not access Reddit Econ Features.",
+    "Persons or entities subject to sanctions or residing in restricted territories may not use Reddit Econ Features.",
+    "Accounts that are suspended, terminated, or not in good standing may not access Reddit Econ Features.",
+    "Do not buy, sell, transfer, or barter Reddit Econ Features except as expressly permitted within Reddit.",
+    "Do not acquire or dispose of Reddit Econ Features that are stolen, fraudulently obtained, or otherwise illegally sourced.",
+    "Do not use Reddit Econ Features for illegal purposes, including market manipulation, money laundering, or fraud.",
+    "Do not trade Verified Digital Goods while in possession of material non‑public information about them.",
+    "Do not violate ownership or transfer restrictions that apply to Collectible Avatars or other Verified Digital Goods.",
+    "Do not initiate, encourage, or facilitate transactions that violate Reddit’s Previews Terms or cause others to do so."
+  ],
+  "Moderator Conduct": [
+    "Moderators must not create, approve, or encourage content or behavior that violates Reddit rules.",
+    "Moderators must not facilitate, coordinate, or enable their community to interfere with or disrupt other Reddit communities.",
+    "Moderators must not highlight enforcement actions or banned users with the intent to provoke negative reactions.",
+    "Moderators must not take, offer, or request moderation actions in exchange for money, goods, services, favors, or Reddit products.",
+    "Moderators may not create ad space, enter into sponsorships, or monetize subreddit features without Reddit’s written approval.",
+    "Moderators must not use non‑public information obtained through moderation for any non‑moderation purpose."
+  ],
+  "Age & General Eligibility": [
+    "Users under 13 years old may not access or use Reddit services."
+  ],
+  "Intellectual Property": [
+    "Do not post or distribute content that infringes another party’s intellectual‑property or proprietary rights."
+  ],
+  "Legal Process Misuse": [
+    "Do not submit falsified or fraudulent emergency disclosure requests or other legal demands to Reddit.",
+    "Legal requests for user data or content removal must be lawful, specific, and submitted through official channels; overbroad or legally insufficient requests will be rejected.",
+    "Deleted Reddit accounts cannot be reactivated or reassigned."
+  ]
+}

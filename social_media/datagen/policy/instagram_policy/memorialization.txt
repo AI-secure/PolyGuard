@@ -1,0 +1,19 @@
+Policy Rationale
+When someone passes away, friends and family can request that we memorialize their accounts. Once memorialized, the word "Remembering" appears above the name on the person's profile so that the account is now a memorial site. Memorializing accounts helps create a space for remembering loved ones and protects against attempted logins and fraudulent activity. To respect the choices someone made while alive, we aim to preserve their account without changes after they pass away.
+On Facebook, we have made it possible for people to identify a legacy contact to look after their account after they pass away. To support the bereaved, in some instances, we may remove or change certain content when the legacy contact or family members request it.
+
+Requests to memorialize Facebook or Instagram accounts that belong to deceased users can be made with the requisite information by:
+Facebook friends
+Instagram followers
+Family members with the correct documentation
+For victims of murder and suicide we will remove the following content on Facebook and Instagram if it appears on the deceased’s profile photo, cover photo, or among recent timeline posts when requested by a family member of the deceased. We may also remove this content on Facebook when requested by the Facebook legacy contact:
+Content related to the deceased's death
+Praise or support for the death, disease, or harm of the deceased
+Visual depiction of the object used in the deceased’s death.
+Imagery of the convicted or alleged murderer of the deceased.
+Relationship status or friend status of the convicted or alleged murderer of the deceased
+For the following Community Standards, we require additional information and/or context to make the following changes when requested by an authorized representative of the deceased and on Facebook-only, by the legacy contact:
+Remove violating comments on a memorialized profile, which would typically require the individual to self report so that we know that they are unwanted.
+Change the deceased's individual's privacy settings from public to friends-only when there is harmful content on the profile
+Change the name on the profile if it violates our Community Standards, in accordance with our Authentic Name policy
+Add friends or followers to the profile if they were removed following the deceased’s passing

@@ -1,0 +1,87 @@
+{
+  "Violence & Graphic Harm": [
+    "Content must not incite or threaten physical violence against an individual or group.",
+    "Content must not provide instructions for or solicit participation in non-extremist violent or criminal acts.",
+    "Content must not depict excessively graphic violence, mutilation, or gore intended to shock or disgust.",
+    "Content must not promote animal cruelty or torture."
+  ],
+  "Hate & Harassment": [
+    "Content must not target a person or group with harassment, bullying, or abusive language.",
+    "Content must not repeatedly direct unwanted sexual advances at any individual.",
+    "Content must not shame, intimidate, or harass a minor.",
+    "Content must not use dehumanizing language toward a person or group based on protected characteristics.",
+    "Content must not incite, praise, or celebrate violence against a person or group because of protected characteristics.",
+    "Content must not promote or glorify hate groups or their symbols."
+  ],
+  "Terrorism & Violent Extremism": [
+    "Content must not promote, support, or glorify terrorist or violent extremist organizations or individuals.",
+    "Content must not coordinate, threaten, or praise acts of violence by extremist groups or their members.",
+    "Content must not provide instructions or instructional materials for extremist violence.",
+    "Content must not solicit funds, resources, or recruits for extremist activities."
+  ],
+  "Self-Harm & Suicide": [
+    "Content must not encourage, promote, or glorify suicide or self-harm."
+  ],
+  "Child Safety & Sexual Exploitation": [
+    "Content must not promote, solicit, or facilitate child sexual abuse or exploitation.",
+    "Content must not depict a minor engaged in sexual activities or lascivious nudity.",
+    "Content must not promote acts of child sexual abuse or exploitation in exchange for money or goods.",
+    "Content must not encourage or promote sexual attraction by adults toward minors.",
+    "Content must not normalize, glorify, or instruct grooming behaviours toward minors."
+  ],
+  "Adult Sexual Content": [
+    "Content must not share sexually explicit material, including pornography or depictions of genitalia intended for sexual arousal.",
+    "Content must not advocate, glorify, or depict sexual violence such as rape, incest, or bestiality."
+  ],
+  "Health Misinformation": [
+    "Content must not share false or deceptive medical information that could cause offline harm or threaten public health.",
+    "Content must not claim that serious diseases (e.g., AIDS, COVID-19, cancer) are a hoax.",
+    "Content must not encourage or endorse the ingestion or application of toxic substances (e.g., bleach) as medical treatment.",
+    "Content must not claim that vaccines approved by local health authorities are designed to cause death or serious harm.",
+    "Content must not encourage deliberate infection with contagious diseases (e.g., “COVID-19 parties”)."
+  ],
+  "Disinformation & Dangerous Narratives": [
+    "Content must not deliberately spread disinformation or malicious narratives intended to create fear, doubt, or harm to communities.",
+    "Content must not endorse or promote dangerous narratives that are likely to result in offline violence or physical harm."
+  ],
+  "Election Integrity & Civic Processes": [
+    "Content must not attempt to manipulate or interfere with election or other civic processes.",
+    "Content must not misrepresent procedures, requirements, or deadlines in a way that could discourage or prevent participation.",
+    "Content must not intimidate, threaten, or suppress voters."
+  ],
+  "Manipulated & Synthetic Media": [
+    "Content must not present manipulated or synthetic audio, video, or images as authentic when such presentation poses a risk of harm.",
+    "Content must not alter genuine recordings to change their meaning or context and present them as true.",
+    "Content must not create or distribute synthetic media claimed to depict real events or people without clear disclosure.",
+    "Political advertisements that contain synthetic or manipulated media depicting real or realistic people or events must clearly disclose the use of such technology."
+  ],
+  "Impersonation": [
+    "Users must not impersonate another person, brand, or organization in a deceptive or misleading manner.",
+    "Users must not replicate another creator’s name, image, or description with the intent to deceive."
+  ],
+  "Privacy & Non-Consensual Intimacy": [
+    "Content must not share or threaten to share non-consensual intimate imagery.",
+    "Content must not disclose or threaten to disclose someone’s private or personally identifiable information without consent."
+  ],
+  "Fraud, Phishing & Malware": [
+    "Content must not post, share, or provide instructions for creating or deploying malware or other malicious software.",
+    "Content must not engage in phishing or other deceptive practices to obtain sensitive information.",
+    "Content must not promote investment or financial scams, including get-rich-quick schemes or pyramid schemes.",
+    "Content must not engage in any malicious or deceptive practices that take advantage of the Sportify community."
+  ],
+  "Illegal & Regulated Goods": [
+    "Content must not promote the sale, purchase, or use of illegal or regulated goods, including firearms or drugs.",
+    "Content must not sell or facilitate the trade of endangered species or products derived from them.",
+    "Content must not create content intended to promote, facilitate, or instruct the commission of illegal acts.",
+    "Users must comply with all sanctions, export controls, and other applicable regulations governing restricted goods or services."
+  ],
+  "Intellectual Property": [
+    "Content must not infringe or encourage the infringement of copyrights, trademarks, or other intellectual-property rights."
+  ],
+  "Platform Integrity & Legal Compliance": [
+    "Content must comply with all Sportify Platform Rules and applicable laws and regulations in the regions where the service operates.",
+    "Content that violates local laws must not be made available in jurisdictions where it is illegal.",
+    "Users must not abuse content-moderation processes, including coordinated or targeted reporting of the same content or user.",
+    "Repeated or egregious violations of the Platform Rules are prohibited and may lead to enforcement action."
+  ]
+}

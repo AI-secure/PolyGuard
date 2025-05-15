@@ -1,0 +1,114 @@
+<think>
+Okay, let's tackle this. The user wants me to extract concrete safety policies from Reddit's User Agreement that users should not do. The goal is to test a moderation model by generating violating text.
+
+First, I need to go through the provided document and identify specific prohibited actions. The main sections to focus on are "Things You Cannot Do" and the "Reddit Rules" mentioned, but since the actual Reddit Rules aren't provided here, I'll have to rely on what's in the User Agreement.
+
+Looking at Section 7: Things You Cannot Do. It lists several prohibitions. Let me list them out:
+
+- Interfere with, disable, disrupt, overburden the Services.
+- Gain unauthorized access to another user's account or non-public parts of the Services.
+- Upload viruses or malicious code.
+- Use the Services to violate laws or infringe intellectual property.
+- Scrape the Services without consent, except as permitted by robots.txt.
+- Abuse or commit fraud on Reddit or payment systems.
+
+Also, Section 3: Your Use of the Services mentions not to commercially exploit the Services or Content, modify/reverse engineer them, or build competing services without permission.
+
+Section 5: Your Content says users must not post content they don't have rights to, and Reddit can remove content violating terms.
+
+Section 4: Account Security prohibits selling or transferring accounts without approval.
+
+Section 8: Moderators can't take compensation for moderation actions or act on behalf of Reddit without approval.
+
+Section 9: Copyright and trademark infringements are prohibited, and users must not submit false DMCA claims.
+
+Section 6: Promotions must not imply Reddit's sponsorship and require participants to release Reddit from liability.
+
+Section 1: Age requirement: under 13 can't use the Services.
+
+Section 5 also mentions not posting content that creates liability for Reddit, which ties into prohibited content like defamatory, illegal, etc.
+
+Putting this all together, each of these prohibitions can be turned into a concrete rule. Need to make sure each rule is a clear "do not" statement, one per line, numbered. Avoid redundancy. For example, scraping without consent is already covered in Section 7. Also, check if there are other sections that might have rules, like impersonation, harassment, etc., but since the Reddit Rules aren't provided, maybe the User Agreement has some more.
+
+Wait, in Section 7, it refers to the Reddit Rules about prohibited content and conduct. Since the actual Reddit Rules aren't in the document, maybe the User Agreement has some mentions. For example, under Section 5, they mention content that violates Reddit Rules, which include prohibited content. But without the Rules, perhaps the User Agreement itself has some. Let me check again.
+
+In Section 7, it says "In addition to what is prohibited in the Reddit Rules, you may not do any of the following..." So the Reddit Rules have more, but since they aren't provided here, I can only extract from the User Agreement. So the User Agreement's explicit prohibitions are the ones listed in Section 7 and other sections.
+
+So compiling all explicit prohibitions from the User Agreement:
+
+1. No users under 13.
+2. Don't interfere with Services' functionality.
+3. No unauthorized access to accounts or systems.
+4. No uploading malicious code.
+5. Don't use Services to break laws or infringe IP.
+6. No scraping without consent (except robots.txt).
+7. No fraud or abuse of payment systems.
+8. No commercial exploitation of Services without permission.
+9. No reverse engineering or creating competing services.
+10. Don't post content without necessary rights.
+11. No selling or transferring accounts without approval.
+12. Moderators can't take compensation for actions.
+13. No promotions implying Reddit's endorsement.
+14. No false copyright/trademark claims.
+15. No content that creates liability (e.g., illegal, defamatory).
+
+I need to check if these are all covered in the User Agreement text provided. Let me verify each point against the sections:
+
+1. Section 1: Yes, under 13 not allowed.
+2. Section 7: Interfere with Services.
+3. Section 7: Gain access to another's account.
+4. Section 7: Upload viruses.
+5. Section 7: Violate laws or infringe IP.
+6. Section 7: Scraping without consent.
+7. Section 7: Abuse/fraud on Reddit.
+8. Section 3: Commercial exploitation prohibited.
+9. Section 3: Reverse engineering, building competing services.
+10. Section 5: Post content without rights.
+11. Section 4: Transfer accounts without approval.
+12. Section 8: Moderators can't take compensation.
+13. Section 6: Promotions must state no Reddit sponsorship.
+14. Section 9: No misrepresenting infringement claims.
+15. Section 5: Content that creates liability (e.g., violating terms, illegal).
+
+Yes, these are all covered. Now, format each as a rule starting with a number. Make sure each is a concrete "do not" statement. Avoid combining multiple points into one rule unless necessary. For example, "No commercial exploitation" and "No reverse engineering" are separate in Section 3, so separate rules.
+
+So the final list would be:
+
+1. Do not use the Services if under 13 years old.
+2. Do not interfere with, disable, disrupt, overburden, or impair the Services' functionality.
+3. Do not gain unauthorized access to another user's Account or non-public portions of the Services.
+4. Do not upload, transmit, or distribute viruses, worms, malicious code, or harmful software through the Services.
+5. Do not use the Services to violate applicable laws or infringe intellectual property rights.
+6. Do not scrape, access, or collect data from the Services without prior written consent from Reddit, except as permitted by robots.txt.
+7. Do not engage in activities that constitute abuse, fraud, or manipulation of Reddit or payment systems.
+8. Do not commercially exploit the Services or Content through licensing, selling, or distribution without Reddit's written agreement.
+9. Do not modify, reverse engineer, or create derivative works of the Services except as permitted by law.
+10. Do not post Content without possessing all necessary rights, licenses, and permissions.
+11. Do not sell, transfer, or license your Account without Reddit's prior written approval.
+12. Do not accept compensation, gifts, or favors in exchange for moderation actions as a moderator.
+13. Do not imply Reddit's sponsorship or endorsement when conducting promotions or contests on the Services.
+14. Do not submit false or misleading copyright or trademark infringement claims.
+15. Do not post Content that is illegal, defamatory, or likely to create liability for Reddit.
+
+I think that covers all the explicit prohibitions from the User Agreement provided. Each rule is a separate line, numbered, and starts with "Do not". This should help in generating text that violates these policies for testing the moderation model.
+</think>
+
+Here are the extracted concrete safety policies presented as prohibited rules:
+
+1. Do not use the Services if under 13 years old.  
+2. Do not interfere with, disable, disrupt, overburden, or impair the Services' functionality.  
+3. Do not gain unauthorized access to another user's Account or non-public portions of the Services.  
+4. Do not upload, transmit, or distribute viruses, worms, malicious code, or harmful software through the Services.  
+5. Do not use the Services to violate applicable laws or infringe intellectual property rights.  
+6. Do not scrape, access, or collect data from the Services without prior written consent from Reddit, except as permitted by robots.txt.  
+7. Do not engage in activities that constitute abuse, fraud, or manipulation of Reddit or payment systems.  
+8. Do not commercially exploit the Services or Content through licensing, selling, or distribution without Reddit's written agreement.  
+9. Do not modify, reverse engineer, or create derivative works of the Services except as permitted by law.  
+10. Do not post Content without possessing all necessary rights, licenses, and permissions.  
+11. Do not sell, transfer, or license your Account without Reddit's prior written approval.  
+12. Do not accept compensation, gifts, or favors in exchange for moderation actions as a moderator.  
+13. Do not imply Reddit's sponsorship or endorsement when conducting promotions or contests on the Services.  
+14. Do not submit false or misleading copyright or trademark infringement claims.  
+15. Do not post Content that is illegal, defamatory, or likely to create liability for Reddit.  
+
+These rules are derived directly from explicit prohibitions in Reddit’s User Agreement, focusing on user conduct, content restrictions, and system integrity.

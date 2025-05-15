@@ -1,0 +1,34 @@
+Content Actions
+What actions can be taken on content?
+There are a variety of actions that Spotify may take on content that violates the Platform Rules, applicable laws or that may contain sensitive topics. These actions include removing content, restricting content's discoverability, restricting the ability of content to be monetized, and/or applying content advisory labels.
+
+We consider a variety of factors when determining what action(s) to take, such as the context behind a particular topic or current event and the severity and/or frequency of violations observed as part of our review process. We leverage a variety of algorithmic and human detection measures to help identify content that may need to be actioned, including user reports. Any abuse of our processes, including targeted reporting of the same content or user, may restrict your ability to submit requests in the future.
+
+Removing content
+If content violates our Platform Rules, it may be removed from Spotify.
+
+Removing an account
+Repeated and/or egregious violations of the Platform Rules may result in an account being suspended and/or terminated. Note that this may also include all related and affiliated Spotify accounts.
+
+Restricting the discoverability of content
+In instances when content comes close to the line but does not meet the threshold of removal under our Platform Rules, we may take steps to restrict its reach. Though the content will remain available on Spotify, it may be:
+
+ineligible for on-platform promotion;
+reduced within recommendations;
+ranked lower in search results; and/or
+excluded from some Spotify product features.
+During periods of heightened risk there is often a greater threat of harmful content online, for example, during elections, violent conflict or mass-casualty events. Recognizing this, Spotify may take additional steps during such events, like restricting the reach of certain types of content and/or highlighting timely and trusted resources.
+
+Restricting content monetization by Spotify
+Not all content is eligible for monetization on Spotify. In addition to the Platform Rules, content that you wish to monetize will be reviewed against our Monetization Policies.
+
+Including a content advisory
+In situations when more context may be needed on a given topic, a content advisory label may be applied with relevant information and/or to link users to timely, trusted resources.
+
+Restricting content in a specific country or region
+Spotify is a global community and respects the laws of the countries in which we operate. Users must comply with applicable laws and regulations. Content that does not violate our Platform Rules may still be restricted in specific countries or regions where the content has been found to violate local law(s).
+
+Appeals
+Options for appealing content decisions vary by location, and we will continue to expand our capabilities in the future.
+
+If you disagree with an enforcement decision taken on your content or in response to your report, you may be able to submit an appeal. To do this, please follow the instructions in the notification you may have received from Spotify.

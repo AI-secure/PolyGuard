@@ -1,0 +1,34 @@
+Election Integrity at Spotify
+Spotify is the place to find your favourite new creator, discover a new song from your favorite artist or unlock an audiobook that brings you into a whole new world. While the vast majority of content on our platform is licensed, we are realistic and vigilant about the types of content that can proliferate during sensitive events like elections. We are a home for creative expression and will always offer a wide range of content, but that does not mean anything goes.
+
+Safeguarding our platform during critical global events is a top priority for our teams, and we've spent years developing and refining our approach. Elections are a particularly sensitive time both on and offline, and our primary focus is always to reduce risk, allowing our listeners, creators, and advertisers to enjoy our products.
+
+To understand the types of harm that may occur during a country's election, we consider a variety of indicators, including Spotify's presence in the market, historical precedents for harm during voting periods, and emerging geo-political factors that may increase on-platform risks. We also look at factors that are especially relevant to the Spotify platform, for example, particular countries where audio content might present concerns.
+
+We monitor these factors on an ongoing basis and use our learnings to inform policy and enforcement guidelines, customize in-product interventions, and determine where we may benefit from additional resourcing and/or third-party inputs. Ultimately, our primary focus is always to reduce risk, allowing our listeners, creators, and advertisers to enjoy our products.
+
+Platform Rules
+While political or news-related discourse is welcome on Spotify, we have Platform Rules in place to help set the parameters for what type of content is and is not permitted. These rules apply to everyone on the Spotify platform and when they are violated we will always take action.
+
+Our Platform Rules clearly state that content that attempts to manipulate or interfere with election-related processes is prohibited. This includes, but may not be limited to, misrepresenting procedures in a civic process that could discourage or prevent participation and misleading content aimed at intimidating or suppressing voters from participating in an election.
+
+Expert Partnerships
+Elections worldwide vary in risk and scope and the types of harmful trends that manifest during these kinds of heightened events are often nuanced and hyper-localized. To augment our global expertise and detection capabilities, Spotify acquired Kinzen in 2022. This has allowed us to carry out extensive, ongoing research in multiple languages and key policy areas like misinformation and hate speech. Our research is supported by a pioneering tool called 'Spotlight,' specifically designed to identify potential risks quickly within long-form audio content like podcasts.
+
+Additionally, we partner closely with experts on specific types of harm that are commonly found during elections, like misinformation, hate speech, and violent extremism. These include our global Spotify Safety Advisory Council and the Institute for Strategic Dialogue to ensure we stay on top of emerging trends and risk mitigation tactics.
+
+In-Product Resources
+We also encourage non-partisan civic and community engagement during key elections. This work is focused on connecting listeners with reliable, local information during the election period. We leverage a combination of algorithmic and human curation to identify content which violates our guidelines, and may update our recommendations to curb potentially manipulated or dangerous information.
+
+In some cases, we also share trusted information on voting as part of non-partisan civic engagement campaigns we run on-platform, encouraging our users to make their voices heard, whatever their political affiliation. During these campaigns, our global and in-market teams collaborate to create timely, topical, and local content that's focused on overcoming barriers to voting by, for example, explaining how to register and where to cast your vote.
+
+Since we started our efforts, these campaigns have driven millions of visits to resources on civic engagement, helping users check their voter status, register to vote, or learn more about their local elections.
+
+Political Ads
+Spotify currently accepts political advertisements in certain third-party podcasts via the Spotify Audience Network in a limited number of markets, including the United States and India.
+
+Political ads may be placed in Spotify Audience Network and Spotify's free, ad-supported service inventory. An account must be eligible for political ads, and the account holder must complete an advertiser identity verification process. Political ads are unavailable for purchase via our self-serve tool, Spotify Ad Studio.
+
+Additionally, we require that political advertisements clearly disclose the use of any synthetic or manipulated media, including media created or edited with the use of Artificial Intelligence tools, that depicts real or realistic-looking people or events. This disclosure must be included in the advertisement and must be clear and conspicuous.
+
+To read more about political ads in the markets where they are offered, and learn about how to report an ad you believe violates our policies, please review Spotify's political advertising editorial policies.

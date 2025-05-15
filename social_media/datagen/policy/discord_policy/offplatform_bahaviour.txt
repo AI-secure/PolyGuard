@@ -1,0 +1,17 @@
+Off-Platform Behaviors Policy Explainer
+Off-Platform Behaviors
+We want people to enjoy Discord, but never at the expense of others. Our Community Guidelines contain a list of content and behavioral rules users must follow while on our service. Our Off-Platform Behaviors Policy functions as a layer on top of these rules. It is different from our other policies in that it is solely concerned with activity occurring off of Discord. The term off-platform behavior refers to any activity not occurring directly on Discord. This includes activity in other online spaces and in the physical world.
+
+This policy covers activity involving the physical harm of others or that presents a risk of causing physical harm to others. We will only take action under this policy: (1) If we can confirm that the harmful behavior has taken place; and, (2) are able to confidently link the individual(s) responsible to a Discord account and/or server.
+
+A Note on Enforcement of This Policy
+We may decline to take action against an account or server tied to egregious harmful behavior when we are confident there is minimal risk of physical harm coming to others as a result of allowing the individual or group to remain on our service.
+
+The following four considerations are taken into account:
+
+The off-platform behavior occurred more than five years ago
+The person has gone through a credible rehabilitation process or has received justice-oriented punishment (such as time at a correctional facility)
+Our investigation shows the behavior is not currently taking place on Discord
+There is no indication on or off of Discord that a material risk of physical harm exists
+How to Report Violations of This Policy
+Reporting safety violations is critically important to keeping you and the broader Discord community safe. All Discord users can report policy violations in the app by following the instructions here. For more information on this policy, please reference the introduction of our Community Guidelines.

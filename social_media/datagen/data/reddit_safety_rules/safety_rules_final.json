@@ -1,0 +1,158 @@
+{
+  "I. Prohibited Content & Behavior": [
+    {
+      "id": 1,
+      "rule": "Do not post illegal content or facilitate prohibited transactions (e.g., drugs, weapons, paid sexual services)."
+    },
+    {
+      "id": 2,
+      "rule": "Do not share sexual/suggestive content involving minors or engage in predatory behavior toward minors."
+    },
+    {
+      "id": 3,
+      "rule": "Do not post unlabeled graphic, sexually explicit, or offensive content that disrupts user experiences."
+    },
+    {
+      "id": 4,
+      "rule": "Do not reveal personal/confidential information or share intimate media without consent."
+    },
+    {
+      "id": 5,
+      "rule": "Do not impersonate individuals, entities, or organizations deceptively."
+    },
+    {
+      "id": 6,
+      "rule": "Do not incite hatred/violence based on identity, ethnicity, religion, or vulnerability."
+    }
+  ],
+  "II. Harassment & Safety": [
+    {
+      "id": 7,
+      "rule": "Do not harass, bully, threaten violence, or target marginalized/vulnerable groups."
+    },
+    {
+      "id": 8,
+      "rule": "Do not direct, coordinate, or encourage harassment across communities/platforms."
+    },
+    {
+      "id": 9,
+      "rule": "Do not tolerate workplace violence, discrimination, or harassment in operations."
+    }
+  ],
+  "III. Legal & Law Enforcement Compliance": [
+    {
+      "id": 10,
+      "rule": "Do not submit legal requests without valid authorization (e.g., subpoenas, warrants)."
+    },
+    {
+      "id": 11,
+      "rule": "Do not falsify emergency disclosure requests (EDRs) or bypass Legal Request Portal procedures."
+    },
+    {
+      "id": 12,
+      "rule": "Serve EU user data requests to Reddit Netherlands B.V., not Reddit Inc."
+    },
+    {
+      "id": 13,
+      "rule": "Do not expect Reddit to retain IP logs beyond 100 days or disclose deleted content."
+    }
+  ],
+  "IV. Ethical Operations & Moderation": [
+    {
+      "id": 14,
+      "rule": "Do not work with suppliers violating human rights or using slavery/trafficking."
+    },
+    {
+      "id": 15,
+      "rule": "Moderators must not neglect duties (e.g., ModQueue, ModMail) or accept compensation for actions."
+    },
+    {
+      "id": 16,
+      "rule": "Do not \"camp\" inactive subreddits or mislabel mature content as safe for general audiences."
+    },
+    {
+      "id": 17,
+      "rule": "Do not showcase bans/moderation actions from other communities to incite negativity."
+    }
+  ],
+  "V. Digital Goods & Economic Features": [
+    {
+      "id": 18,
+      "rule": "Do not transfer/sell Verified Digital Goods without honoring royalties or authorization."
+    },
+    {
+      "id": 19,
+      "rule": "Do not use blockchain transactions for prohibited goods/services or as financial instruments."
+    },
+    {
+      "id": 20,
+      "rule": "Secure Vault Access Info (private keys, passwords) to avoid permanent loss of assets."
+    }
+  ],
+  "VI. User Eligibility & Account Security": [
+    {
+      "id": 21,
+      "rule": "Users under 13 or in sanctioned regions are barred from access."
+    },
+    {
+      "id": 22,
+      "rule": "Do not share Reddit Vault keys/recovery phrases with anyone."
+    },
+    {
+      "id": 23,
+      "rule": "Suspended/terminated accounts lose feature eligibility."
+    }
+  ],
+  "VII. Privacy & Data Handling": [
+    {
+      "id": 24,
+      "rule": "Do not scrape data without consent or violate Reddit’s Privacy Policy."
+    },
+    {
+      "id": 25,
+      "rule": "Devvit Apps collecting user data must comply with privacy requirements."
+    }
+  ],
+  "VIII. Platform Integrity": [
+    {
+      "id": 26,
+      "rule": "Do not spam, manipulate votes, evade bans, or exploit technical vulnerabilities."
+    },
+    {
+      "id": 27,
+      "rule": "Do not modify/reverse-engineer Services or commercially exploit Content without authorization."
+    },
+    {
+      "id": 28,
+      "rule": "Do not imply Reddit’s endorsement in promotions or submit false copyright claims."
+    }
+  ],
+  "IX. Content Moderation & Community Standards": [
+    {
+      "id": 29,
+      "rule": "Do not create/approve rule-breaking content in posts, comments, or modmails."
+    },
+    {
+      "id": 30,
+      "rule": "Communities must provide clear purpose/rules and avoid affiliation claims without disclosure."
+    },
+    {
+      "id": 31,
+      "rule": "Do not repost content violating other communities’ rules or incentivize policy breaches."
+    }
+  ],
+  "X. Enforcement & Accountability": [
+    {
+      "id": 32,
+      "rule": "Do not ignore reports of policy violations via internal channels."
+    },
+    {
+      "id": 33,
+      "rule": "Remove rule-violating content promptly and enforce sanctions for confirmed bad actors."
+    },
+    {
+      "id": 34,
+      "rule": "Staff must receive anti-slavery/ethical training; developers must clarify Devvit App terms."
+    }
+  ]
+}

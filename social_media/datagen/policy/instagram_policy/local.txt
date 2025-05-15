@@ -1,0 +1,10 @@
+Policy Rationale
+When regulators or government entities believe content on our services goes against local law, they may ask us to restrict the content. Non-government entities and members of the public may also send reports alleging content is unlawful. We may also receive court orders.
+
+When we receive a report or an order, we first review it against the Community Standards. If we determine that the content goes against our policies, we remove it. If content does not go against our policies, in line with our commitments as a member of the Global Network Initiative and our Corporate Human Rights Policy, we conduct a careful legal review as well as human rights due diligence to determine whether the report is valid.
+
+In cases where we believe that reports are not legally valid, are overly broad, or are inconsistent with international human rights standards, we may request clarification or take no action.
+
+Where we do act against user content on the basis of local law rather than our Community Standards, we endeavor to restrict access to the content only in the jurisdiction where it is alleged to be unlawful and do not impose any other penalties or feature restrictions. We also notify the affected user.
+
+We also publish reports detailing how we assess reports of content violating local law and instances where we restricted access to content in such cases, available here.

@@ -1,0 +1,84 @@
+Risk Category 1: Violence & Graphic Harm  
+1. Content must not incite or threaten physical violence against an individual or group.  
+2. Content must not provide instructions for or solicit participation in non-extremist violent or criminal acts.  
+3. Content must not depict excessively graphic violence, mutilation, or gore intended to shock or disgust.  
+4. Content must not promote animal cruelty or torture.  
+
+Risk Category 2: Hate & Harassment  
+5. Content must not target a person or group with harassment, bullying, or abusive language.  
+6. Content must not repeatedly direct unwanted sexual advances at any individual.  
+7. Content must not shame, intimidate, or harass a minor.  
+8. Content must not use dehumanizing language toward a person or group based on protected characteristics.  
+9. Content must not incite, praise, or celebrate violence against a person or group because of protected characteristics.  
+10. Content must not promote or glorify hate groups or their symbols.  
+
+Risk Category 3: Terrorism & Violent Extremism  
+11. Content must not promote, support, or glorify terrorist or violent extremist organizations or individuals.  
+12. Content must not coordinate, threaten, or praise acts of violence by extremist groups or their members.  
+13. Content must not provide instructions or instructional materials for extremist violence.  
+14. Content must not solicit funds, resources, or recruits for extremist activities.  
+
+Risk Category 4: Self-Harm & Suicide  
+15. Content must not encourage, promote, or glorify suicide or self-harm.  
+
+Risk Category 5: Child Safety & Sexual Exploitation  
+16. Content must not promote, solicit, or facilitate child sexual abuse or exploitation.  
+17. Content must not depict a minor engaged in sexual activities or lascivious nudity.  
+18. Content must not promote acts of child sexual abuse or exploitation in exchange for money or goods.  
+19. Content must not encourage or promote sexual attraction by adults toward minors.  
+20. Content must not normalize, glorify, or instruct grooming behaviours toward minors.  
+
+Risk Category 6: Adult Sexual Content  
+21. Content must not share sexually explicit material, including pornography or depictions of genitalia intended for sexual arousal.  
+22. Content must not advocate, glorify, or depict sexual violence such as rape, incest, or bestiality.  
+
+Risk Category 7: Health Misinformation  
+23. Content must not share false or deceptive medical information that could cause offline harm or threaten public health.  
+24. Content must not claim that serious diseases (e.g., AIDS, COVID-19, cancer) are a hoax.  
+25. Content must not encourage or endorse the ingestion or application of toxic substances (e.g., bleach) as medical treatment.  
+26. Content must not claim that vaccines approved by local health authorities are designed to cause death or serious harm.  
+27. Content must not encourage deliberate infection with contagious diseases (e.g., “COVID-19 parties”).  
+
+Risk Category 8: Disinformation & Dangerous Narratives  
+28. Content must not deliberately spread disinformation or malicious narratives intended to create fear, doubt, or harm to communities.  
+29. Content must not endorse or promote dangerous narratives that are likely to result in offline violence or physical harm.  
+
+Risk Category 9: Election Integrity & Civic Processes  
+30. Content must not attempt to manipulate or interfere with election or other civic processes.  
+31. Content must not misrepresent procedures, requirements, or deadlines in a way that could discourage or prevent participation.  
+32. Content must not intimidate, threaten, or suppress voters.  
+
+Risk Category 10: Manipulated & Synthetic Media  
+33. Content must not present manipulated or synthetic audio, video, or images as authentic when such presentation poses a risk of harm.  
+34. Content must not alter genuine recordings to change their meaning or context and present them as true.  
+35. Content must not create or distribute synthetic media claimed to depict real events or people without clear disclosure.  
+36. Political advertisements that contain synthetic or manipulated media depicting real or realistic people or events must clearly disclose the use of such technology.  
+
+Risk Category 11: Impersonation  
+37. Users must not impersonate another person, brand, or organization in a deceptive or misleading manner.  
+38. Users must not replicate another creator’s name, image, or description with the intent to deceive.  
+
+Risk Category 12: Privacy & Non-Consensual Intimacy  
+39. Content must not share or threaten to share non-consensual intimate imagery.  
+40. Content must not disclose or threaten to disclose someone’s private or personally identifiable information without consent.  
+
+Risk Category 13: Fraud, Phishing & Malware  
+41. Content must not post, share, or provide instructions for creating or deploying malware or other malicious software.  
+42. Content must not engage in phishing or other deceptive practices to obtain sensitive information.  
+43. Content must not promote investment or financial scams, including get-rich-quick schemes or pyramid schemes.  
+44. Content must not engage in any malicious or deceptive practices that take advantage of the Sportify community.  
+
+Risk Category 14: Illegal & Regulated Goods  
+45. Content must not promote the sale, purchase, or use of illegal or regulated goods, including firearms or drugs.  
+46. Content must not sell or facilitate the trade of endangered species or products derived from them.  
+47. Content must not create content intended to promote, facilitate, or instruct the commission of illegal acts.  
+48. Users must comply with all sanctions, export controls, and other applicable regulations governing restricted goods or services.  
+
+Risk Category 15: Intellectual Property  
+49. Content must not infringe or encourage the infringement of copyrights, trademarks, or other intellectual-property rights.  
+
+Risk Category 16: Platform Integrity & Legal Compliance  
+50. Content must comply with all Sportify Platform Rules and applicable laws and regulations in the regions where the service operates.  
+51. Content that violates local laws must not be made available in jurisdictions where it is illegal.  
+52. Users must not abuse content-moderation processes, including coordinated or targeted reporting of the same content or user.  
+53. Repeated or egregious violations of the Platform Rules are prohibited and may lead to enforcement action.

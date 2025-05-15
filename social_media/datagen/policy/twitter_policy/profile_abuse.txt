@@ -1,0 +1,31 @@
+Abusive profile information
+X Rules: You may not use your username, display name, or profile bio to engage in abusive behavior, such as targeted harassment or expressing hate towards a person, group, or protected category.
+
+
+Rationale
+
+While we want people to feel free to express their individuality in their profile names and descriptions, we have found that accounts with abusive profile information usually indicate abusive intent and strongly correlate with abusive behavior. The high visibility of profile names and descriptions also means that people might involuntarily find themselves exposed to threatening or abusive content when visiting a profile page.
+
+
+When this applies
+
+We will review and take enforcement action against accounts that target an individual, group of people, or a protected category with any of the following behavior in their profile information, i.e., usernames, display names, or profile bios:
+
+Violent threats
+Abusive slurs, epithets, racist, or sexist tropes
+Abusive content that reduces someone to less than human
+Content that incites fear
+We will not consider insults under this policy. However, we will still take action against these accounts if we receive reports about posts or Direct Messages that are in violation of our other policies. As always, context matters when we evaluate for abusive behavior and in determining appropriate enforcement actions.
+
+
+Do I need to be the target of this content for it to be a violation of the X Rules?
+No, we review both first-person and bystander reports of such content.
+
+
+Consequences
+
+If an account’s profile information includes any of the abusive behaviors listed above, we will permanently suspend the account on first violation.
+
+If an account uses a hateful symbol in its profile information, the account-holder will be required to remove the symbol before they can use their account again. Repeated violations will lead to permanent suspension. For more information on how we handle hateful imagery and symbols, see our media policy.
+
+If someone believes their account was suspended in error, they can submit an appeal.

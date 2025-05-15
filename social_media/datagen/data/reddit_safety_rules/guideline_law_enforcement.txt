@@ -1,0 +1,53 @@
+<think>
+Okay, let's tackle this. The user wants me to extract concrete safety policies from Reddit's guidelines that participants or the organization shouldn't do. First, I need to go through the provided document carefully.
+
+The document is Reddit's guidelines for law enforcement, so it's about how they handle legal requests. But the user wants safety policies that users shouldn't violate. Wait, maybe I need to look for what Reddit prohibits based on their content policies, even though the given text is more about data requests.
+
+Wait, the user mentioned "safety policy of Reddit" and wants to generate text that violates these policies. The given document is about how law enforcement can request data or content removal. But the actual content policies are referenced here, like the Content Policy. However, the provided text doesn't list the content policies themselves, just how legal requests are handled.
+
+Hmm, the user might be conflating two things: the guidelines for law enforcement and the actual content policies. Since the provided text is about legal requests, maybe the safety rules here are about what Reddit won't allow in terms of legal requests. For example, they won't disclose user info without proper legal process. So the safety rules would be the things that Reddit prohibits others (like law enforcement) from doing without following their procedures.
+
+Looking at the document, here are some points:
+
+- Reddit requires legal process (subpoena, court order, etc.) to disclose user info. So a rule could be: Do not request user information without a valid legal process.
+
+- They mention emergency disclosure only for imminent threats. So another rule: Do not submit emergency requests without a genuine threat of death or serious harm.
+
+- Preservation requests must be on letterhead, signed, etc. So: Do not submit preservation requests without proper documentation.
+
+- They don't provide expert testimony. Rule: Do not expect Reddit to provide witness testimony.
+
+- Content removal requests must specify URLs and laws. Rule: Do not request content removal without citing specific laws or policies.
+
+- They require requests through their portal. Rule: Do not submit requests outside the Legal Request Portal to avoid delays.
+
+- User notice is given unless prohibited. Rule: Do not assume user won't be notified unless legally restricted.
+
+- They reject vague or overbroad requests. Rule: Do not submit broad or vague information requests.
+
+- Data retention: IPs deleted after 100 days. Rule: Do not expect IP data older than 100 days except registration IP.
+
+- EU requests must go through proper channels. Rule: Do not serve EEA data requests to the US entity.
+
+I need to list these as rules that shouldn't be violated. Each rule should start with a number. Let me structure them based on the document's sections.
+</think>
+
+Here are the extracted concrete safety policy rules from the document:
+
+1. Do not request user account information without a valid subpoena, court order, or equivalent legal process.  
+2. Do not submit emergency disclosure requests (EDRs) unless there is an imminent threat of death or serious bodily harm.  
+3. Do not submit preservation requests without law enforcement letterhead, officer signature, and specific username/URL identifiers.  
+4. Do not expect Reddit to disclose non-public message content without a valid search warrant or equivalent legal authorization.  
+5. Do not request content removal without providing specific URLs and citations of violated laws/Reddit policies.  
+6. Do not serve legal requests for EU user data directly to Reddit Inc. (US) - they must be addressed to Reddit Netherlands B.V.  
+7. Do not submit falsified emergency requests - they may be reported to law enforcement.  
+8. Do not expect Reddit to retain IP address logs beyond 100 days (except registration IPs).  
+9. Do not assume deleted account content is fully removed - posts/comments remain visible without username attribution.  
+10. Do not bypass the Legal Request Portal for government/law enforcement inquiries to avoid processing delays.  
+11. Do not request expert witness testimony - Reddit does not provide custodial testimony.  
+12. Do not submit overbroad requests for user data - they must be narrowly tailored to specific accounts/information.  
+13. Do not assume users won't be notified of information requests unless legally prohibited.  
+14. Do not serve non-EEA legal requests for EEA user data without proper MLAT procedures.  
+15. Do not submit EU Terrorist Content removal requests without using the official TCOR template to LETCO@reddit.com.  
+
+These rules reflect Reddit's requirements for valid legal process, data handling limitations, jurisdictional restrictions, and prohibited actions outlined in their law enforcement guidelines.

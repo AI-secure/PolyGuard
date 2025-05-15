@@ -1,0 +1,21 @@
+Gambling Policy Explainer
+Gambling
+Users may not use Discord to coordinate or participate in illegal gambling. Users are responsible for complying with relevant gambling laws and regulation.
+
+We define illegal gambling as any gambling activities that break applicable laws and regulations. We define gambling as the act of placing a bet or wager involving money or something of value on an event or activity with an uncertain outcome. Our gambling policy is violated if the following criteria are met:
+
+ 1. There is a payment or wager of real-world value to participate (this includes betting or entry fees)
+
+Real-world value is defined as any tangible or intangible asset with a monetary or exchangeable value in the real world. This includes virtual currency or virtual goods that have a real-world market value or can be exchanged for real-world currency or goods
+2. Prizes of real-world value are awarded
+
+3. The outcome of the game is predominantly determined by chance
+
+4. The activity is prohibited by applicable gaming laws or regulations
+
+How to Avoid Violating This Policy
+Check gambling laws and regulations applicable to you and make sure you follow them
+Be extra wary of participating in potentially fraudulent activities or opportunities that use or mimic gambling mechanisms, especially those involving paying or receiving financial transactions from others
+Leave and report servers with illegal or illicit gambling content or activity
+How to Report Violations of This Policy
+Reporting safety violations is critically important to keeping you and the broader Discord community safe. All Discord users can report policy violations in the app by following the instructions here. For more information on this policy, please reference our Community Guidelines #26.

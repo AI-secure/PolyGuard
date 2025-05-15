@@ -1,0 +1,88 @@
+<think>
+Okay, let's tackle this. The user wants me to extract structured safety rules from Reddit's Moderator Code of Conduct. The goal is to generate concrete policies that participants should not do, to test a moderation model.
+
+First, I need to read through the provided policy document carefully. The main sections are the five rules, each with subpoints. The user wants each rule as a line in a numbered list, focusing on prohibitions.
+
+Starting with Rule 1: It says moderators must not create, approve, enable, or encourage rule-breaking content. So the prohibited actions here would be things like creating or enabling such content. The list includes posts, comments, flairs, etc. So the structured rule should mention not creating or enabling rule-breaking content across these areas.
+
+Rule 2 is about transparency. The prohibitions would involve not having unclear descriptions, not mislabeling content (like not marking 18+ content properly), and not falsely claiming official status. So the structured rules here would be about accurate labeling and transparency.
+
+Rule 3 is about respecting other communities. Prohibitions include directing harassment, encouraging interference, enabling rule violations in other subs, and showcasing bans to incite negativity. So the rules here would be against coordinating harassment or interference.
+
+Rule 4 requires active moderation. Prohibitions would be inactivity, not having enough mods, or camping on a community without active management. So the structured rule would be against being inactive or not managing the community properly.
+
+Rule 5 is about integrity. Moderators can't take actions in exchange for compensation. Examples include accepting money for bans, approvals, or ad space. So the structured rules here would prohibit accepting any form of compensation for moderation actions.
+
+Also, the enforcement section mentions actions like removing mods, adjusting settings, etc., but those are more about consequences rather than prohibited actions. The user wants what participants should not do, so focus on the rules themselves.
+
+Now, I need to convert each of these into concise statements starting with numbers. Each line should be a specific prohibition. Let me list them out based on each rule and their subpoints.
+
+Check for any overlaps or if a rule has multiple prohibitions. For example, Rule 1 has several prohibited content types, but the main prohibition is enabling rule-breaking content. Similarly, Rule 3 has multiple examples of interference which can be broken into separate points.
+
+Wait, the user says "one rule per line" so each main point from the original rules should be a separate line. Let me go through each original rule and extract the key prohibitions.
+
+Rule 1: Don't create/enable rule-breaking content in posts, comments, flairs, etc.
+
+Rule 2: Don't have unclear descriptions, don't mislabel mature content, don't falsely claim official/unofficial status.
+
+Rule 3: Don't coordinate harassment, enable rule violations elsewhere, encourage reposting against others' rules, showcase bans to incite.
+
+Rule 4: Don't be inactive, don't camp on communities, ensure enough mods.
+
+Rule 5: Don't accept compensation for mod actions like bans, approvals, ad space.
+
+Also, the enforcement part might have some prohibitions, but the main ones are in the rules themselves.
+
+Now, structure each of these as a separate line, numbered. Let me make sure each is a clear "do not" statement based on the original rules. Avoid combining multiple prohibitions into one line unless they're closely related.
+
+For example, Rule 3 has four interference examples. Should each be a separate line? The user says one rule per line, but the original document groups them under Rule 3. Maybe combine them into one line that covers all interference types. Alternatively, split them if they are distinct enough. The user might prefer each specific prohibition as a separate line. Let me check the example in the user's message. The example given in the problem statement under Rule 3 lists interference examples but the user's requirements say one rule per line. So perhaps each main rule from the original document is one line, but if a rule has multiple subpoints that are distinct prohibitions, they should be separate lines.
+
+Wait, the original Reddit policy has 5 main rules, each with subpoints. The user wants concrete safety policies that participants should not do. So each subpoint that's a prohibition should be a separate line. For example, Rule 3's interference includes mentioning other communities to incite harassment, enabling users to violate rules elsewhere, etc. Each of these could be separate entries in the list.
+
+But the user's example in the problem statement under "Your task" shows generating a list where each line is a rule. However, the original rules are 5, but each has multiple prohibited actions. The user might want each prohibited action as a separate line. Let me check the requirements again.
+
+**Requirements:**
+- One rule per line in a List format starting with a number indicating the order of the extracted rule in the numbered list.
+
+Wait, the numbering should indicate the order of the extracted rule. So if there are 5 main rules, each with multiple sub-rules, how to number them? The user might want each sub-rule as a separate line but numbered in the order they appear. For example, Rule 1 has several prohibited content types, but the main prohibition is enabling rule-breaking content. So perhaps each main rule becomes one line, but if a main rule has multiple distinct prohibitions, they are split into separate lines.
+
+Alternatively, the user might want each distinct prohibited action as a separate line, numbered sequentially. For example, under Rule 1, the prohibited actions are creating, approving, enabling, or encouraging rule-breaking content in posts, comments, etc. That could be one line. Then Rule 2's prohibitions are separate lines.
+
+Looking at the original policy, each Rule is a main category. The task is to extract concrete policies (i.e., specific things not to do) as a list. So each specific prohibition under each main rule should be a separate line. For example:
+
+1. Do not create, approve, enable, or encourage rule-breaking content in posts, comments, flairs, rules, wiki pages, styling, welcome messages, or modmails.
+2. Do not provide unclear or inaccurate descriptions of the community's topic.
+3. Do not fail to label mature/18+ content accurately.
+4. Do not falsely claim official or unofficial affiliation with a brand or organization.
+5. Do not direct, coordinate, or encourage interference in other communities.
+6. Do not enable or encourage users to violate Reddit Rules elsewhere on the platform.
+7. Do not enable reposting of content against other communities' rules.
+8. Do not showcase user bans from other communities to incite negative reactions.
+9. Do not be inactive or fail to consistently moderate the community.
+10. Do not camp or sit on a community without active management.
+11. Do not moderate in exchange for compensation, including financial, physical goods, services, or favors.
+12. Do not create "ad space" in exchange for compensation.
+13. Do not send moderator invites or transfer subreddit ownership for compensation.
+
+This way, each specific prohibition is a separate line, numbered in the order they appear in the original document. The main rules are broken down into their subpoints. This approach meets the user's requirement of concrete policies. I need to ensure that each line is a clear "do not" statement based on the original text. Let me verify each line against the original policy to make sure I didn't miss any or add extras.
+
+Rule 1: The first line covers all the content types listed. Rule 2's subpoints include providing clear descriptions, respecting community evolution, labeling mature content, creating explicit rules, denoting official/unofficial status. So lines 2,3,4 correspond to these. Rule 3's interference examples are split into lines 5-8. Rule 4's prohibitions are lines 9-10. Rule 5's examples are lines 11-13. The enforcement section is about consequences, not prohibitions, so not included.
+
+This should cover all the key prohibitions. Now, check for any other prohibitions mentioned. For example, under Rule 5, the examples include granting flairs, approved submitter status, etc., in exchange for compensation. These are covered under line 11. Line 12 specifically mentions ad space. Line 13 covers invites and transfers.
+
+Yes, this seems comprehensive. Now, format them as a numbered list, each starting with a number and a period, followed by the prohibition.
+</think>
+
+Here is the structured list of prohibited actions based on Reddit’s Moderator Code of Conduct:  
+
+1. Do not create, approve, enable, or encourage rule-breaking content in posts, comments, flairs, rules, wiki pages, styling, welcome messages, or modmails.  
+2. Do not provide unclear or inaccurate descriptions of your community’s purpose, rules, or expectations.  
+3. Do not mislabel mature/18+ content (e.g., sexually explicit material) as safe for general audiences.  
+4. Do not falsely claim official or unofficial affiliation with a brand, organization, or company without explicit disclosure.  
+5. Do not direct, coordinate, or encourage harassment, interference, or abuse targeting other communities or users.  
+6. Do not enable or incentivize users to violate Reddit Rules in other subreddits or platforms.  
+7. Do not encourage reposting content that violates another community’s rules.  
+8. Do not showcase user bans or moderation actions from other communities to incite negative reactions.  
+9. Do not neglect moderation duties (e.g., failing to monitor ModQueue, ModMail, or community engagement).  
+10. Do not “camp” or hold inactive subreddits without active moderation or community growth efforts.  
+11. Do not accept compensation (financial, gifts, favors, etc.) for moderation actions like bans, approvals, or content

@@ -1,0 +1,26 @@
+Deceptive Practices Policy Explainer
+Financial Scams
+Online scams can cause financial harm to people in the real world. We work hard to keep Discord a safe place for users to connect with their communities — that way, they won’t have to worry about people trying to trick them for illegal or dishonest reasons. Individuals may not use our service to promote, coordinate, or perform any type of financial scam.
+
+Financial scams generally attempt to take advantage of individuals by making false promises of goods, services, or other financial benefits. These schemes try to turn a profit by defrauding victims or tricking them into revealing sensitive information. A non-exhaustive list of financial scams includes: Ponzi schemes, pyramid schemes, advance-fee fraud, market manipulation (including “pump-and-dump” schemes), romance scams, employment scams, and phishing scams.
+
+Malicious Conduct
+We want users to enjoy a safe, secure experience on our service. Accordingly, we do not allow activity that could damage or compromise the security of an account, computer network, or system. We use the term “malicious conduct” to refer to phishing, the use of malware, and denial-of-service (DoS) attacks, among other conduct.
+
+Phishing is a deceptive technique used to trick others into revealing sensitive information (such as logins or payment details). Individuals may phish for information with manipulated links or fake websites that appear genuine to convince targets they are trustworthy. Malware is any type of software used for malicious purposes — including theft of account credentials and other sensitive information. Denial-of-service (DoS) attacks flood a target with traffic to make the resource temporarily or permanently unavailable.
+
+Fraud Services
+We will permanently remove fraudulent services and all efforts to facilitate illegal behavior when we become aware of it. We use the term fraud services to refer to coordinated activity that directly attempts or is part of a larger attempt to fraudulently generate profit at the expense of others. Profit can mean monetary or property gain secured from a third party.
+
+One activity disallowed under this policy is offering access to illicitly-obtained goods — including, but not limited to: account credentials, credit card information, personally identifiable information, and cracked commodity goods. Coordinated efforts to defraud businesses, price gouging, forgery, and money laundering are also not allowed.
+
+How to Avoid Violating These Policies
+We take violations of these policies seriously and will take statements of desire or intent to engage in illegal activities at face value.
+
+Don’t send malicious links. This includes “IP grabbers” and other tools that try to collect other people’s sensitive information
+Don’t engage in fraudulent activities. This means somehow trying to generate a profit at the expense of others
+Don’t participate in communities selling commodity goods that may have been stolen or illicitly obtained
+Please leave servers dedicated to any of the violative content described above. Discord may also take action against accounts that are present in violative servers.
+
+How to Report Violations of These Policies
+Reporting safety violations is critically important to keeping you and the broader Discord community safe. All Discord users can report policy violations right in the app by following the instructions here. For more information on these policies, please reference our Community Guidelines #20, #21, and #22.

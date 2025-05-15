@@ -1,0 +1,11 @@
+Discord Support Abuse Policy Explainer
+Discord Support Abuse
+Misleading or abusive reports and requests impact the ability of Discord staff to respond to issues raised by our users. Individuals may not submit false, misleading, or abusive reports or requests to Discord’s support teams.
+
+We consider support teams to be any team at Discord that directly supports or interacts with users, partners, or developers or that respond to legal notices about Discord users from individuals and entities authorized to make such requests. We will consider reports or requests false or misleading if they contain demonstrably untrue information submitted with the intent to manipulate staff into taking a desired action. We will consider reports or requests abusive if they harass or make violent threats towards agents, support teams, or Discord and any of its other employees.
+
+How to Avoid Violating This Policy
+Do not mislead Discord’s support staff when you are submitting a report or request. False and misleading reports impact our ability to respond quickly and effectively.
+
+How to Report Violations of This Policy
+Reporting safety violations is critically important to keeping you and the broader Discord community safe. All Discord users can report policy violations in the app by following the instructions here. For more information on this policy, please reference our Community Guidelines #23.

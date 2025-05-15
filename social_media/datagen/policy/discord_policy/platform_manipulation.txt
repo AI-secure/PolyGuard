@@ -1,0 +1,22 @@
+Platform Manipulation Policy Explainer
+Platform Abuse
+Discord is a place where friends come to hang out. As part of our goal to provide users with a good on-platform experience, we prohibit platform abuse.
+
+The term platform abuse refers to activities that disrupt or alter the experience of Discord users. Sending unsolicited bulk messages or interactions (or spam) is one of the most common ways the user experience is disrupted. Spam can be sent by automated accounts designed for this purpose (spambots), normal user accounts that manually execute spammy actions, as well as by user accounts modified to perform automated actions (self-bots). Making modifications to the Discord client for the purpose of spam or any other reason is not allowed under this policy.
+
+We will also take action on accounts registered for the purpose of carrying out platform abuse. This includes the automated registration of accounts as a group for spamming — regardless of their message-send rate. We will also remove servers facilitating platform abuse. This includes but is not limited to spaces distributing: spambots, server “raid” tools, account-creation tools, token generators, CAPTCHA-solving services, and other spam tools.
+
+Inauthentic Engagement
+Inauthentic engagement is closely tied to, but distinct from the issue of spam. Both result in an overall lower-quality experience for users.
+
+Engagement in the context of this policy is defined as any user interaction with Discord’s service or product features. We will consider engagement to be inauthentic if it is purchased, induced (like promises of financial reward), or fraudulent (for example, it involves fake accounts).
+
+Individuals are prohibited from attempting to manipulate engagement metrics, artificially inflating server membership (for example, via “join-for-join,” “invite rewards,” purchasing fake members), and selling artificial engagement services for online platforms. Individuals also may not attempt to buy or sell Discord assets, such as accounts, usernames, servers, server permissions, or custom server invite links (also called “vanity URLs”).
+
+How to Avoid Violating These Policies
+Don’t send multiple unsolicited messages to other users
+Don’t modify the Discord client for any reason — including automating account actions or altering the appearance or layout of Discord
+Grow your server organically and don’t artificially inflate its member count
+Do not sell or purchase a Discord account, username, server, server permissions, or a custom server invite link (or “vanity URL”)
+How to Report Violations of These Policies
+Reporting safety violations is critically important to keeping you and the broader Discord community safe. All Discord users can report policy violations in the app by following the instructions here. For more information on these policies, please reference our Community Guidelines #13, #14, #15, and #16.

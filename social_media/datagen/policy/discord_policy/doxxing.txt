@@ -1,0 +1,18 @@
+Doxxing Policy Explainer
+Doxxing
+At Discord, we take a firm stance against doxxing. We do not tolerate anyone putting somebody in danger by leaving them vulnerable to data breaches, targeted harassment, and real-world threats such as physical harm. Doxxing is when someone shares the Personally Identifiable Information, or PII, of another person without their permission and with the intention to cause harm. A dox is the collection of the Personally Identifiable Information of another person.
+
+Personally Identifiable Information (PII) includes any information that could be used to identify an individual, such as a name, home address, social security number, banking information, driver's license number, and any other sensitive data.
+
+How to Avoid Violating This Policy
+If you are not sure whether a piece of content might violate these policies, don’t post it
+Don’t share the Personally Identifiable Information of others
+If you find yourself in a server that is sharing this type of content, report it and consider removing yourself from the space
+
+Please leave servers dedicated to any of the violative content described above. Discord may also take action against accounts that are present in violative servers.
+
+How to Report Violations of This Policy
+Reporting safety violations is critically important to keeping you and the broader Discord community safe. All Discord users can report policy violations by following the instructions here. For more information on this policy, please reference our Community Guidelines #3.
+
+Resources
+If you or another user is in immediate danger, please contact law enforcement right away and let them know what's going on, regardless of the information you're able to provide.

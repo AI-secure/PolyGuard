@@ -1,0 +1,184 @@
+These guidelines are for law enforcement and government agencies only. For requests from non-governmental entities, please refer to the guidelines for civil & non-government requests. If you are not a law enforcement or government official, please submit your request via our Help Center.
+
+These guidelines cover the following topics:
+
+General information about Reddit, its business, and account records
+Requirements to lawfully request account information, and
+Requirements to request the removal of user-generated content.
+NOTE: This guide is for informational purposes only. It creates no contractual obligation, nor is it a commitment by Reddit to take specific action in a given circumstance. This guide provides neither legal advice nor a comprehensive overview of all legal requirements. For some requests, there may be additional requirements beyond those set forth here.
+
+Reddit takes the privacy of its users seriously. We review all requests and legal process for authenticity, facial validity, and legal sufficiency, and will object when appropriate. Notwithstanding these guidelines, Reddit does not waive, and expressly reserves, all available rights and objections.
+
+What is Reddit?
+Reddit is a community of online communities (known as “subreddits” or “subs”) organized around the shared interests of their members.
+
+Each subreddit has its own page, subject matter, users, and volunteer moderators (also known as “mods”). Community members interact within these subreddits by posting topical information, articles, stories, links, news, images, and videos, which are then voted and commented upon by Reddit account holders. The number of upvotes and downvotes a post receives helps determine its position within the subreddit.
+
+Reddit may be accessed via Reddit.com, or through associated mobile applications (e.g., Reddit for Android, Reddit for iOS).
+
+Please note that the following services are no longer in operation:
+
+RedditGifts.com: deprecated at the end of 2021
+Dubsmash: deprecated in early 2022
+
+Additional information about Reddit and its services can be found here. Additional information about the Reddit platform (including features, policies, and security practices) is available in the Reddit Help Center.
+
+What account information does Reddit collect?
+Reddit generally collects minimal information from users and may have little or no non-public information available for many accounts. Reddit.com users are not required to provide their name or contact information (including email address), though users can choose to provide their email address. Reddit does not automatically verify the information provided by its users, though users may choose to verify their email address. Users may also choose to register Reddit accounts via single sign-on (SSO) using their existing Google or Apple accounts.
+
+Reddit account information is generally separated into four categories:
+
+Basic Subscriber Information - This includes the username/subscriber identity, IP logs (including registration IP), email address (if any), phone number (if any), and payment information (if any).
+Other non-content records about the user or the user’s conduct on Reddit - This includes user preferences and communication headers (e.g., the to/from fields of a Private Message or the participant list for a chat discussion).
+Content of Communications (public) - This includes posts, comments, and other information regarding the substance of a user’s publicly available communications. This content is publicly available without Reddit, Inc.’s assistance.
+Content of Communications (non-public) - This includes non-public messages/communications between users, information about a user’s votes, posts, comments, and other information regarding the substance of a user’s communications across Reddit.
+
+For more information about the information Reddit collects, please visit the Reddit Privacy Policy.
+
+Data Retention Information
+Account information is retained in accordance with Reddit’s Privacy Policy. Some information is collected automatically, while other information is collected at the user’s discretion.
+
+How long does Reddit store IP addresses?
+Reddit automatically deletes any IP addresses collected after 100 days, except for the IP address used to create an account (i.e., the registration IP address).
+
+What happens to a user’s information if their account is deleted?
+In accordance with our Privacy Policy, Reddit users may delete their account at any time. Deleted accounts cannot be reactivated, and the username is not available for re-use. More information regarding the account deletion process may be found in our account deletion Help Center article.
+
+What happens to a user’s posts/comments if their account has been deleted?
+Once a user has deleted their account, their username will be publicly disassociated with any posts or comments that were made while the account was active. Unless such content was removed before account deletion, the posts and comments will still be visible, but will no longer display the original poster’s username.
+
+What happens to other account information if their account has been deleted?
+Certain information about a user profile may be retained by Reddit as required by law or for legitimate business purposes. For more information, please visit our Privacy Policy. If you still have specific questions, please contact us via the Reddit Legal Request Portal.
+
+Data Controller
+For users who live in the United States or any other country outside of the European Economic Area, the data controller responsible for personal data is Reddit, Inc., based in San Francisco, California.  For users who live in the European Economic Area, the data controller is Reddit Netherlands B.V., based in Amsterdam, Netherlands.
+
+Preservation Requests
+In accordance with applicable law, Reddit will temporarily preserve account information (“records”) pending issuance of legal process for disclosure of that information. Preservation requests must meet all of the following requirements:
+
+Submitted to Reddit's Legal Request Portal
+Submitted on law enforcement letterhead and signed by the requesting officer/agent
+Properly Identifies the Reddit username(s) and the particular user records that are to be preserved, as well as the URL(s) of any relevant post(s)/comment(s)
+Identifies the timeframe for the records requested for preservation
+Is sent in PDF format (or other uneditable format)
+
+Preserved records are retained for 90 days by default. This preservation period may be extended for an additional 90 days via a written preservation extension request that meets the above requirements. If no extension request is received prior to expiration of the preservation period, the preserved data will be deleted in accordance with Reddit’s standard retention practice. Reddit strongly recommends that law enforcement submit an extension request at least seven days before the expiration of the prior preservation term. When submitting your extension request, please clearly identify the request as a preservation extension in the subject line of your correspondence (e.g., “Preservation Extension - u/username”).
+
+Will users be notified of a preservation request on their account?
+Not in the ordinary course; however, users may be notified of any subsequent legal process unless we are prohibited from doing so.
+
+Emergency Disclosure Requests for Account Information
+In accordance with applicable law and our Privacy Policy, Reddit may disclose limited account information to law enforcement without legal process if Reddit has a good faith belief that disclosure is necessary to prevent imminent death or serious bodily harm to a person.
+
+Reddit evaluates Emergency Disclosure Requests (EDRs) on a case-by-case basis and may request additional information to further contextualize the nature of the emergency, clarify overly-broad requests, or validate the identity of the law enforcement official making the request. Reddit does not commit to producing records under any set of circumstances or within a particular timeline.
+
+NOTE: Any falsified or fraudulent Emergency Disclosure Requests submitted by unauthorized parties may be reported to law enforcement.
+
+To submit an Emergency Disclosure Request, please complete the Emergency Disclosure Form on the Reddit Legal Request Portal.
+
+Non-Emergency Requests for Account Information
+Requests for account information must be directed to Reddit, Inc. in San Francisco, California, or Reddit Netherlands B.V. in Amsterdam, Netherlands. (For service instructions, see How to Submit Account Information Requests).
+
+Reddit may disclose account information in response to requests from law enforcement or government agencies only in accordance with or when required by applicable law. We generally attempt to provide users with prior notice before disclosing their information unless we are legally prohibited from doing so (more details may be found in the User Notice section below).
+
+Reddit carefully reviews all legal process and disclosure requests to ensure facial validity and legal sufficiency under applicable laws. Reddit will only disclose Basic Subscriber Information (see above) to law enforcement in response to a subpoena, court order, or other valid legal process, or in response to a valid Emergency Disclosure Request. Disclosure of other non-content records requires an 18 U.S.C. § 2703(d) order or equivalent legal process. Reddit will only disclose the Contents of Communications pursuant to a valid search warrant or as otherwise authorized by relevant law.
+
+Reddit also reviews all legal process and requests to ensure they are not objectionable for other reasons, such as requests that are vague or overbroad, seek privileged or confidential information, or where the circumstances give rise to concerns around the chilling of free speech or other human rights infringements.
+
+All requests for account information must be narrowly tailored and specifically identify the account(s) at issue by including the relevant u/username and the specific information sought.
+
+Please note: if your request relates to an emergency involving the imminent threat of death or serious physical injury to a person, please refer to our Emergency Disclosure Request procedure above.
+
+Mutual Legal Assistance Treaties
+Reddit may disclose account information in response to legally valid requests that are properly issued via the relevant international procedures for obtaining records, such as those set forth in any applicable Mutual Legal Assistance Treaty (MLAT) or letters rogatory, upon proper service of process.
+
+We actively monitor developments related to cross-border legal requests for user account information (e.g., U.S. CLOUD Act), and update our policies to comply with changes in applicable law and our Privacy Policy.
+
+How to Submit Account Information Requests
+Please submit all requests or legal process to the Reddit Legal Request Portal. This is the fastest and most efficient means of contacting Reddit regarding a government/law enforcement request for account information. Governmental requestors who do not submit their legal requests through this channel should expect delays in response time. Requests must be served in an uneditable format. All requests are reviewed and responded to in the order they are received.
+
+Requests and legal process may also be served on Reddit, Inc. via its registered agent:
+
+Reddit, Inc.
+c/o Corporation Service Company
+2710 Gateway Oaks Drive, Suite 150N
+Sacramento, CA, 95833
+
+Legal requests served in this manner must be addressed to Reddit, Inc. in San Francisco, California.
+
+Courtesy copies of requests or legal process addressed to Reddit, Inc. may be mailed to:
+
+Reddit, Inc.
+548 Market Street, #16093
+San Francisco, CA 94104-5401
+
+Requests and legal process for EEA account information may also be served on Reddit Netherlands B.V. by registered mail at its registered address:
+
+Reddit Netherlands B.V.
+Euro Business Center
+Keizersgracht 62, 1015CS
+Amsterdam
+
+Legal requests served in this manner must be addressed to Reddit Netherlands B.V. in Amsterdam, Netherlands.
+
+Please note: Reddit does not provide phone support. If you have any questions about submitting a request for account information, please contact us via the Reddit Legal Request Portal.
+
+User Notice
+Will users be notified of a request for their account information?
+Reddit will attempt to notify users about legal requests seeking disclosure of their account information, unless prohibited by law from doing so or under limited exceptions. Exceptions include exceptional emergency, exigent, or counterproductive circumstances (such as certain child safety or terrorism investigations) where Reddit may exercise its discretion to forgo user notice prior to production.
+
+Wherever possible, Reddit will try to provide affected users with a reasonable period of time to file an objection before producing responsive records. Where a statute or court order prohibits notice for a limited time period, Reddit attempts to provide notice upon expiration of that period. Non-disclosure orders should contain an expiration date; failure to include one may result in a processing delay.
+
+Production of Records
+Reddit provides responsive records in electronic format. In accordance with any applicable laws and regulations (e.g., 18 U.S.C. § 2706), reimbursement for the costs associated with production may be requested.
+
+Authentication of Records
+The records that Reddit produces are self-authenticating and should not require the testimony of a records custodian. If you would like Reddit to provide a form certification, please include the request for a certification with the legal process.
+
+Witness Testimony
+Reddit does not provide expert witness testimony and does not have witnesses on call who are available to testify.
+
+Content Removal Requests
+Law enforcement and government agencies may request the removal of content they believe may violate Reddit’s Content Policy or local law. Reddit scrutinizes each such request and may reject it for a variety of reasons, including (but not limited to) requests that are overbroad or inconsistent with international law, or that don’t otherwise violate Reddit’s Content Policy.
+
+All reported content is reviewed under our Content Policy, and any violations are actioned by the appropriate team. In situations where there are no underlying Content Policy violations, but the reported content is otherwise determined to violate local law(s), Reddit may restrict access to the content in the country where it is alleged to be illegal.
+
+If you are a law enforcement or government official and you wish to submit a content removal request, please submit your request to the Reddit Legal Request Portal with the following information:
+
+Please provide a link/URL to the specific content on Reddit that you would like us to review. If there is more than one piece of content on Reddit that you would like us to review, please provide a complete and accurate list of the allegedly violating content on Reddit and the corresponding URLs
+Please explain why you believe this content violates Reddit’s Content Policy and/or local law(s); If it’s the latter, please include the specific law(s) that you allege are being violated
+If you have a court order or some other legal documentation, please attach a legible copy to your request in PDF format (including an official translation into English, when applicable)
+Please include any other information or additional context that you think would help us review your request.
+Once in receipt of all of this information, the appropriate team will respond to you directly in due course. Failure to provide all of this information may result in a processing delay. Reddit does not commit to taking any specific action under any set of circumstances or within any particular timeline.
+
+European Union Terrorist Content Online Regulation
+If you are a designated EU competent authority and you wish to submit a removal order pursuant to the EU’s Terrorist Content Online Regulation (Regulation (EU) 2021/784) (TCOR), please email LETCO@reddit.com using the template provided in Annex I of the TCOR, and the appropriate Reddit team will review and respond in due course.
+
+For more information on how Reddit fights the dissemination of terrorist content, please see our Help Center.
+
+Reddit Netherlands B.V.
+Euro Business Center
+Keizersgracht 62, 1015CS
+Amsterdam
+
+EU Digital Services Act (DSA)
+If you are an authorized official representing an EU or member state authority and you wish to submit an order pursuant to the DSA (Regulation (EU) 2022/2065), or you have a general DSA-related inquiry, please review the following guidelines.
+
+Orders to disclose user information (issued by judicial or administrative authorities) should be submitted via the Reddit Legal Request Portal.
+
+Orders to remove illegal content (issued by judicial or administrative authorities) should be submitted via the Reddit Legal Request Portal.
+
+General DSA-related inquiries should be directed to our designated point of contact for authorities: dsa-authorities@reddit.com.
+
+Reddit Netherlands B.V.
+Euro Business Center
+Keizersgracht 62, 1015CS
+Amsterdam
+Email: dsa-authorities@reddit.com
+Phone: +1 415-494-8016
+
+Questions
+Law enforcement questions regarding these guidelines may be directed to the Reddit Legal Request Portal.
+
+Changes
+Reddit may change these Guidelines for Law Enforcement at any time, without prior notice.

@@ -1,0 +1,50 @@
+<think>
+Okay, let's tackle this. The user wants me to extract structured safety rules from Reddit's Previews Terms to test a moderation model. The goal is to find concrete policies that users shouldn't violate.
+
+First, I need to go through the document section by section. Let's start with the Eligibility part. Section 2 says users under 18, those in sanctioned countries, or with suspended accounts can't use features. So that's a clear rule: users must be 18+, not in sanctioned regions, and have good standing accounts.
+
+Next, the Reddit Vault sections. Section 3.2 mentions private keys and recovery phrases. Users must not share their Vault Access Info. Also, losing this info means losing access, so another rule about securing it.
+
+Section 3.4 talks about account suspension leading to loss of Vault access. So if an account is suspended, they can't access their Vault. That's another rule.
+
+Looking at Verified Digital Goods, section 4.2 says Collectible Avatars can't be used commercially. Users can't sell them outside the terms, and there's a royalty fee on resale. Also, transferring Avatars voids the license unless terms are followed. So rules about commercial use, resale royalties, and proper transfers.
+
+Section 4.4 mentions Third-Party Rights. Users can't use third-party IP without permission, so that's a rule. Also, if Reddit replaces Digital Art due to infringement, users must comply.
+
+Devvit Apps in section 5.1 require moderators to follow the Moderator Code of Conduct. So moderators must adhere to that when installing apps. Also, user interactions in Devvit Apps must follow Reddit's content policies.
+
+Section 5.3 says Devvit Apps must comply with privacy policies. Users should review these, but the rule here is that Developers must handle data as per Reddit's Privacy Policy.
+
+Section 8 has acknowledgments. Users can't use Econ Features for investments, transfer them without permission, or use them illegally. So rules against investment purposes, unauthorized transfers, and illegal activities.
+
+Section 9 lists risks, but the rules here are more about users assuming risks, so maybe not direct policies. However, the disclaimers in section 10 reinforce that Reddit isn't liable, but that's more a disclaimer than a user rule.
+
+Section 12's refund policy says purchases are final, but that's a policy, not a safety rule. The user's task is about what participants shouldn't do, so maybe not including refunds here.
+
+Putting it all together, each section has specific prohibitions or requirements. Need to list each as a separate rule, ensuring they're concrete and actionable. Check for overlaps and ensure each rule is distinct. Also, make sure each rule starts with a number and is concise.
+</think>
+
+Here are the structured safety policy rules extracted from the Reddit Previews Terms document:
+
+1. Users under 18 years old or below the legal age of contractual consent in their country cannot access features.  
+2. Users in sanctioned countries/regions or on prohibited parties lists are barred from feature access.  
+3. Accounts suspended/terminated or not in good standing lose eligibility to use features.  
+4. Private keys/recovery phrases for Reddit Vault must never be shared with anyone (including Reddit employees).  
+5. Users must secure Vault Access Info (private keys, recovery phrases, passwords) or risk permanent loss of Verified Digital Goods.  
+6. Verified Digital Goods cannot be used for commercial purposes without explicit authorization.  
+7. Collectible Avatars cannot be sold/transferred without honoring royalty fees (typically 5% of sale price).  
+8. Third-party intellectual property in Digital Good Art cannot be used beyond incorporated/licensed contexts.  
+9. Users must comply with additional restrictions if Reddit modifies/replaces Digital Good Art due to infringement risks.  
+10. Moderators installing Devvit Apps must adhere to Moderator Code of Conduct and Reddit Terms.  
+11. Interactions with Devvit Apps must comply with Reddit's content policies and Privacy Policy.  
+12. Devvit Apps collecting user data must follow Reddit's Privacy Policy requirements.  
+13. Reddit Econ Features cannot be portrayed/used as investments or financial instruments.  
+14. Unauthorized transfers/sales of Reddit Econ Features outside the Services are prohibited.  
+15. Users cannot engage in illegal activities (money laundering, fraud, etc.) with Verified Digital Goods.  
+16. Linking blockchain transactions to prohibited goods/services violates policies.  
+17. Developers offering Devvit Goods must provide clear terms of use and dispute resolution mechanisms.  
+18. Users assume all risks related to blockchain failures, transfer errors, and tax/legal consequences.  
+19. Reddit reserves the right to terminate/modify features without compensation for lost access.  
+20. Refunds are prohibited for Reddit Econ Features except where required by EEA/UK/Swiss law.  
+
+Each rule corresponds to explicit prohibitions/requirements from the document, focusing on eligibility, security, intellectual property, financial compliance, and usage restrictions.

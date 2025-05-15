@@ -1,0 +1,28 @@
+Policy Rationale
+We do not allow content that is designed to deceive, mislead, or overwhelm users in order to artificially increase viewership. This content detracts from people's ability to engage authentically on our platforms and can threaten the security, stability and usability of our services. We also seek to prevent abusive tactics, such as spreading deceptive links to draw unsuspecting users in through misleading functionality or code, or impersonating a trusted domain.
+
+Online spam is a lucrative industry. Our policies and detection must constantly evolve to keep up with emerging spam trends and tactics. In taking action to combat spam, we seek to balance raising the costs for its producers and distributors on our platforms, with protecting the vibrant, authentic activity of our community.
+
+We do not allow:
+Posting, sharing, engaging with content or creating accounts, Groups, Pages, Events or other assets, either manually or automatically, at very high frequencies.
+We may place restrictions on accounts that are acting at lower frequencies when other indicators of Spam (e.g., posting repetitive content) or signals of inauthenticity are present.
+Attempting to or successfully selling, buying, or exchanging platform assets, such as accounts, groups, pages, etc.
+Attempting to or successfully selling, buying, or exchanging site privileges, such as admin or moderator roles, or permission to post in specific spaces.
+Attempting to or successfully selling, buying, or exchanging content for something of monetary value, except clearly identified Branded Content, as defined by our Branded Content Policy.
+Attempting to or successfully selling, buying, or exchanging for engagement, such as likes, shares, views, follows, clicks, use of specific hashtags, etc. This includes:
+Offering giveaways (i.e., offering others a chance to win) of cash or cash equivalents in exchange for engagement. (e.g., “Anyone that likes my page will be entered to win $500”)
+Offering to provide anything of monetary value in exchange for engagement. (e.g., “If you like my page, I will give you an iPhone!”)
+Requiring or claiming that users are required to engage with content (e.g., liking, sharing) before they are able to view or interact with promised content.
+Sharing deceptive or misleading URLs, domains, or applications including:
+Cloaking: Cloaking is any attempt to circumvent our content policies by intentionally presenting different off-platform content, such as URLs or applications, to our integrity systems versus what is shown to users.
+Misleading Links: Content containing a link that promises one type of content but delivers something substantially different.This can include content in a promised app or software.
+Deceptive redirect behavior: Websites that require an action (e.g. captcha, watch ad, click here) in order to view the expected landing page content and the domain name of the URL changes after the required action is complete, or automatically redirects users to a substantially different domain without any user action.
+Like/share-gating: Requiring users to engage (in the form of likes, shares, follows, or any other public-facing form of engagement) to gain access to specific, exclusive content.
+Deceptive platform functionality - Mimicking the features or functionality of our services, such as mimicking fundraising, in-line polls, play buttons, or the Like button where that functionality does not exist or does not function as expected, in order to get a user to follow a link.
+Deceptive landing page functionality: Websites that have a misleading user interface, which results in accidental traffic being generated (e.g. pop-ups/unders, clickjacking, etc.).This includes tactics like trapping, where irrelevant pop-ups appear when a person attempts to leave the landing page.
+Landing page or domain impersonation - An off-platform landing page, URL, or external website or domain that pretends to be a reputable brand or service by using a name, domain or content that features typos, misspellings or other means to impersonate well-known websites, domains or brands using a landing page similar to another, trusted site.
+Other deceptive uses of URLs or links that are substantially similar to the above.
+Notwithstanding the above, we do not prohibit:
+Cross promotion that is not triggered by payment to a third party
+Transferring admin or moderation responsibilities for a page or group to another user based on their interest in the page or group, rather than an exchange of value.
+Posting or sharing clearly identified Branded Content.
