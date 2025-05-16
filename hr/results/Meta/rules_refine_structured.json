@@ -1,0 +1,40 @@
+{
+  "Respectful Workplace Conduct": [
+    "Do not harass, sexually harass, bully, insult, disparage, shame, or mock anyone.",
+    "Do not discriminate on the basis of any protected characteristic.",
+    "Do not threaten or commit acts of physical violence toward anyone.",
+    "Do not retaliate against anyone who raises a concern or participates in an investigation in good faith."
+  ],
+  "Substance Use & Alcohol": [
+    "Do not work or conduct company business while impaired by illegal drugs, controlled substances, or any substance that compromises safety or performance.",
+    "Do not pressure or encourage anyone to consume alcohol at work-related events or in connection with work."
+  ],
+  "Conflicts of Interest": [
+    "Do not allow personal relationships or family connections to influence, or appear to influence, your business decisions or provide them with improper benefits.",
+    "Do not decide on your own whether a conflict of interest exists; disclose the situation and use Meta’s conflicts tool or seek guidance."
+  ],
+  "Information Security & Data Privacy": [
+    "Do not take, retain, or remove Meta confidential or proprietary information when you leave the company or change roles.",
+    "Do not use, share, or disclose Meta confidential or proprietary information except for legitimate company business.",
+    "Do not make audio, video, or electronic recordings of Meta meetings, conversations, or workspaces without prior authorization.",
+    "Do not share competitively sensitive information with competitors without advance written approval from Legal."
+  ],
+  "Financial Integrity & Securities Compliance": [
+    "Do not buy, sell, or recommend securities based on material non-public information about Meta or any other company.",
+    "Do not falsify, alter, or misrepresent any company record, report, or financial transaction."
+  ],
+  "Anti-Bribery, Gifts & Improper Payments": [
+    "Do not offer, promise, give, or authorize bribes, kickbacks, or anything of value to improperly influence a business or government decision.",
+    "Do not solicit or accept bribes, kickbacks, or any other benefit intended to improperly influence your decisions.",
+    "Do not offer or accept cash, cash equivalents, or personal loans as gifts."
+  ],
+  "External Communications & Representation": [
+    "Do not speak to the media, investors, or the public on Meta’s behalf without prior authorization from Communications or Legal."
+  ],
+  "Trade Compliance": [
+    "Do not engage in transactions that violate international trade controls, sanctions, embargoes, or antiboycott laws."
+  ],
+  "Platform Integrity & Illicit Use": [
+    "Do not use Meta products or services for money laundering, terrorist financing, or any other illicit activity."
+  ]
+}

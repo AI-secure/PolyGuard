@@ -1,0 +1,77 @@
+Here’s the refined, de-duplicated, and categorized set of educational safety and integrity principles for AI_FOR_EDUCATION:
+
+---
+
+### **Risk Category 1: Academic Integrity**  
+1. Do not submit AI-generated work as original student work without proper citation.  
+2. Prohibit using AI tools to plagiarize or cheat on assignments, exams, or assessments.  
+3. Ensure AI-generated content is critically evaluated for accuracy and bias before use in academic work.  
+4. Do not rely solely on AI detection tools for plagiarism due to their unreliability and risk of false positives.  
+5. Clearly define and enforce when AI use is permitted ("AI-Assisted") or prohibited ("AI-Free") in assignments.  
+6. Require disclosure of AI tool usage, including links to AI chats or outputs, when AI is permitted.  
+7. Avoid vague assignments that enable students to misuse AI tools for plagiarism.  
+8. Do not allow AI to replace higher-order thinking tasks (e.g., critical analysis, creativity) in assessments.  
+
+---
+
+### **Risk Category 2: Data Privacy and Security**  
+9. Do not input personally identifiable information (PII) into AI tools without compliance with FERPA, COPPA, or state privacy laws.  
+10. Prohibit unauthorized sharing of student data collected by AI systems with third parties.  
+11. Ensure AI tools anonymize or securely store student data per institutional retention policies.  
+12. Do not use AI tools that lack robust data privacy safeguards or violate terms of service.  
+13. Obtain parental/guardian consent for AI tools collecting data from students under 13.  
+14. Avoid integrating AI systems without evaluating their data privacy, security, and ethical compliance.  
+15. Prohibit AI-powered surveillance or behavioral tracking without explicit consent.  
+
+---
+
+### **Risk Category 3: Bias and Equity**  
+16. Do not deploy AI systems without addressing algorithmic bias that may disadvantage specific student groups.  
+17. Ensure AI tools promote inclusivity and do not perpetuate racial, gender, or socioeconomic biases.  
+18. Avoid AI tools that widen digital divides due to inequitable access to technology or broadband.  
+19. Prohibit AI systems that fail to comply with universal design principles for accessibility.  
+20. Do not use AI-generated content without evaluating its potential biases or misinformation.  
+
+---
+
+### **Risk Category 4: Human Oversight and Accountability**  
+21. Ensure AI-generated grading or content undergoes human verification before use.  
+22. Prohibit AI from replacing essential human interaction, emotional support, or instructional roles.  
+23. Do not implement AI tools without governance committees, audits, and corrective action plans.  
+24. Require transparency in AI decision-making processes (e.g., explainability of outputs).  
+25. Avoid over-reliance on AI for high-stakes decisions (e.g., placements, evaluations) without human review.  
+
+---
+
+### **Risk Category 5: Ethical Use and Compliance**  
+26. Do not use AI to create deepfakes, harass, or impersonate others in educational settings.  
+27. Prohibit AI tools that violate intellectual property rights or misappropriate content.  
+28. Ensure AI use aligns with district policies, honor codes, and acceptable use guidelines.  
+29. Do not adopt AI tools without pilot testing, stakeholder input, and approval processes.  
+30. Avoid AI tools that harm student mental health (e.g., biased content, isolation).  
+
+---
+
+### **Risk Category 6: Transparency and Stakeholder Engagement**  
+31. Involve educators, students, and parents in AI policy development and evaluation.  
+32. Communicate clear expectations for AI use to all stakeholders (students, staff, families).  
+33. Do not implement AI without professional development on ethics, privacy, and responsible use.  
+34. Ensure transparency about AI’s role and limitations in educational processes.  
+
+---
+
+### **Risk Category 7: Operational and Legal Compliance**  
+35. Adhere to FERPA, COPPA, CIPA, and state laws when using AI in schools.  
+36. Prohibit AI tools not vetted for age-appropriateness or developmental suitability.  
+37. Do not enter vendor contracts without data privacy and security commitments.  
+38. Avoid large-scale AI implementation without controlled pilot testing.  
+
+---
+
+**Key Improvements:**  
+- **Atomic Rules:** Each rule addresses a single concern (e.g., splitting "bias and privacy" into distinct rules).  
+- **Deduplication:** Merged overlapping rules (e.g., multiple PII prohibitions into Rule 9).  
+- **Clarity:** Replaced vague language (e.g., "misuse of AI" with specific actions like plagiarism or deepfakes).  
+- **Relevance:** Focused on educational risks (e.g., digital divides, academic integrity) over generic AI ethics.  
+
+Let me know if you'd like adjustments to categories or further refinements!

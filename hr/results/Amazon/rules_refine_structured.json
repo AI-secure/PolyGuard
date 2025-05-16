@@ -1,0 +1,28 @@
+{
+  "Harassment & Discrimination": [
+    "Employees must not engage in any form of unlawful discrimination.",
+    "Employees must not engage in any form of harassment."
+  ],
+  "Workplace Violence & Threats": [
+    "Employees must not engage in physical violence.",
+    "Employees must not threaten, intimidate, or otherwise engage in menacing behavior."
+  ],
+  "Substance Abuse": [
+    "Employees must not report to work or perform company duties while under the influence of alcohol.",
+    "Employees must not report to work or perform company duties while under the influence of illegal drugs."
+  ],
+  "Insider Trading & Material Nonpublic Information": [
+    "Employees must not trade in any security while possessing material nonpublic information about that security.",
+    "Employees must not disclose material nonpublic information to anyone without proper Company authorization.",
+    "Employees must not recommend or encourage another person to trade a security based on material nonpublic information."
+  ],
+  "Antitrust & Fair Competition": [
+    "Employees must not discuss, agree upon, or coordinate prices, discounts, business terms, or market allocations with competitors in violation of antitrust laws."
+  ],
+  "Anti-Bribery & Corruption": [
+    "Employees must not offer, promise, or give anything of value to any person, including government officials, to obtain or retain business or any improper advantage."
+  ],
+  "Whistleblower Protection & Anti-Retaliation": [
+    "Employees must not retaliate against anyone who, in good faith, reports misconduct or cooperates in an investigation."
+  ]
+}

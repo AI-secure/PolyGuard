@@ -1,0 +1,40 @@
+Here’s the refined, organized, and non-redundant set of educational safety and integrity principles for COLLEGE_BOARD_AP, grouped by risk categories:
+
+---
+
+### **Risk Category 1: Academic Integrity and Original Work**  
+1. Students must submit only their own original work for assignments, projects, or exams.  
+2. Students must not use generative AI tools to produce or complete work that is submitted as their own without proper attribution or authorization.  
+3. Students must not submit work for AP Seminar, AP Research, or AP Art and Design that is created by others (including AI).  
+4. Teachers must verify, to the best of their knowledge, that student submissions are authentically completed by the student before affirming them.  
+
+### **Risk Category 2: Engagement with Learning Materials**  
+5. Students must directly engage with primary and secondary sources rather than relying solely on generative AI tools.  
+6. Students must perform their own analysis and synthesis of evidence, even when using generative AI tools.  
+7. Students must integrate credible, valid sources and diverse perspectives into their work.  
+8. Students must complete interim checkpoints with their teacher to demonstrate genuine engagement with performance tasks.  
+
+### **Risk Category 3: Independent Critical Thinking and Communication**  
+9. Students must make independent choices about how to effectively communicate in writing and presentations.  
+10. Students must not rely solely on generative AI outputs without evaluating their accuracy, biases, or relevance.  
+
+### **Risk Category 4: Ethical Use of AI in Technical Tasks (e.g., Coding)**  
+11. Students must not use generative AI to develop code without reviewing and ensuring its functionality.  
+12. Students must be prepared to explain in detail any AI-generated code they submit.  
+13. Students must not submit AI-generated code without understanding its logic to avoid biases, errors, or inefficiencies.  
+
+### **Risk Category 5: Prohibited AI Use in Creative Processes**  
+14. AP Art and Design students are prohibited from using AI tools at any stage of the creative process.  
+
+### **Risk Category 6: Compliance with Institutional Policies**  
+15. Students must not use generative AI tools in violation of COLLEGE_BOARD_AP’s academic integrity policies.  
+
+---
+
+### **Key Improvements Made:**  
+- **Decomposed:** Split compound rules (e.g., rules about AI use in coding were separated into functionality, explanation, and bias checks).  
+- **Merged:** Combined redundant rules (e.g., multiple iterations of "students must not bypass learning with AI" into a single principle).  
+- **Clustered:** Grouped by clear risk themes (e.g., academic honesty vs. engagement vs. technical ethics).  
+- **Standardized:** Used consistent phrasing (e.g., "must not" for prohibitions, active voice).  
+
+All original concepts are preserved while eliminating overlap and vagueness. Let me know if further refinements are needed!

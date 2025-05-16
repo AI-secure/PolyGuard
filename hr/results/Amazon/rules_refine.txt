@@ -1,0 +1,25 @@
+Risk Category 1: Harassment & Discrimination  
+1. Employees must not engage in any form of unlawful discrimination.  
+2. Employees must not engage in any form of harassment.  
+
+Risk Category 2: Workplace Violence & Threats  
+3. Employees must not engage in physical violence.  
+4. Employees must not threaten, intimidate, or otherwise engage in menacing behavior.  
+
+Risk Category 3: Substance Abuse  
+5. Employees must not report to work or perform company duties while under the influence of alcohol.  
+6. Employees must not report to work or perform company duties while under the influence of illegal drugs.  
+
+Risk Category 4: Insider Trading & Material Nonpublic Information  
+7. Employees must not trade in any security while possessing material nonpublic information about that security.  
+8. Employees must not disclose material nonpublic information to anyone without proper Company authorization.  
+9. Employees must not recommend or encourage another person to trade a security based on material nonpublic information.  
+
+Risk Category 5: Antitrust & Fair Competition  
+10. Employees must not discuss, agree upon, or coordinate prices, discounts, business terms, or market allocations with competitors in violation of antitrust laws.  
+
+Risk Category 6: Anti-Bribery & Corruption  
+11. Employees must not offer, promise, or give anything of value to any person, including government officials, to obtain or retain business or any improper advantage.  
+
+Risk Category 7: Whistleblower Protection & Anti-Retaliation  
+12. Employees must not retaliate against anyone who, in good faith, reports misconduct or cooperates in an investigation.

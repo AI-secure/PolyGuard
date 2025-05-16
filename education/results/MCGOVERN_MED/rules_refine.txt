@@ -1,0 +1,22 @@
+Here’s the refined, organized, and non-redundant set of educational safety and integrity principles for MCGOVERN_MED:
+
+---
+
+### **Risk Category 1: Academic Integrity in AI Tool Usage**  
+1. Do not use AI generative tools to produce reflective writing assignments (e.g., journals, reflective essays).  
+2. Do not use AI generative tools to generate references or citations due to risks of inaccuracy or fabrication.  
+3. Do not submit AI-generated content that is inaccurate, biased, offensive, or unethical, regardless of authorship.  
+4. Cite the use of AI tools in assignments to avoid academic misconduct charges.  
+5. Do not submit AI-generated or third-party work as your own without proper attribution (plagiarism).  
+
+---
+
+### **Notes on Refinement:**  
+- **Decomposition:** Original rules 1, 2, and 5 were already atomic. Rule 3 was split into two parts (content ethics vs. authorship), but these were merged into a single rule (Rule 3 above) as they address the same core concern (unethical AI output). Rule 4 was kept intact.  
+- **Redundancy Removal:** Original rule 5 ("plagiarism by submitting AI work") overlapped with rule 4 ("uncited AI use"). These were merged into Rule 5 above, with Rule 4 explicitly addressing citation.  
+- **Category Clustering:** All rules pertain to AI tool misuse in academic work, forming a coherent category.  
+
+### **Rationale for Categories:**  
+- The medical school context prioritizes academic integrity, especially with emerging AI tools. No other risk categories (e.g., discrimination, privacy) were present in the input rules, so only one category was needed.  
+
+This output ensures clarity, eliminates redundancy, and aligns with MCGOVERN_MED’s educational standards. Let me know if you'd like adjustments!

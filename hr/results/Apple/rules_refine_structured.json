@@ -1,0 +1,61 @@
+{
+  "Policy Compliance & Reporting": [
+    "Follow Apple’s Business Conduct Policy and all applicable laws.",
+    "Promptly report any known or suspected policy, legal, or regulatory violation."
+  ],
+  "Harassment, Discrimination & Workplace Violence": [
+    "Do not discriminate against or harass any employee, contractor, customer, or business partner.",
+    "Do not engage in any form of workplace violence, threats, or intimidation."
+  ],
+  "Substance Use & Fitness for Duty": [
+    "Do not manufacture, solicit, distribute, possess, or use illegal drugs at work or while conducting Apple business.",
+    "Do not work while under the influence of any substance that impairs performance or safety.",
+    "Follow Apple’s guidelines on alcohol, drugs, and smoking at workplaces, Apple-sponsored events, and during Apple business."
+  ],
+  "Confidential & Proprietary Information": [
+    "Do not disclose Apple confidential information without written authorization (e.g., an NDA).",
+    "Do not use Apple confidential information for any non-Apple or outside activity."
+  ],
+  "Intellectual Property & Technology Use": [
+    "Do not use or copy software, music, videos, publications, or other copyrighted content without a legal license or permission.",
+    "Obtain management and Legal approval before participating in external standards-setting activities on Apple’s behalf.",
+    "Obtain management and Legal approval before using, modifying, or distributing open-source software in Apple infrastructure or products."
+  ],
+  "Business Records & Contract Integrity": [
+    "Do not manipulate records, misstate facts, or omit material information in Apple business documents.",
+    "Do not make or accept side deals or side letters outside the formal contracting process managed by Legal."
+  ],
+  "External Communications & Representation": [
+    "Obtain prior approval from your manager and Corporate Communications before any public speaking engagement related to Apple products or services.",
+    "Do not endorse another company’s products or services in your capacity as an Apple employee without prior manager and Corporate Communications approval.",
+    "During personal political activity, do not make public statements that could reasonably be interpreted as being made on behalf of Apple."
+  ],
+  "Conflicts of Interest & Outside Activities": [
+    "Avoid any activity or relationship that creates an actual or perceived conflict of interest with Apple.",
+    "Do not conduct Apple business with family members or others with whom you have a significant personal relationship.",
+    "Do not use your Apple position to secure preferential treatment for yourself, family, or close associates.",
+    "Obtain prior management and Legal approval before accepting secondary employment or serving as a director, trustee, officer, or advisory-board member of an outside organization.",
+    "Do not use Apple assets, confidential information, or work time for outside activities.",
+    "Do not enroll in the Apple Developer Program or sell or distribute apps except when required for Apple business purposes and approved.",
+    "Operations employees involved in sourcing, contractual, financial, or capacity decisions must rotate roles at least every three years unless an approved exception is granted.",
+    "Do not invest in, or hold a financial interest in, any company that presents a conflict of interest with Apple."
+  ],
+  "Securities & Insider Trading": [
+    "Do not buy, sell, or recommend Apple securities or those of another company while in possession of material non-public information."
+  ],
+  "Anti-Bribery, Gifts & Corruption": [
+    "Do not offer, give, solicit, or accept any gift, payment, or advantage that is intended or could reasonably be perceived to influence a business decision, including dealings with public officials.",
+    "Do not offer or accept bribes or kickbacks in any form.",
+    "Do not make facilitating payments except when necessary to avoid an imminent threat to health or safety, and report any such payment immediately.",
+    "Do not participate in money-laundering or otherwise conceal the illegal origin of funds."
+  ],
+  "Fair Competition & Antitrust": [
+    "Do not enter into illegal or anti-competitive agreements or understandings with competitors."
+  ],
+  "Political Activities & Use of Resources": [
+    "Do not use Apple resources, including work time or equipment, to support personal political activities."
+  ],
+  "Workplace Privacy": [
+    "Do not share private personal information about coworkers or job candidates without their consent or a legal requirement."
+  ]
+}

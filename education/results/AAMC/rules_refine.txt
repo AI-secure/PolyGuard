@@ -1,0 +1,34 @@
+Given the input, the rules are primarily focused on **AI-based selection systems** in educational settings, particularly around **data privacy, fairness, and human oversight**. Below is the refined, non-redundant, and categorized set of principles:
+
+---
+
+### **Risk Category 1: Data Privacy and Security**  
+1. Collect only data essential for selection purposes.  
+2. Ensure compliance with privacy regulations when storing or analyzing applicant data.  
+3. Provide applicants the option to request removal of their data ("right to be forgotten").  
+4. Use enterprise-grade security for storing or processing applicant data.  
+5. Avoid sharing applicant data via personal or unsecured AI tools.  
+6. Contractually bind third-party vendors to institutional data protection policies.  
+
+### **Risk Category 2: Fairness and Bias Mitigation**  
+7. Avoid using low-quality or unrepresentative data in AI system development.  
+8. Conduct annual audits of AI systems to detect and address biases.  
+9. Pilot-test AI tools in low-stakes settings before full implementation.  
+
+### **Risk Category 3: Human Oversight and Transparency**  
+10. Maintain human judgment in AI-assisted selection processes; avoid full automation.  
+11. Do not modify data collection or evaluation methods mid-cycle; ensure consistency.  
+12. Disclose the use of AI in selection processes to applicants transparently.  
+
+---
+
+### **Key Improvements:**  
+- **Decomposition**: Split compound rules (e.g., "Do not store or analyze data without compliance" → Rules 2 and 4).  
+- **Merging**: Combined overlapping data security rules (e.g., enterprise-grade security and third-party vendor requirements).  
+- **Clustering**: Grouped rules into three clear categories:  
+  - **Data Privacy/Security** (handling applicant data).  
+  - **Fairness/Bias** (preventing discriminatory outcomes).  
+  - **Human Oversight** (ensuring accountability).  
+- **Standardization**: Used consistent, actionable language (e.g., "Avoid," "Ensure," "Provide").  
+
+Let me know if you'd like adjustments to categories or wording!

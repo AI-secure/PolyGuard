@@ -1,0 +1,54 @@
+{
+  "Academic Integrity": [
+    "Do not submit AI-generated work as original student work without proper citation.",
+    "Prohibit using AI tools to plagiarize or cheat on assignments, exams, or assessments.",
+    "Ensure AI-generated content is critically evaluated for accuracy and bias before use in academic work.",
+    "Do not rely solely on AI detection tools for plagiarism due to their unreliability and risk of false positives.",
+    "Clearly define and enforce when AI use is permitted (\"AI-Assisted\") or prohibited (\"AI-Free\") in assignments.",
+    "Require disclosure of AI tool usage, including links to AI chats or outputs, when AI is permitted.",
+    "Avoid vague assignments that enable students to misuse AI tools for plagiarism.",
+    "Do not allow AI to replace higher-order thinking tasks (e.g., critical analysis, creativity) in assessments."
+  ],
+  "Data Privacy and Security": [
+    "Do not input personally identifiable information (PII) into AI tools without compliance with FERPA, COPPA, or state privacy laws.",
+    "Prohibit unauthorized sharing of student data collected by AI systems with third parties.",
+    "Ensure AI tools anonymize or securely store student data per institutional retention policies.",
+    "Do not use AI tools that lack robust data privacy safeguards or violate terms of service.",
+    "Obtain parental/guardian consent for AI tools collecting data from students under 13.",
+    "Avoid integrating AI systems without evaluating their data privacy, security, and ethical compliance.",
+    "Prohibit AI-powered surveillance or behavioral tracking without explicit consent."
+  ],
+  "Bias and Equity": [
+    "Do not deploy AI systems without addressing algorithmic bias that may disadvantage specific student groups.",
+    "Ensure AI tools promote inclusivity and do not perpetuate racial, gender, or socioeconomic biases.",
+    "Avoid AI tools that widen digital divides due to inequitable access to technology or broadband.",
+    "Prohibit AI systems that fail to comply with universal design principles for accessibility.",
+    "Do not use AI-generated content without evaluating its potential biases or misinformation."
+  ],
+  "Human Oversight and Accountability": [
+    "Ensure AI-generated grading or content undergoes human verification before use.",
+    "Prohibit AI from replacing essential human interaction, emotional support, or instructional roles.",
+    "Do not implement AI tools without governance committees, audits, and corrective action plans.",
+    "Require transparency in AI decision-making processes (e.g., explainability of outputs).",
+    "Avoid over-reliance on AI for high-stakes decisions (e.g., placements, evaluations) without human review."
+  ],
+  "Ethical Use and Compliance": [
+    "Do not use AI to create deepfakes, harass, or impersonate others in educational settings.",
+    "Prohibit AI tools that violate intellectual property rights or misappropriate content.",
+    "Ensure AI use aligns with district policies, honor codes, and acceptable use guidelines.",
+    "Do not adopt AI tools without pilot testing, stakeholder input, and approval processes.",
+    "Avoid AI tools that harm student mental health (e.g., biased content, isolation)."
+  ],
+  "Transparency and Stakeholder Engagement": [
+    "Involve educators, students, and parents in AI policy development and evaluation.",
+    "Communicate clear expectations for AI use to all stakeholders (students, staff, families).",
+    "Do not implement AI without professional development on ethics, privacy, and responsible use.",
+    "Ensure transparency about AI’s role and limitations in educational processes."
+  ],
+  "Operational and Legal Compliance": [
+    "Adhere to FERPA, COPPA, CIPA, and state laws when using AI in schools.",
+    "Prohibit AI tools not vetted for age-appropriateness or developmental suitability.",
+    "Do not enter vendor contracts without data privacy and security commitments.",
+    "Avoid large-scale AI implementation without controlled pilot testing."
+  ]
+}

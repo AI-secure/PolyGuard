@@ -1,0 +1,40 @@
+1. Employees and Board members must not fail to follow the Code of Conduct, as it can result in disciplinary action, including termination of employment.
+2. Members of the extended workforce must not fail to follow the Code, as it can result in termination of their relationship with Google.
+3. Employees and extended workforce members must not neglect to complete required trainings in a timely fashion.
+4. Employees must not retaliate against any worker who reports or participates in an investigation of a possible violation of the Code, policies, or the law.
+5. Employees must not unlawfully discriminate or harass based on race, color, religion, veteran status, national origin, ancestry, pregnancy status, sex, gender identity or expression, age, marital status, mental or physical disability, medical condition, sexual orientation, or any other protected characteristics.
+6. Employees must not engage in harassment, discrimination, or bullying in any form – verbal, physical, or visual.
+7. Supervisors and managers must not fail to report incidents of bullying, harassment, or discrimination to Human Resources.
+8. Employees must not use illegal drugs in Google offices or at sponsored events.
+9. Employees must not consume alcohol in a way that impairs performance, leads to inappropriate behavior, endangers safety, or violates the law.
+10. Employees must not alter Google’s security procedures or use user personal information unauthorized.
+11. Employees must not engage in physical or verbal violence or threats in the workplace.
+12. Employees must not fail to report risks to health, safety, or security to Google Security or local emergency services if life-threatening.
+13. Employees must not ignore Google’s Data Classification Guidelines and Security Policy when handling confidential information.
+14. Employees must not disclose confidential information of Alphabet companies without obtaining appropriate sign-off from Legal.
+15. Employees must not disclose competitors' or former employers' confidential information.
+16. Employees must not interfere with the auditing of Google’s financial records.
+17. Employees must not falsify any Google records, including time reports, expense accounts, and other records.
+18. Employees must not use Google’s communication facilities for inappropriate purposes that could jeopardize security or confidentiality.
+19. Employees must not disclose confidential company information in outside communications without authorization.
+20. Employees must not use Google’s corporate electronic facilities for purely personal use.
+1. Employees and Board members must not violate the Google Code of Conduct, as failure to follow the Code can result in disciplinary action, including termination of employment.
+2. Members of the extended workforce must not ignore the Google Code of Conduct when working for Google, as it may result in termination of their relationship with Google.
+3. Employees must not retaliate against any worker who reports or participates in an investigation of a possible violation of Google’s Code, policies, or the law.
+4. Employees must not engage in any form of illegal drugs use or substance abuse within Google offices or at Google-sponsored events.
+5. Employees must not behave in a way that poses risk to the safety, health, or security of Googlers, the extended workforce, or visitors.
+6. Employees must not discriminate, harass, or bully in any form – verbal, physical, or visual.
+7. Managers must not fail to report incidents of bullying, harassment, or discrimination that they are aware of to Human Resources.
+8. Employees must not bring pets to the office without reviewing and following Google’s Dog Policy.
+9. Employees must not engage in romantic, physical, or familial relationships where one Googler has authority or supervision over the other.
+10. Employees must not use Google equipment, funds, or assets for personal use without approval from a manager or Human Resources.
+11. Employees must not agree with competitors about prices or market allocation.
+12. Employees must not engage in activities designed to harm a competitor unlawfully.
+13. Employees must not abuse intellectual property rights or use their market power to unfairly disadvantage competitors.
+14. Employees must not engage in insider trading by using non-public information to buy or sell stock or to pass it to others for doing so.
+15. Employees must not offer, give, or promise anything of value to influence government officials unlawfully.
+16. Employees must not disclose confidential Google information to unauthorized outside parties.
+17. Employees must not use Google’s network, equipment, or systems in ways that compromise security or violate policies.
+18. Employees must not ignore applicable legal requirements and prohibitions or engage in unlawful conduct.
+19. Employees must not spend Google’s money unwisely or without appropriate documentation and approval.
+20. Employees must not enter into contracts on behalf of Google without being authorized under the Signature Authority and Approval Policy.

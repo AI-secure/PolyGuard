@@ -1,0 +1,28 @@
+Here’s the refined and organized set of educational safety and integrity principles based on the provided rules:
+
+---
+
+### **Risk Category 1: Academic Integrity**  
+1. Submitting AI-generated work as original student work without proper attribution is prohibited.  
+2. Copying content from any source, including generative AI, without prior approval and adequate documentation is prohibited.  
+
+### **Risk Category 2: Digital Conduct and Non-Harassment**  
+3. Using AI tools to manipulate media for impersonation, bullying, harassment, or intimidation is strictly prohibited.  
+
+### **Risk Category 3: Educator and Student Privacy**  
+4. Using AI technologies to monitor classrooms (e.g., analyzing teacher-student interactions or tracking movements) without consent is prohibited.  
+5. Entering confidential or personally identifiable information into unauthorized AI tools is prohibited.  
+6. Using AI in ways that compromise teacher or student privacy or enable unauthorized data collection is prohibited.  
+
+### **Risk Category 4: Ethical AI Use in Education**  
+7. Using AI to supplant the role of human educators in instruction or student mentorship is prohibited.  
+
+---
+
+### **Key Improvements:**  
+- **Decomposition:** Rule 1 (original) was split into distinct concerns (impersonation vs. bullying/harassment), but since the original rule already combined these under "malicious intent," it was kept atomic.  
+- **Merging:** Rules 6 and 7 (original) were merged into a unified privacy principle (Rule 6 refined).  
+- **Clustering:** Categories reflect core educational risks (integrity, conduct, privacy, and ethical AI roles).  
+- **Wording:** Rules are now concise, specific, and free from redundancy (e.g., "original work by students" clarified to "without proper attribution").  
+
+Let me know if you'd like adjustments to category names or further granularity!

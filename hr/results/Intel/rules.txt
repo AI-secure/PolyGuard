@@ -1,0 +1,18 @@
+1. Employees must not violate the law, including laws related to antitrust, bribery, corruption, environmental standards, product safety, human rights, privacy, insider trading, global trade, and employment.
+2. Employees must not harass, bully, intimidate, or engage in threats or acts of violence toward others.
+3. Employees must not retaliate against anyone who speaks up in good faith or participates in an investigation.
+4. Employees must not misuse or steal Intel assets, confidential information, or those of Intel's business partners.
+5. Employees must not disclose confidential information entrusted to them without proper authorization.
+6. Employees must not trade on material, non-public information.
+7. Employees must not make business decisions influenced by family or friend relationships that may also benefit themselves, their family, or a friend.
+8. Employees must not have an ownership interest in an Intel supplier, customer, or competitor if it poses a conflict of interest.
+9. Employees must not have outside employment that interferes with their obligations to Intel.
+10. Employees must not mislead customers, suppliers, distributors, or each other.
+11. Employees must not falsify or misrepresent information in or about Intel's books and records.
+12. Employees must not engage in unfair competition.
+13. Employees must not offer, promise, or accept bribes or kickbacks.
+14. Employees must not make facilitation payments.
+15. Employees must not improperly influence government officials with gifts, meals, entertainment, or travel.
+16. Employees must not threaten anyone on Intel property or use, possess, sell, transfer, or distribute illegal drugs or controlled substances at work.
+17. Employees must not communicate with competitors about price, cost, terms of sale, production levels, allocation of markets, or other competitively sensitive information.
+18. Employees must not agree with competitors not to sell to or buy from another company.

@@ -1,0 +1,50 @@
+{
+  "Forced & Child Labor / Human Trafficking": [
+    "Using any form of forced, bonded, indentured, slave, or involuntary prison labor is strictly prohibited.",
+    "Participating in or facilitating human trafficking—including recruiting, transporting, harboring, transferring, providing, or receiving people through threat, force, coercion, abduction, or fraud—is strictly prohibited.",
+    "Procuring commercial sex acts is prohibited.",
+    "Employing anyone below the legal minimum working age or engaging in any form of child labor is prohibited."
+  ],
+  "Ethical Recruitment, Employment Terms & Worker Freedom": [
+    "Recruiters and hiring managers must not use fraudulent or misleading practices when offering employment.",
+    "Employment agents and recruiters must comply with all applicable local labor laws.",
+    "Charging any recruitment or hiring fees to employees or job candidates is prohibited.",
+    "Each employee must receive, in a language they understand, a written agreement detailing work conditions and wages before departing their home country.",
+    "Holding, destroying, concealing, or restricting workers’ access to their identity or immigration documents is prohibited; secure storage must be offered only at the worker’s request.",
+    "Penalizing, coercing, or otherwise preventing a worker from freely leaving employment is prohibited.",
+    "Legally required return transportation must be provided or paid for workers brought into a country for a specific contract.",
+    "Company-provided or arranged housing must meet all applicable health and safety standards.",
+    "Working hours, overtime, and rest periods must comply with or exceed all applicable local laws."
+  ],
+  "Harassment & Discrimination": [
+    "Discriminating in any employment decision on the basis of a characteristic protected by law (e.g., race, color, religion, sex, pregnancy, gender identity or expression, sexual orientation, age, disability, citizenship, genetic information, veteran status, or any other protected status) is prohibited.",
+    "Engaging in verbal, visual, or physical conduct—including slurs, epithets, derogatory jokes, or unwanted remarks—that creates an intimidating, hostile, or offensive work environment is prohibited.",
+    "Making unwanted sexual advances, requests for sexual favors, or other unwelcome verbal or physical conduct of a sexual nature is prohibited.",
+    "Conditioning employment benefits or threatening adverse action in exchange for sexual favors is prohibited.",
+    "Displaying or distributing derogatory, sexually explicit, or otherwise offensive materials in the workplace or through company communication channels is prohibited.",
+    "Intentionally misgendering or repeatedly using incorrect pronouns for a colleague is prohibited.",
+    "Disclosing an employee’s transgender status without a legitimate business need is prohibited.",
+    "Gossiping or making disparaging remarks about a colleague’s gender identity or expression is prohibited.",
+    "Managers must provide reasonable scheduling flexibility and other accommodations for employees undergoing gender transition, consistent with time-off policies."
+  ],
+  "Workplace Violence & Physical Safety": [
+    "Administering, threatening, or condoning physical punishment, violence, or intimidation against any person at work is prohibited."
+  ],
+  "Retaliation, Cooperation & Reporting": [
+    "Retaliating against anyone for raising a concern, reporting misconduct in good faith, or participating in an investigation is prohibited.",
+    "Failing to cooperate with, or knowingly providing false information during, an HR or compliance investigation is prohibited.",
+    "Employees, suppliers, and business partners must promptly report suspected violations of anti-trafficking, HR, or compliance policies through designated channels."
+  ],
+  "Privacy, Confidentiality & Compensation Transparency": [
+    "Disclosing personal or sensitive employee information without proper authorization or legitimate business need is prohibited.",
+    "Taking adverse action against employees for inquiring about, discussing, or disclosing compensation is prohibited, except where limited by job-related access to such data.",
+    "Employees who obtain compensation information through their job may disclose it only in response to a formal complaint, investigation, or other legal obligation."
+  ],
+  "Freedom of Association & Collective Bargaining": [
+    "Interfering with or repressing employees’ lawful rights to form or join trade unions, bargain collectively, or engage in peaceful assembly is prohibited."
+  ],
+  "Legal & Ethical Compliance": [
+    "Engaging in any illegal, unethical, or immoral business practice is prohibited.",
+    "Violating U.S. export control laws or other applicable trade restrictions on NVIDIA products is prohibited."
+  ]
+}

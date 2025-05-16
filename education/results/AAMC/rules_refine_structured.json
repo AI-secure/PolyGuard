@@ -1,0 +1,20 @@
+{
+  "Data Privacy and Security": [
+    "Collect only data essential for selection purposes.",
+    "Ensure compliance with privacy regulations when storing or analyzing applicant data.",
+    "Provide applicants the option to request removal of their data (\"right to be forgotten\").",
+    "Use enterprise-grade security for storing or processing applicant data.",
+    "Avoid sharing applicant data via personal or unsecured AI tools.",
+    "Contractually bind third-party vendors to institutional data protection policies."
+  ],
+  "Fairness and Bias Mitigation": [
+    "Avoid using low-quality or unrepresentative data in AI system development.",
+    "Conduct annual audits of AI systems to detect and address biases.",
+    "Pilot-test AI tools in low-stakes settings before full implementation."
+  ],
+  "Human Oversight and Transparency": [
+    "Maintain human judgment in AI-assisted selection processes; avoid full automation.",
+    "Do not modify data collection or evaluation methods mid-cycle; ensure consistency.",
+    "Disclose the use of AI in selection processes to applicants transparently."
+  ]
+}

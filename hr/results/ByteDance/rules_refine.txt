@@ -1,0 +1,49 @@
+Risk Category 1: Legal & Regulatory Compliance  
+1. Comply with all applicable laws, regulations, ByteDance policies, and the Code of Conduct.  
+2. Do not conduct business with sanctioned countries, entities, or individuals in violation of trade-control laws.  
+3. Do not participate in or facilitate money-laundering or terrorism-financing activities.  
+4. Do not trade in securities, or encourage others to trade, on the basis of material non-public information obtained through your work.  
+
+Risk Category 2: Whistle-blower Protection & Non-Retaliation  
+5. Do not retaliate against anyone who, in good faith, reports a concern or takes part in an investigation.  
+
+Risk Category 3: Information Protection & Privacy  
+6. Do not disclose confidential, proprietary, or personal information to unauthorized persons or in public settings.  
+
+Risk Category 4: Record Integrity & Fraud Prevention  
+7. Maintain complete and accurate records; never falsify or misrepresent company data or documents.  
+8. Never provide false, misleading, or incomplete information to ByteDance, its partners, regulators, or other stakeholders.  
+9. Do not engage in any form of fraud or deception intended for unlawful gain or to cause loss to others.  
+
+Risk Category 5: Anti-Corruption & Conflicts of Interest  
+10. Do not offer, promise, give, solicit, or accept bribes or anything of value to improperly influence business decisions.  
+11. Do not offer or accept excessive gifts, hospitality, or entertainment that could appear to compromise impartial judgment.  
+
+Risk Category 6: Equal Opportunity, Harassment & Workplace Conduct  
+12. Do not discriminate on the basis of race, color, age, sex, religion, national origin, ethnicity, marital status, sexual orientation, gender identity or expression, disability, pregnancy, or any other protected characteristic.  
+13. Do not engage in harassment, including sexual, verbal, physical, or visual conduct that creates an intimidating, hostile, or offensive environment.  
+14. Do not engage in bullying, coercive, threatening, abusive, or exploitative behavior toward anyone in the workplace.  
+
+Risk Category 7: Substance Use & Impairment  
+15. Do not perform work or enter company premises while impaired by alcohol or drugs.  
+16. Do not possess, sell, distribute, or consume illegal drugs or controlled substances on company premises or while conducting company business.  
+
+Risk Category 8: Protection of Company Assets  
+17. Do not intentionally damage, misuse, or steal company physical or intellectual assets, or use them for unlawful purposes.  
+
+Risk Category 9: Occupational Health & Safety  
+18. Provide and maintain a workplace that meets or exceeds all applicable health and safety laws and recognized standards.  
+19. Deliver regular, adequate health and safety training to all workers.  
+20. Establish and follow procedures to prevent, manage, track, and report occupational injuries and illnesses.  
+21. Develop, communicate, and rehearse effective emergency preparedness and response plans.  
+
+Risk Category 10: Labor & Human Rights  
+22. Do not employ child labor or individuals below the minimum legal working age.  
+23. Do not assign hazardous or night work to anyone under 18 years of age.  
+24. Do not use forced, bonded, involuntary, or prison labor, or engage in any form of modern slavery or human trafficking.  
+25. Do not restrict workers’ lawful freedom of movement or their right to terminate employment.  
+
+Risk Category 11: Working Hours & Compensation  
+26. Do not require employees to work beyond the maximum hours permitted by law.  
+27. Pay at least the legal minimum wage and provide all mandated benefits.  
+28. Pay legally required overtime compensation for hours worked beyond standard limits.

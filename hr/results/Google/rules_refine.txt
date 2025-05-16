@@ -1,0 +1,53 @@
+Risk Category 1: Ethics & Code Compliance  
+1. All employees, Board members, and extended-workforce personnel must comply with Google’s Code of Conduct.  
+2. All workers must complete mandatory training by the assigned deadlines.  
+3. Workers must comply with all applicable laws and Google policies at all times.  
+4. Workers must not retaliate against anyone who raises a concern or participates in an investigation.  
+5. Supervisors and managers must promptly report suspected policy, Code, or legal violations to Human Resources or another designated channel.  
+
+Risk Category 2: Equal Employment Opportunity & Respectful Workplace  
+6. Workers must not discriminate against anyone on the basis of protected characteristics.  
+7. Workers must not harass, bully, or engage in other unwelcome conduct—verbal, physical, or visual.  
+8. Supervisors and managers must immediately report any discrimination, harassment, or bullying they witness or learn about to Human Resources.  
+
+Risk Category 3: Workplace Health, Safety & Violence Prevention  
+9. Workers must not possess or use illegal drugs on Google premises or at company events.  
+10. Workers must not consume alcohol in a manner that impairs performance, causes inappropriate behavior, endangers safety, or violates the law.  
+11. Workers must not engage in or threaten physical or verbal violence.  
+12. Workers must not engage in any conduct that endangers the health, safety, or security of Googlers, extended-workforce members, or visitors.  
+13. Workers must immediately report serious health, safety, or security risks to Google Security or local emergency services.  
+14. Workers may bring pets to the office only after reviewing and complying with Google’s Dog Policy.  
+
+Risk Category 4: Personal Relationships & Conflicts of Interest  
+15. Workers must not enter romantic, familial, or other close personal relationships in which one party has direct or indirect authority over the other.  
+
+Risk Category 5: Confidentiality & Information Security  
+16. Workers must not alter, bypass, or disable Google security controls or procedures.  
+17. Workers must access, use, and share user personal information only when properly authorized and for legitimate business purposes.  
+18. Workers must classify, store, and transmit information in accordance with Google’s Data Classification Guidelines and Security Policies.  
+19. Workers must not disclose Google or Alphabet confidential information outside the company without prior authorization from Legal.  
+20. Workers must not disclose a competitor’s or former employer’s confidential information.  
+21. Workers must use Google networks, systems, and communication facilities only for authorized purposes and in ways that do not compromise security or confidentiality.  
+
+Risk Category 6: Company Assets & Resource Use  
+22. Workers must not use Google equipment, funds, or other assets for personal purposes without prior managerial or HR approval.  
+23. Personal use of Google electronic facilities must be incidental and compliant with policy; facilities may not be used primarily for non-business activities.  
+
+Risk Category 7: Financial Integrity & Recordkeeping  
+24. Workers must not falsify, misstate, or omit information in Google records, including time reports, expense accounts, or any other documents.  
+25. Workers must not interfere with or obstruct audits, reviews, or investigations of Google’s financial records.  
+26. Workers must spend and record Google funds only with appropriate documentation, approval, and for legitimate business purposes.  
+
+Risk Category 8: Contracting & Signature Authority  
+27. Workers may not enter into contracts or commitments on Google’s behalf unless authorized under the Signature Authority and Approval Policy.  
+
+Risk Category 9: Fair Competition & Antitrust  
+28. Workers must not agree with competitors on prices, market allocation, or other anti-competitive terms.  
+29. Workers must not engage in unlawful activities intended to harm competitors.  
+30. Workers must not misuse intellectual property rights or Google’s market position to unfairly disadvantage competitors.  
+
+Risk Category 10: Securities & Insider Trading  
+31. Workers must not trade, or encourage others to trade, in securities based on material non-public information about Google or any other company.  
+
+Risk Category 11: Anti-Corruption & Government Dealings  
+32. Workers must not offer, promise, or give anything of value to government officials to improperly influence official action.

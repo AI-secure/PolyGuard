@@ -1,0 +1,18 @@
+1. Students must not bypass their learning by unauthorized use of generative AI tools.
+2. Individual Student Projects must not be the work of anyone other than the student.
+3. Students are prohibited from using generative AI tools to avoid engaging directly with primary and secondary sources.
+4. Students must not neglect their responsibility to perform their own analysis and synthesis of evidence.
+5. Students must not evade their obligation to make independent choices on how to effectively communicate in their presentations.
+1. The use of artificial intelligence tools by AP Art and Design students is prohibited at any stage of the creative process.
+1. Students must not submit work for AP Seminar and AP Research that is not their own.
+2. Students must not use generative AI tools to bypass the learning process or avoid performing and submitting their own work.
+3. Students must not fail to read primary and secondary sources directly when using generative AI tools.
+4. Students must not neglect performing their own analysis and synthesis of evidence when using generative AI tools.
+5. Students must not avoid making their own choices on effective communication in writing and presentations when using generative AI tools.
+6. Students must not disregard engaging deeply with credible, valid sources and integrating diverse perspectives in their work.
+7. Students must not fail to complete interim checkpoints with their teacher to demonstrate genuine engagement with performance tasks.
+8. Teachers must not affirm student submissions without being confident, to the best of their knowledge, that the work is authentically completed by the student.
+9. Students must not use generative AI inappropriately or in violation of academic integrity policies set by the College Board.
+1. Students are prohibited from using generative AI tools to develop code without reviewing and ensuring the code's functionality.
+2. Students must not rely solely on generative AI outputs without personal evaluation and understanding of the code to avoid introducing biases, errors, or inefficiencies.
+3. Students are forbidden from submitting code generated with AI tools without being prepared to explain it in detail.

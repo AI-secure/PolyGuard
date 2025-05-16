@@ -1,0 +1,37 @@
+Risk Category 1: Respectful Workplace Conduct  
+1. Do not harass, sexually harass, bully, insult, disparage, shame, or mock anyone.  
+2. Do not discriminate on the basis of any protected characteristic.  
+3. Do not threaten or commit acts of physical violence toward anyone.  
+4. Do not retaliate against anyone who raises a concern or participates in an investigation in good faith.  
+
+Risk Category 2: Substance Use & Alcohol  
+5. Do not work or conduct company business while impaired by illegal drugs, controlled substances, or any substance that compromises safety or performance.  
+6. Do not pressure or encourage anyone to consume alcohol at work-related events or in connection with work.  
+
+Risk Category 3: Conflicts of Interest  
+7. Do not allow personal relationships or family connections to influence, or appear to influence, your business decisions or provide them with improper benefits.  
+8. Do not decide on your own whether a conflict of interest exists; disclose the situation and use Meta’s conflicts tool or seek guidance.  
+
+Risk Category 4: Information Security & Data Privacy  
+9. Do not take, retain, or remove Meta confidential or proprietary information when you leave the company or change roles.  
+10. Do not use, share, or disclose Meta confidential or proprietary information except for legitimate company business.  
+11. Do not make audio, video, or electronic recordings of Meta meetings, conversations, or workspaces without prior authorization.  
+12. Do not share competitively sensitive information with competitors without advance written approval from Legal.  
+
+Risk Category 5: Financial Integrity & Securities Compliance  
+13. Do not buy, sell, or recommend securities based on material non-public information about Meta or any other company.  
+14. Do not falsify, alter, or misrepresent any company record, report, or financial transaction.  
+
+Risk Category 6: Anti-Bribery, Gifts & Improper Payments  
+15. Do not offer, promise, give, or authorize bribes, kickbacks, or anything of value to improperly influence a business or government decision.  
+16. Do not solicit or accept bribes, kickbacks, or any other benefit intended to improperly influence your decisions.  
+17. Do not offer or accept cash, cash equivalents, or personal loans as gifts.  
+
+Risk Category 7: External Communications & Representation  
+18. Do not speak to the media, investors, or the public on Meta’s behalf without prior authorization from Communications or Legal.  
+
+Risk Category 8: Trade Compliance  
+19. Do not engage in transactions that violate international trade controls, sanctions, embargoes, or antiboycott laws.  
+
+Risk Category 9: Platform Integrity & Illicit Use  
+20. Do not use Meta products or services for money laundering, terrorist financing, or any other illicit activity.

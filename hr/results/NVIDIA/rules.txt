@@ -1,0 +1,60 @@
+The provided document does not include any explicit rules or statements regarding prohibited actions or behaviors that violate workplace safety or HR conduct standards. The text is focused on NVIDIA's Responsible Minerals Policy related to the sourcing of minerals and does not contain HR or employee conduct rules that specify prohibited actions in the workplace. Therefore, no rules meeting the criteria of your request can be extracted from this document.
+1. Engaging in or supporting any form of trafficking in persons is prohibited.
+2. Procuring commercial sex acts is prohibited.
+3. Using forced, bonded, indentured, slave, or involuntary prison labor is prohibited.
+4. Transporting, harboring, recruiting, transferring, providing, or receiving persons by means of threat, force, coercion, abduction, or fraud for labor or services is prohibited.
+5. Holding or otherwise destroying, concealing, confiscating, or denying access by employees to employees’ identity or immigration documents is prohibited.
+6. Using fraudulent or misleading practices during recruitment or the offering of employment is prohibited.
+7. Using employment recruiters who violate local labor laws of the country where the recruitment takes place is prohibited.
+8. Charging employees recruitment fees is prohibited.
+9. Failing to provide return transportation or pay for the costs of such transportation for certain employees brought into a country to work on a particular contract, subject to limited exceptions, is prohibited.
+10. Providing or arranging housing that fails to meet relevant standards for housing and safety is prohibited.
+11. Failing to provide employees, prior to departure from their country of origin, a written work document containing specified information, including information regarding work and wages in a language the employee understands, is prohibited.
+1. Employees must not engage in child labor.
+2. Employees must not engage in forced, bonded, or indentured labor.
+3. Employees must not engage in involuntary prison labor.
+4. Employees must not engage in slavery.
+5. Employees must not engage in trafficking of persons.
+6. Employees must not engage in or partake in administering physical punishment.
+7. Employees must not participate in prohibited acts of trafficking or related activities.
+8. Employees must not retain workers' documents and passports without providing a safe storage option.
+9. Suppliers must not charge hiring fees to employees.
+10. Employees and business partners must report any activity inconsistent with the Combatting Trafficking in Persons Policy to the Compliance Committee.
+11. Suppliers must not penalize employees for leaving prior to specified time periods.
+The provided document focuses on NVIDIA's Ontario Multi-Year Accessibility Plan and provides guidelines regarding accessibility for persons with disabilities. It does not specifically list explicit rules about prohibited behaviors in the workplace related to HR and employee conduct standards. Thus, there's no direct information in the document to extract specific HR-related rules that prohibit certain behaviors.
+
+For identifying prohibited behaviors related to HR and conduct standards, please refer to NVIDIA’s general HR policies, employee handbook, or code of conduct documents that specifically address workplace behavior and conduct expectations. If you have such a document, I can help analyze it to extract prohibited actions.
+1. Do not engage in child labor, forced, bonded, or indentured labor, involuntary prison labor, slavery, trafficking of persons, or physical punishment.
+2. Do not discriminate against or harass individuals in the workplace.
+3. Do not retaliate against individuals in the workplace.
+4. Do not disclose personal information and data without authorization.
+5. Do not violate applicable laws related to working hours and work weeks, ensuring they meet or exceed local laws.
+6. Do not engage in illegal, unethical, or immoral business practices.
+7. Do not ignore U.S. export control laws and all applicable restrictions on the sale, distribution, and use of NVIDIA products.
+8. Do not repress the right of employees to form and join trade unions, to bargain collectively, or to engage in peaceful assembly as defined by local laws.
+9. Do not retaliate against anyone for making a complaint in good faith, bringing potential violations to management's attention, or participating in investigations.
+1. Employees must not discriminate against or harass transgender or gender non-conforming individuals based on gender identity and expression.
+2. Employees must not disclose the transgender status of a colleague unless there is a clear need-to-know, respecting confidentiality.
+3. Employees must not engage in gossip or make disparaging remarks about transgender or non-gender conforming employees.
+4. Managers must not fail to provide flexibility for transitioning employees to meet their needs for appointments, consistent with NVIDIA's time off policies.
+5. Employees must not intentionally use the wrong pronouns for a transitioning coworker once the preferred pronouns have been established.
+1. Discrimination against any individual on the basis of any characteristic protected by applicable law, such as ancestry, age, citizenship, color, disability, genetic information, gender identity, military status, political belief, race, religion, sex, or sexual orientation, is strictly prohibited.
+2. Harassment that creates an intimidating, hostile, or offensive work environment, unreasonably interferes with an individual's work performance, or adversely affects an individual's employment opportunities is prohibited.
+3. Verbal harassment, including epithets, derogatory jokes or comments, slurs, unwelcome remarks about an individual’s body, color, physical characteristics, or appearance, or unwanted sexual advances, is prohibited.
+4. Visual or written harassment, such as derogatory and/or sexually oriented text messages, emails, tweets, posters, photographs, cartoons, drawings, or gestures, is prohibited.
+5. Threatening, intimidating, or hostile acts that relate to a protected characteristic are prohibited.
+6. Physical harassment, including assault, leering at a person’s body, unwelcome physical contact, or impeding or blocking normal movement, is prohibited.
+7. Making unwanted sexual advances, propositions, or requests, and unwelcome comments in the workplace regarding sex, sexual orientation, gender identity, or gender expression, is prohibited.
+8. Engaging in unwanted physical conduct such as touching or assaulting another person or impeding or intentionally blocking another person’s movements, is prohibited.
+9. Conditioning employment benefits like a raise, promotion, or career assistance on sexual favors is prohibited.
+10. Threatening an adverse employment action, such as termination, demotion, or disciplinary action, for refusal of a request for a sexual favor, is prohibited.
+11. Creating an offensive, intimidating, or hostile working environment by touching another person in an inappropriate manner, leering, making sexual gestures, displaying sexually suggestive objects, pictures, cartoons or posters, making graphic verbal comments about a person's body, or using sexually degrading words, is prohibited.
+12. Writing or distributing suggestive or obscene letters, notes, emails, text messages, instant messages, tweets, or internet postings is prohibited.
+13. Retaliation against any individual for making a good faith report of discrimination, harassment, or retaliation, indicating an intention to report such conduct, or for participating in an investigation under this policy, is prohibited.
+14. Failing to cooperate with or deliberately providing false information during an investigation into an alleged discrimination, harassment, or retaliation is prohibited.
+1. Do not discriminate against any employee or applicant for employment on the basis of race, color, religion, sex (including pregnancy), marital or protected veteran status, age, national origin, ancestry, physical or mental disability, genetic information, medical condition, sexual orientation, gender, gender identity, gender expression, transgender status, or any other characteristic protected by law.
+2. Do not subject employees or applicants for employment to harassment on any of the bases identified above.
+3. Do not engage in harassment, intimidation, threats, coercion, discrimination, or retaliation because an employee or applicant has objected to discrimination or engaged in legally protected activities.
+4. Do not discharge or discriminate against employees or applicants for inquiring, discussing, or disclosing their own pay or the pay of another employee or applicant, with exceptions for those who have access to such compensation information through their essential job functions.
+5. Employees who have access to the compensation information of other employees or applicants as part of their essential job functions cannot disclose such information to individuals without access unless it is in response to a formal complaint or charge, in furtherance of an investigation, proceeding, hearing, or action, or consistent with a legal duty to furnish information.
+6. Any employee determined to have violated the EEO policy will be subjected to appropriate action, up to and including termination.

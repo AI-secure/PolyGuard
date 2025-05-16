@@ -1,0 +1,37 @@
+1. Users must not use or access CSU information assets in a manner that conflicts with the CSU mission.
+2. Users must not violate applicable laws, regulations, contractual agreements, CSU/campus policies or standards when using CSU information assets.
+3. Users must not cause damage to or impair CSU information assets or the productivity of CSU users through intentional, negligent, or reckless action.
+4. Users must not introduce harmful software, such as viruses, into CSU computing and networking systems.
+5. Users must not knowingly disable automated update services configured on CSU computers unless appropriately authorized.
+6. Users must not provide access or transmit Level 1 or Level 2 data to another user without prior approval from the data owner or custodian.
+7. Users must not access or transmit unencrypted Level 1 data over a public network.
+8. Users must not browse, monitor, alter, or access email messages or stored files in another user's account unless specifically authorized by the user.
+9. Users must not use a password-protected account to access, modify, or destroy CSU or non-CSU information assets without authorization.
+10. Users must not disclose passwords to any party or include passwords in documentation.
+11. Users must not embed passwords in software code.
+12. Users must not transfer or provide access to CSU information assets to outside individuals or groups without proper authorization.
+13. Users must not purposefully misrepresent their identity, either directly or by implication, with the intent of using false identities for inappropriate purposes.
+14. Users must not use a state-owned or state-leased computer to access, view, download, or otherwise obtain obscene matter, except for legitimate law enforcement, administrative investigation, or legitimate medical, scientific, or academic purposes.
+15. Personal use of CSU information assets must not violate applicable laws.
+16. Personal use of CSU information assets must not be in pursuit of the individual's private financial gain or advantage.
+17. Personal use of CSU information assets must not interfere with the operation or maintenance of University information assets.
+18. Personal use of CSU information assets must not interfere with the use of University information assets by others.
+19. Personal use of CSU information assets must not interfere with the performance of the assigned duties of a university employee.
+20. Personal use of CSU information assets must not result in a loss to the University.
+Based on the provided section of the document:
+
+1. It is prohibited to disseminate AI-generated content without vetting it for inaccuracy, deception, or fabrication.
+1. Do not input confidential information (Levels 1 & 2) into generative AI tools that are publicly accessible.
+2. Do not assume that any data shared with publicly accessible AI tools under standard settings is secure; it may risk disclosure of sensitive or proprietary details.
+3. Do not prevent, prohibit, or inhibit the sanctioned use of information assets needed to meet CSU's core mission and campus academic and administrative goals.
+4. Do not utilize information technology facilities, applications, hardware systems, and network resources owned or managed by the CSU in a manner that is non-conformant with CSU policies.
+5. Do not allow auxiliaries, external businesses, and organizations to use campus Information Assets in a manner that does not conform with CSU policy.
+6. Do not interfere with the CSU's right to limit access to its Information Assets or to use appropriate means to safeguard its data and preserve network and information system integrity.
+7. Do not obstruct the CSU's activities related to monitoring communications across campus network services, actions on campus information systems, or the security of information systems attached to the campus network.
+8. Avoid using information systems that have become a security hazard or have security vulnerabilities that could harm the network.
+1. Do not create or contribute to the creation of phishing attempts.
+2. Do not create or manipulate content to produce deepfakes.
+3. Report any suspicious activities related to phishing or deepfakes to the campus help desk.
+Based on the provided document excerpt about CSU’s policies regarding the use of AI services, the explicit rule for prohibited behavior is as follows:
+
+1. All use of AI services must comply with the CSU Responsible Use Policy, prohibiting any non-compliant usage of AI services that do not adhere to this policy.

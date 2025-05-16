@@ -1,0 +1,58 @@
+Here’s the refined, organized, and non-redundant set of educational safety and integrity principles for CSU, grouped by risk categories:
+
+---
+
+### **Risk Category 1: Data Security and Privacy**  
+1. Do not access, transmit, or store unencrypted Level 1 data over public networks.  
+2. Do not provide access to or transmit Level 1 or 2 data to unauthorized users without approval from the data owner/custodian.  
+3. Do not input confidential information (Levels 1 & 2) into publicly accessible generative AI tools.  
+4. Do not browse, monitor, alter, or access another user’s email, files, or accounts without explicit authorization.  
+5. Do not assume data shared with publicly accessible AI tools is secure; it may risk disclosure of sensitive/proprietary details.  
+6. Do not disclose passwords to any party or embed them in software code or documentation.  
+
+---
+
+### **Risk Category 2: System Integrity and Malicious Activity**  
+7. Do not introduce harmful software (e.g., viruses) into CSU computing/networking systems.  
+8. Do not disable automated update services on CSU computers without authorization.  
+9. Do not use information systems with known security vulnerabilities that could harm the network.  
+10. Do not create or contribute to phishing attempts or deepfake content.  
+11. Report suspicious activities (e.g., phishing, deepfakes) to the campus help desk.  
+
+---
+
+### **Risk Category 3: Unauthorized Access and Misrepresentation**  
+12. Do not use password-protected accounts to access, modify, or destroy CSU/non-CSU data without authorization.  
+13. Do not transfer CSU information assets to external individuals/groups without proper authorization.  
+14. Do not misrepresent your identity (directly or by implication) for inappropriate purposes.  
+
+---
+
+### **Risk Category 4: Appropriate Use of CSU Resources**  
+15. Personal use of CSU information assets must not violate laws, interfere with university operations, or result in financial loss to CSU.  
+16. Personal use must not pursue private financial gain, hinder others’ use of resources, or impair employee duties.  
+17. Do not use state-owned computers to access obscene material unless for legitimate law enforcement, academic, or medical purposes.  
+18. Do not use CSU information assets in ways conflicting with CSU’s mission or policies.  
+
+---
+
+### **Risk Category 5: Compliance with Policies and Monitoring**  
+19. All AI service use must comply with the CSU Responsible Use Policy.  
+20. Do not prevent sanctioned use of information assets required for CSU’s core mission.  
+21. Do not interfere with CSU’s right to limit access or safeguard data/network integrity.  
+22. Do not obstruct CSU’s monitoring of communications/actions on campus networks/systems.  
+
+---
+
+### **Risk Category 6: Academic and Ethical Integrity**  
+23. Do not disseminate AI-generated content without vetting for inaccuracy, deception, or fabrication.  
+
+---
+
+**Key Improvements:**  
+- **Decomposed** compound rules (e.g., original Rule 3 split into atomic rules).  
+- **Merged redundancies** (e.g., password handling rules unified under Data Security).  
+- **Clustered by risk** (e.g., separated "System Integrity" from "Data Privacy").  
+- **Standardized language** for clarity and consistency (e.g., "Do not" instead of "Users must not").  
+
+Each rule is now atomic, non-redundant, and mapped to a distinct educational risk category relevant to CSU’s AI-involved academic environment.

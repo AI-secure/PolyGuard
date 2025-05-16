@@ -1,0 +1,35 @@
+1. Employees are prohibited from failing to comply with Apple’s Business Conduct Policy and all applicable legal requirements.
+2. Employees must not fail to report a policy, regulatory, or legal violation at Apple.
+3. Employees are not permitted to manufacture, solicit, distribute, possess, or use any illegal drugs or substances in the workplace or while working.
+4. Employees are prohibited from being under the influence of any legal or illegal drug that impairs their ability to perform their job.
+5. Employees must not tolerate discrimination or harassment of employees or non-employees with whom Apple has a business, service, or professional relationship.
+6. Employees are prohibited from violating Apple’s guidelines regarding alcohol, drugs, and smoking at the workplace, Apple-sponsored events, or while conducting Apple business.
+7. Employees must not engage in workplace violence of any kind.
+8. Employees must not divulge Apple Confidential Information unless a Non-Disclosure Agreement (NDA) is in place.
+9. Employees must not manipulate Apple business records, misstate business facts, or omit critical business information to mislead others.
+10. Employees are prohibited from making or accepting side deals or side letters outside the formal contracting process managed by Legal.
+11. Employees are forbidden to use or copy software, music, videos, publications, or other copyright-protected content unless legally permitted.
+12. Employees are not authorized to participate in standards-related activities without securing management and Legal approval.
+13. Employees must not use, modify, or distribute open-source software for Apple infrastructure or as part of an Apple product without management and Legal approval.
+14. Employees are prohibited from public or outside speaking engagements relating to Apple’s products or services without prior approval from their manager and Corporate Communications.
+15. Employees must not endorse products or services of another business as an Apple employee without approval from their manager and Corporate Communications.
+16. Employees must avoid any situation that creates a real or perceived conflict of interest.
+17. Employees must not conduct Apple business with family members or others with whom they have a significant personal relationship.
+18. Employees are prohibited from using Apple positions to obtain favored treatment for themselves, family members, or others with whom they have a personal relationship.
+19. Employees must not participate in outside activities that present a conflict of interest, including secondary employment or serving on boards, without Legal review and approval.
+20. Employees are prohibited from using any Apple assets or working time for any outside activity.
+21. Employees are not allowed to use Apple Confidential Information for outside activities.
+22. Employees must not join the Developer Program or sell or distribute apps unless required for Apple business purposes.
+23. Employees must not serve as a director, trustee, officer, or advisory board member without prior approval from Apple.
+24. Employees in Operations must not influence sourcing, contractual, financial, or capacity decisions without rotating positions every three years, unless an exception is approved.
+25. Employees must not invest in companies that present a conflict of interest with Apple.
+26. Employees must not engage in insider trading, including buying or selling Apple securities when aware of non-public material information.
+27. Employees are prohibited from giving or accepting gifts meant to influence a business decision.
+28. Employees must not offer or receive any gifts or payments that could appear to influence a decision-making process, especially those involving public officials.
+29. Employees are not allowed to offer or receive bribes or kickbacks in any form.
+30. Employees must not make facilitating payments unless done under circumstances that involve an imminent threat to health or safety, and these must be reported.
+31. Employees are prohibited from participating in money laundering activities.
+32. Employees must not engage in illegal agreements with competitors.
+33. Employees are prohibited from making public comments that could be misconstrued as being made on behalf of Apple during personal political activities.
+34. Employees must not use Apple resources, such as work time or equipment, for political activities.
+35. Employees must not share private personal information of coworkers or prospective employees without permission or legal need.

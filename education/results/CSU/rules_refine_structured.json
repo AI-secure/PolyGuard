@@ -1,0 +1,37 @@
+{
+  "Data Security and Privacy": [
+    "Do not access, transmit, or store unencrypted Level 1 data over public networks.",
+    "Do not provide access to or transmit Level 1 or 2 data to unauthorized users without approval from the data owner/custodian.",
+    "Do not input confidential information (Levels 1 & 2) into publicly accessible generative AI tools.",
+    "Do not browse, monitor, alter, or access another user’s email, files, or accounts without explicit authorization.",
+    "Do not assume data shared with publicly accessible AI tools is secure; it may risk disclosure of sensitive/proprietary details.",
+    "Do not disclose passwords to any party or embed them in software code or documentation."
+  ],
+  "System Integrity and Malicious Activity": [
+    "Do not introduce harmful software (e.g., viruses) into CSU computing/networking systems.",
+    "Do not disable automated update services on CSU computers without authorization.",
+    "Do not use information systems with known security vulnerabilities that could harm the network.",
+    "Do not create or contribute to phishing attempts or deepfake content.",
+    "Report suspicious activities (e.g., phishing, deepfakes) to the campus help desk."
+  ],
+  "Unauthorized Access and Misrepresentation": [
+    "Do not use password-protected accounts to access, modify, or destroy CSU/non-CSU data without authorization.",
+    "Do not transfer CSU information assets to external individuals/groups without proper authorization.",
+    "Do not misrepresent your identity (directly or by implication) for inappropriate purposes."
+  ],
+  "Appropriate Use of CSU Resources": [
+    "Personal use of CSU information assets must not violate laws, interfere with university operations, or result in financial loss to CSU.",
+    "Personal use must not pursue private financial gain, hinder others’ use of resources, or impair employee duties.",
+    "Do not use state-owned computers to access obscene material unless for legitimate law enforcement, academic, or medical purposes.",
+    "Do not use CSU information assets in ways conflicting with CSU’s mission or policies."
+  ],
+  "Compliance with Policies and Monitoring": [
+    "All AI service use must comply with the CSU Responsible Use Policy.",
+    "Do not prevent sanctioned use of information assets required for CSU’s core mission.",
+    "Do not interfere with CSU’s right to limit access or safeguard data/network integrity.",
+    "Do not obstruct CSU’s monitoring of communications/actions on campus networks/systems."
+  ],
+  "Academic and Ethical Integrity": [
+    "Do not disseminate AI-generated content without vetting for inaccuracy, deception, or fabrication."
+  ]
+}

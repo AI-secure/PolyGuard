@@ -1,0 +1,41 @@
+Risk Category 1: Workplace Respect, Violence & Substance-Abuse Prevention  
+1. Do not harass, bully, or intimidate anyone at work.  
+2. Do not threaten or commit acts of violence on Intel property or while conducting Intel business.  
+3. Do not possess, use, sell, transfer, or distribute illegal drugs or controlled substances in the workplace.  
+
+Risk Category 2: Non-Retaliation & Speaking Up  
+4. Never retaliate against anyone who raises concerns or participates in an investigation in good faith.  
+
+Risk Category 3: Protection of Assets & Confidentiality  
+5. Do not misuse or steal Intel or partner physical or digital assets.  
+6. Protect confidential information; do not access, copy, remove, misuse, or disclose it without proper authorization.  
+
+Risk Category 4: Insider Trading & Securities Compliance  
+7. Do not buy, sell, or recommend securities based on material non-public information learned through Intel.  
+
+Risk Category 5: Conflicts of Interest  
+8. Do not allow personal relationships to influence Intel business decisions.  
+9. Avoid ownership interests in Intel suppliers, customers, or competitors that create a conflict of interest.  
+10. Do not take outside employment or other activities that interfere with your duties to Intel.  
+
+Risk Category 6: Integrity in Communications & Records  
+11. Never mislead customers, suppliers, distributors, or colleagues.  
+12. Do not falsify or misrepresent information in Intel’s books, records, or reporting.  
+
+Risk Category 7: Anti-Bribery & Government Relations  
+13. Never offer, promise, or accept bribes or kickbacks.  
+14. Do not make facilitation payments.  
+15. Do not attempt to improperly influence government officials with gifts, meals, entertainment, or travel.  
+
+Risk Category 8: Fair Competition & Antitrust  
+16. Compete fairly; do not engage in unfair or deceptive competitive practices.  
+17. Do not share price, cost, production, market allocation, or other competitively sensitive information with competitors.  
+18. Do not agree with competitors to refuse to buy from or sell to another company.  
+
+Risk Category 9: Legal & Regulatory Compliance  
+19. Comply with environmental laws and standards in all business activities.  
+20. Ensure Intel products meet applicable product-safety regulations.  
+21. Respect and uphold internationally recognized human rights.  
+22. Safeguard personal data and comply with all privacy laws.  
+23. Follow global trade controls, including export, import, and sanctions regulations.  
+24. Adhere to applicable employment laws and labor standards.

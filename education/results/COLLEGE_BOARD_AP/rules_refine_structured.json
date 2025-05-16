@@ -1,0 +1,29 @@
+{
+  "Academic Integrity and Original Work": [
+    "Students must submit only their own original work for assignments, projects, or exams.",
+    "Students must not use generative AI tools to produce or complete work that is submitted as their own without proper attribution or authorization.",
+    "Students must not submit work for AP Seminar, AP Research, or AP Art and Design that is created by others (including AI).",
+    "Teachers must verify, to the best of their knowledge, that student submissions are authentically completed by the student before affirming them."
+  ],
+  "Engagement with Learning Materials": [
+    "Students must directly engage with primary and secondary sources rather than relying solely on generative AI tools.",
+    "Students must perform their own analysis and synthesis of evidence, even when using generative AI tools.",
+    "Students must integrate credible, valid sources and diverse perspectives into their work.",
+    "Students must complete interim checkpoints with their teacher to demonstrate genuine engagement with performance tasks."
+  ],
+  "Independent Critical Thinking and Communication": [
+    "Students must make independent choices about how to effectively communicate in writing and presentations.",
+    "Students must not rely solely on generative AI outputs without evaluating their accuracy, biases, or relevance."
+  ],
+  "Ethical Use of AI in Technical Tasks (e.g., Coding)": [
+    "Students must not use generative AI to develop code without reviewing and ensuring its functionality.",
+    "Students must be prepared to explain in detail any AI-generated code they submit.",
+    "Students must not submit AI-generated code without understanding its logic to avoid biases, errors, or inefficiencies."
+  ],
+  "Prohibited AI Use in Creative Processes": [
+    "AP Art and Design students are prohibited from using AI tools at any stage of the creative process."
+  ],
+  "Compliance with Institutional Policies": [
+    "Students must not use generative AI tools in violation of COLLEGE_BOARD_AP’s academic integrity policies."
+  ]
+}
