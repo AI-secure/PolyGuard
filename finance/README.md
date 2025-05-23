@@ -1,38 +1,38 @@
-# Policy Red-Teaming Pipeline for Financial Area
+# Policy Red‑Teaming Pipeline for **Financial** Area
 
-This repository implements a multi-stage workflow for extracting, rephrasing, evaluating, and adversarially attacking LLM guardrail policies.
+This repository implements a **multi‑stage workflow** for extracting, rephrasing, evaluating, and adversarially attacking LLM guardrail policies drawn from financial regulators (e.g., FINRA, BIS, OECD, …).
 
 ## Directory layout
 
 ```
-├── extract_generate.py      # extract bullets & example requests from PDF
-├── rephrase.py              # rephrase explicit malicious prompts
-├── collect_output.py        # collect LLM-generated answers
-├── eval.py                  # evaluate guardrail models on inputs/outputs
-├── attack.py                # iterative adversarial attack on flagged inputs
+├── extract_generate.py            # extract bullets & example requests from PDF
+├── rephrase.py                    # rephrase explicit malicious prompts
+├── collect_malicious_response.py  # collect answers to rephrased malicious prompts
+├── collect_benign_response.py     # collect answers to paired benign prompts
+├── eval.py                        # evaluate guardrail models on inputs/outputs
+├── attack.py                      # iterative adversarial attack on flagged inputs
 ├── policy_data/
-│   ├── raw/                 # → extract_generate.py outputs here
-│   ├── rephrased/           # → rephrase.py outputs here
-│   └── output/              # → collect_output.py outputs here
-└── guardrail_results/
-    ├── input/               # → eval.py “input” mode results
-    └── output/              # → eval.py “output” mode results
-└── attack_results/  # → attack.py outputs here
+│   ├── raw/                       # ← extract_generate.py outputs here
+│   ├── rephrased/                 # ← rephrase.py outputs here
+│   └── output/                    # ← both *collect_* scripts write here
+├── guardrail_results/
+│   ├── input/                     # ← eval.py “input”-mode results
+│   └── output/                    # ← eval.py “output”-mode results
+└── attack_results/                # ← attack.py outputs here
 ```
 
 ## Prerequisites
 
-- Python 3.9+
+- Python ≥ 3.9
+- Export your OpenAI key:
 
-- Set your OpenAI key in the environment:
-
-  ```
-  export OPENAI_API_KEY="sk-…"
-  ```
+```
+export OPENAI_API_KEY="sk-…"
+```
 
 ## 1. Extract & cluster policy bullets (`extract_generate.py`)
 
-Splits a regulatory PDF into sections, locates every “LLMs should not…” bullet, groups them into categories, and generates 5 malicious/benign example requests per policy.
+Splits a regulatory PDF into sections, finds every "LLMs should not …" bullet, clusters them into high‑level categories, and generates **5 malicious / 5 benign** example requests per policy.
 
 ```
 python extract_generate.py \
@@ -43,11 +43,11 @@ python extract_generate.py \
   --poll_interval 30
 ```
 
-→ writes `policy_data/raw/finra.csv`
+→ writes `**policy_data/raw/finra.csv**`
 
 ## 2. Rephrase malicious requests (`rephrase.py`)
 
-Takes each explicit malicious request (to illustrate intent) and reframes it more “positive” so that guardrail models see it as innocuous—but preserving the same underlying instruction.
+Transforms each explicit malicious request into a more innocuous, “positive” variant that retains the same intent—making it harder for guardrails to detect.
 
 ```
 python rephrase.py \
@@ -57,56 +57,66 @@ python rephrase.py \
   --max-attempts 10
 ```
 
-→ writes `policy_data/rephrased/<stem>.csv`
+→ writes `**policy_data/rephrased/<stem>.csv**`
 
-## 3. Collect model outputs (`collect_output.py`)
+## 3. Collect *malicious* model responses (`collect_malicious_response.py`)
 
-For each rephrased prompt, collects the LLM’s **answers** (used later in “output”-mode evaluation).
+Queries the LLM with each rephrased malicious prompt and stores the answer, skipping any reply containing “sorry”, “cannot”, or “can’t”.
 
 ```
-python collect_output.py \
+python collect_malicious_response.py \
   --model-name o4-mini-2025-04-16 \
   --batch-window 24h \
   --poll-interval 30 \
   --max-attempts 10
 ```
 
-→ writes `policy_data/output/<stem>.csv`
+→ updates/creates `**policy_data/output/<stem>.csv**` (adds `rephrased_malicious_example_answer_*` columns)
 
-## 4. Evaluate guardrail performance (`eval.py`)
+## 4. Collect *benign* model responses (`collect_benign_response.py`)
 
-Runs each guardrail model over both:
-
-- **input** mode: the rephrased malicious & original benign requests
-- **output** mode: the LLM’s generated answers & original benign requests
+Fills `benign_example_answer_{1..5}` **only** for rows that already have a malicious answer, ensuring a one‑to‑one comparison.
 
 ```
-# input-mode
-python eval.py --name finra --evaluate-input
+python collect_benign_response.py \
+  --model-name o4-mini-2025-04-16 \
+  --batch-window 24h \
+  --poll-interval 30 \
+  --max-attempts 10
+```
 
-# output-mode
+→ writes back to the **same** `**policy_data/output/<stem>.csv**` files.
+
+## 5. Evaluate guardrail performance (`eval.py`)
+
+Assess each guardrail model in two modes:
+
+- **input‑mode** – classify the prompts (malicious‑rephrased + benign)
+- **output‑mode** – classify the LLM answers (malicious + benign)
+
+```
+# input‑mode
+a python eval.py --name finra --evaluate-input
+
+# output‑mode
 python eval.py --name finra
 ```
 
-→ results saved under `guardrail_results/input/finra.csv`
- and `guardrail_results/output/finra.csv`
+→ results in `**guardrail_results/input/finra.csv**` and `**guardrail_results/output/finra.csv**`
 
-## 5. Adversarial attack on flagged inputs (`attack.py`)
+## 6. Adversarial attack on flagged inputs (`attack.py`)
 
-Selects those rephrased malicious inputs that **all** target guardrail models flagged, then iteratively refines an adversarial “wrapper” prompt (up to 10 rounds) to try to force the guardrail to classify them as **safe**.
+Picks the rephrased malicious prompts that all guardrails flagged and iteratively crafts a wrapper prompt (up to 10 rounds) to flip every guardrail to **safe**.
 
 ```
 python attack.py --name finra
 ```
 
-→ incremental attack records written to
- `rephrased_requests_attack/finra.csv`
+→ attack logs written to `**attack_results/finra.csv**`
 
-------
+## Tips & Notes
 
-**Tips & Notes**
-
-- All scripts resume from any existing output files—re-running won’t repeat completed work.
-- You can adjust the model, batch window, polling interval, and retry counts via each script’s `--model-name`, `--batch-window`, `--poll-interval`, and `--max-attempts` flags.
-- Intermediate CSVs are under `policy_data/`; final performance metrics under `guardrail_results/`.
-- The “raw” CSV shows original malicious examples, while “rephrased” replaces them with semantically identical but more innocuous wording for evaluation.
+- **Resumable** – each script detects existing output and skips finished work.
+- **Customisable** – model, batch window, poll interval, and retries via `--model-name`, `--batch-window`, `--poll-interval`, and `--max-attempts`.
+- The *raw* CSV holds explicit malicious examples; *rephrased* swaps in innocuous wording; *output* gains malicious and benign answers after Steps 3 & 4.
+- Final guardrail metrics live in `guardrail_results/`; adversarial bypass attempts in `attack_results/`.

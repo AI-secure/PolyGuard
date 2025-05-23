@@ -115,14 +115,20 @@ def main():
                             ])
                             col = ans_col
                         else:
-                            col = f"benign_example_{i}"
-                            prompt = row.get(col, "")
-                            if not isinstance(prompt, str) or not prompt.strip():
+                            user_col = f"benign_example_{i}"
+                            ans_col  = f"benign_example_answer_{i}"
+                            user  = row.get(user_col, "")
+                            reply = row.get(ans_col, "")
+                            if not isinstance(reply, str) or not reply.strip():
                                 continue
-                            resp = model.moderate(prompt)
+                            resp = model.moderate([
+                                {"role": "user",      "content": user},
+                                {"role": "assistant", "content": reply}
+                            ])
+                            col = ans_col
 
                     flagged = bool(getattr(resp, "flagged", False))
-                    print(f"[{model_id}][row {row_index}][{col}]: flagged={flagged}")
+                    print(f"[{model_id}][row {row_index}]: flagged={flagged}")
                     all_results.append({
                         "model_index": model_index,
                         "model_id":    model_id,
