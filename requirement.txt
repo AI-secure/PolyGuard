@@ -42,3 +42,6 @@ urllib3==2.3.0
 uvicorn==0.34.0
 wheel==0.45.1
 zipp==3.21.0
+torch>=2.0.0
+PyMuPDF==1.23.26
+setGPU==0.0.1
